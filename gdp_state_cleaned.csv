@@ -1,0 +1,1905 @@
+series,date,state,sector,value,year
+abs,01/01/2015,Johor,Overall GDP,110002.221,2015
+abs,01/01/2015,Johor,Agriculture,15610.314,2015
+abs,01/01/2015,Johor,Mining & Quarrying,475.64,2015
+abs,01/01/2015,Johor,Manufacturing,32358.659,2015
+abs,01/01/2015,Johor,Construction,7269.16,2015
+abs,01/01/2015,Johor,Services,53058.447,2015
+abs,01/01/2015,Johor,Import Duties,1230.001,2015
+abs,01/01/2015,Kedah,Overall GDP,39549.581,2015
+abs,01/01/2015,Kedah,Agriculture,5423.368,2015
+abs,01/01/2015,Kedah,Mining & Quarrying,83.056,2015
+abs,01/01/2015,Kedah,Manufacturing,11427.051,2015
+abs,01/01/2015,Kedah,Construction,862.638,2015
+abs,01/01/2015,Kedah,Services,21465.109,2015
+abs,01/01/2015,Kedah,Import Duties,288.359,2015
+abs,01/01/2015,Kelantan,Overall GDP,21407.736,2015
+abs,01/01/2015,Kelantan,Agriculture,5101.864,2015
+abs,01/01/2015,Kelantan,Mining & Quarrying,229.021,2015
+abs,01/01/2015,Kelantan,Manufacturing,1147.468,2015
+abs,01/01/2015,Kelantan,Construction,444.65,2015
+abs,01/01/2015,Kelantan,Services,14454.747,2015
+abs,01/01/2015,Kelantan,Import Duties,29.985,2015
+abs,01/01/2015,Melaka,Overall GDP,36077.257,2015
+abs,01/01/2015,Melaka,Agriculture,4141.42,2015
+abs,01/01/2015,Melaka,Mining & Quarrying,43.988,2015
+abs,01/01/2015,Melaka,Manufacturing,14068.303,2015
+abs,01/01/2015,Melaka,Construction,947.012,2015
+abs,01/01/2015,Melaka,Services,16810.973,2015
+abs,01/01/2015,Melaka,Import Duties,65.56,2015
+abs,01/01/2015,Negeri Sembilan,Overall GDP,40185.677,2015
+abs,01/01/2015,Negeri Sembilan,Agriculture,3235.335,2015
+abs,01/01/2015,Negeri Sembilan,Mining & Quarrying,165.377,2015
+abs,01/01/2015,Negeri Sembilan,Manufacturing,15678.075,2015
+abs,01/01/2015,Negeri Sembilan,Construction,1339.339,2015
+abs,01/01/2015,Negeri Sembilan,Services,18950.586,2015
+abs,01/01/2015,Negeri Sembilan,Import Duties,816.964,2015
+abs,01/01/2015,Pahang,Overall GDP,49449.712,2015
+abs,01/01/2015,Pahang,Agriculture,11665.23,2015
+abs,01/01/2015,Pahang,Mining & Quarrying,1311.294,2015
+abs,01/01/2015,Pahang,Manufacturing,10416.952,2015
+abs,01/01/2015,Pahang,Construction,2105.062,2015
+abs,01/01/2015,Pahang,Services,23884.728,2015
+abs,01/01/2015,Pahang,Import Duties,66.445,2015
+abs,01/01/2015,Perak,Overall GDP,63175.555,2015
+abs,01/01/2015,Perak,Agriculture,10351.594,2015
+abs,01/01/2015,Perak,Mining & Quarrying,354.095,2015
+abs,01/01/2015,Perak,Manufacturing,11190.469,2015
+abs,01/01/2015,Perak,Construction,2578.368,2015
+abs,01/01/2015,Perak,Services,38627.926,2015
+abs,01/01/2015,Perak,Import Duties,73.103,2015
+abs,01/01/2015,Perlis,Overall GDP,5352.875,2015
+abs,01/01/2015,Perlis,Agriculture,1161.077,2015
+abs,01/01/2015,Perlis,Mining & Quarrying,31.698,2015
+abs,01/01/2015,Perlis,Manufacturing,458.197,2015
+abs,01/01/2015,Perlis,Construction,193.228,2015
+abs,01/01/2015,Perlis,Services,3414.264,2015
+abs,01/01/2015,Perlis,Import Duties,94.412,2015
+abs,01/01/2015,Pulau Pinang,Overall GDP,78146.215,2015
+abs,01/01/2015,Pulau Pinang,Agriculture,2083.789,2015
+abs,01/01/2015,Pulau Pinang,Mining & Quarrying,124.145,2015
+abs,01/01/2015,Pulau Pinang,Manufacturing,33596.784,2015
+abs,01/01/2015,Pulau Pinang,Construction,2711.965,2015
+abs,01/01/2015,Pulau Pinang,Services,38917.261,2015
+abs,01/01/2015,Pulau Pinang,Import Duties,712.27,2015
+abs,01/01/2015,Sabah,Overall GDP,73776.128,2015
+abs,01/01/2015,Sabah,Agriculture,14816.807,2015
+abs,01/01/2015,Sabah,Mining & Quarrying,18207.153,2015
+abs,01/01/2015,Sabah,Manufacturing,6265.78,2015
+abs,01/01/2015,Sabah,Construction,2446.413,2015
+abs,01/01/2015,Sabah,Services,31754.571,2015
+abs,01/01/2015,Sabah,Import Duties,285.404,2015
+abs,01/01/2015,Sarawak,Overall GDP,121585.277,2015
+abs,01/01/2015,Sarawak,Agriculture,16987.941,2015
+abs,01/01/2015,Sarawak,Mining & Quarrying,29852.444,2015
+abs,01/01/2015,Sarawak,Manufacturing,32128.287,2015
+abs,01/01/2015,Sarawak,Construction,3842.61,2015
+abs,01/01/2015,Sarawak,Services,38369.702,2015
+abs,01/01/2015,Sarawak,Import Duties,404.294,2015
+abs,01/01/2015,Selangor,Overall GDP,268824.995,2015
+abs,01/01/2015,Selangor,Agriculture,4075.799,2015
+abs,01/01/2015,Selangor,Mining & Quarrying,498.594,2015
+abs,01/01/2015,Selangor,Manufacturing,75537.402,2015
+abs,01/01/2015,Selangor,Construction,16674.165,2015
+abs,01/01/2015,Selangor,Services,163967.04,2015
+abs,01/01/2015,Selangor,Import Duties,8071.995,2015
+abs,01/01/2015,Terengganu,Overall GDP,31124.445,2015
+abs,01/01/2015,Terengganu,Agriculture,2764.756,2015
+abs,01/01/2015,Terengganu,Mining & Quarrying,145.627,2015
+abs,01/01/2015,Terengganu,Manufacturing,11296.446,2015
+abs,01/01/2015,Terengganu,Construction,903.75,2015
+abs,01/01/2015,Terengganu,Services,15965.109,2015
+abs,01/01/2015,Terengganu,Import Duties,48.757,2015
+abs,01/01/2015,W.P. Kuala Lumpur,Overall GDP,180864.541,2015
+abs,01/01/2015,W.P. Kuala Lumpur,Agriculture,0,2015
+abs,01/01/2015,W.P. Kuala Lumpur,Mining & Quarrying,117.469,2015
+abs,01/01/2015,W.P. Kuala Lumpur,Manufacturing,5641.072,2015
+abs,01/01/2015,W.P. Kuala Lumpur,Construction,12915.189,2015
+abs,01/01/2015,W.P. Kuala Lumpur,Services,159751.802,2015
+abs,01/01/2015,W.P. Kuala Lumpur,Import Duties,2437.469,2015
+abs,01/01/2015,W.P. Labuan,Overall GDP,5999.225,2015
+abs,01/01/2015,W.P. Labuan,Agriculture,118.109,2015
+abs,01/01/2015,W.P. Labuan,Mining & Quarrying,0,2015
+abs,01/01/2015,W.P. Labuan,Manufacturing,1168.465,2015
+abs,01/01/2015,W.P. Labuan,Construction,148.418,2015
+abs,01/01/2015,W.P. Labuan,Services,4490.305,2015
+abs,01/01/2015,W.P. Labuan,Import Duties,73.928,2015
+abs,01/01/2016,Johor,Overall GDP,116682.227,2016
+abs,01/01/2016,Johor,Agriculture,15029.966,2016
+abs,01/01/2016,Johor,Mining & Quarrying,569.326,2016
+abs,01/01/2016,Johor,Manufacturing,34121.545,2016
+abs,01/01/2016,Johor,Construction,8978.486,2016
+abs,01/01/2016,Johor,Services,56266.132,2016
+abs,01/01/2016,Johor,Import Duties,1716.772,2016
+abs,01/01/2016,Kedah,Overall GDP,41155.715,2016
+abs,01/01/2016,Kedah,Agriculture,5202.482,2016
+abs,01/01/2016,Kedah,Mining & Quarrying,95.702,2016
+abs,01/01/2016,Kedah,Manufacturing,11933.93,2016
+abs,01/01/2016,Kedah,Construction,997.847,2016
+abs,01/01/2016,Kedah,Services,22603.916,2016
+abs,01/01/2016,Kedah,Import Duties,321.838,2016
+abs,01/01/2016,Kelantan,Overall GDP,22475.73,2016
+abs,01/01/2016,Kelantan,Agriculture,5287.474,2016
+abs,01/01/2016,Kelantan,Mining & Quarrying,257.197,2016
+abs,01/01/2016,Kelantan,Manufacturing,1171.974,2016
+abs,01/01/2016,Kelantan,Construction,575.397,2016
+abs,01/01/2016,Kelantan,Services,15158.95,2016
+abs,01/01/2016,Kelantan,Import Duties,24.739,2016
+abs,01/01/2016,Melaka,Overall GDP,37712.736,2016
+abs,01/01/2016,Melaka,Agriculture,4312.324,2016
+abs,01/01/2016,Melaka,Mining & Quarrying,52.608,2016
+abs,01/01/2016,Melaka,Manufacturing,14626.228,2016
+abs,01/01/2016,Melaka,Construction,997.69,2016
+abs,01/01/2016,Melaka,Services,17655.431,2016
+abs,01/01/2016,Melaka,Import Duties,68.455,2016
+abs,01/01/2016,Negeri Sembilan,Overall GDP,41771.246,2016
+abs,01/01/2016,Negeri Sembilan,Agriculture,3056.453,2016
+abs,01/01/2016,Negeri Sembilan,Mining & Quarrying,197.694,2016
+abs,01/01/2016,Negeri Sembilan,Manufacturing,16132.922,2016
+abs,01/01/2016,Negeri Sembilan,Construction,1466.149,2016
+abs,01/01/2016,Negeri Sembilan,Services,19975.95,2016
+abs,01/01/2016,Negeri Sembilan,Import Duties,942.078,2016
+abs,01/01/2016,Pahang,Overall GDP,50875.222,2016
+abs,01/01/2016,Pahang,Agriculture,11193.044,2016
+abs,01/01/2016,Pahang,Mining & Quarrying,878.802,2016
+abs,01/01/2016,Pahang,Manufacturing,10820.351,2016
+abs,01/01/2016,Pahang,Construction,2726.442,2016
+abs,01/01/2016,Pahang,Services,25173.04,2016
+abs,01/01/2016,Pahang,Import Duties,83.543,2016
+abs,01/01/2016,Perak,Overall GDP,65958.409,2016
+abs,01/01/2016,Perak,Agriculture,10151.488,2016
+abs,01/01/2016,Perak,Mining & Quarrying,413.624,2016
+abs,01/01/2016,Perak,Manufacturing,11752.31,2016
+abs,01/01/2016,Perak,Construction,2785.886,2016
+abs,01/01/2016,Perak,Services,40762.08,2016
+abs,01/01/2016,Perak,Import Duties,93.021,2016
+abs,01/01/2016,Perlis,Overall GDP,5569.584,2016
+abs,01/01/2016,Perlis,Agriculture,1200.073,2016
+abs,01/01/2016,Perlis,Mining & Quarrying,28.359,2016
+abs,01/01/2016,Perlis,Manufacturing,448.56,2016
+abs,01/01/2016,Perlis,Construction,212.035,2016
+abs,01/01/2016,Perlis,Services,3578.896,2016
+abs,01/01/2016,Perlis,Import Duties,101.661,2016
+abs,01/01/2016,Pulau Pinang,Overall GDP,82493.279,2016
+abs,01/01/2016,Pulau Pinang,Agriculture,1987.813,2016
+abs,01/01/2016,Pulau Pinang,Mining & Quarrying,135.366,2016
+abs,01/01/2016,Pulau Pinang,Manufacturing,35410.767,2016
+abs,01/01/2016,Pulau Pinang,Construction,2984.449,2016
+abs,01/01/2016,Pulau Pinang,Services,41166.781,2016
+abs,01/01/2016,Pulau Pinang,Import Duties,808.102,2016
+abs,01/01/2016,Sabah,Overall GDP,77518.046,2016
+abs,01/01/2016,Sabah,Agriculture,13255.092,2016
+abs,01/01/2016,Sabah,Mining & Quarrying,21992.315,2016
+abs,01/01/2016,Sabah,Manufacturing,6036.734,2016
+abs,01/01/2016,Sabah,Construction,2357.442,2016
+abs,01/01/2016,Sabah,Services,33574.808,2016
+abs,01/01/2016,Sabah,Import Duties,301.656,2016
+abs,01/01/2016,Sarawak,Overall GDP,124512.946,2016
+abs,01/01/2016,Sarawak,Agriculture,16631.881,2016
+abs,01/01/2016,Sarawak,Mining & Quarrying,29252.866,2016
+abs,01/01/2016,Sarawak,Manufacturing,33566.582,2016
+abs,01/01/2016,Sarawak,Construction,3633.388,2016
+abs,01/01/2016,Sarawak,Services,40981.962,2016
+abs,01/01/2016,Sarawak,Import Duties,446.268,2016
+abs,01/01/2016,Selangor,Overall GDP,281838.865,2016
+abs,01/01/2016,Selangor,Agriculture,3872.074,2016
+abs,01/01/2016,Selangor,Mining & Quarrying,642.954,2016
+abs,01/01/2016,Selangor,Manufacturing,78710.259,2016
+abs,01/01/2016,Selangor,Construction,16242.991,2016
+abs,01/01/2016,Selangor,Services,173869.515,2016
+abs,01/01/2016,Selangor,Import Duties,8501.073,2016
+abs,01/01/2016,Terengganu,Overall GDP,32133.081,2016
+abs,01/01/2016,Terengganu,Agriculture,2681.315,2016
+abs,01/01/2016,Terengganu,Mining & Quarrying,159.386,2016
+abs,01/01/2016,Terengganu,Manufacturing,12115.969,2016
+abs,01/01/2016,Terengganu,Construction,919.66,2016
+abs,01/01/2016,Terengganu,Services,16207.034,2016
+abs,01/01/2016,Terengganu,Import Duties,49.718,2016
+abs,01/01/2016,W.P. Kuala Lumpur,Overall GDP,191640.985,2016
+abs,01/01/2016,W.P. Kuala Lumpur,Agriculture,0,2016
+abs,01/01/2016,W.P. Kuala Lumpur,Mining & Quarrying,129.065,2016
+abs,01/01/2016,W.P. Kuala Lumpur,Manufacturing,5794.6,2016
+abs,01/01/2016,W.P. Kuala Lumpur,Construction,14509.479,2016
+abs,01/01/2016,W.P. Kuala Lumpur,Services,168742.436,2016
+abs,01/01/2016,W.P. Kuala Lumpur,Import Duties,2463.885,2016
+abs,01/01/2016,W.P. Labuan,Overall GDP,6412.031,2016
+abs,01/01/2016,W.P. Labuan,Agriculture,114.448,2016
+abs,01/01/2016,W.P. Labuan,Mining & Quarrying,0,2016
+abs,01/01/2016,W.P. Labuan,Manufacturing,1255.813,2016
+abs,01/01/2016,W.P. Labuan,Construction,120.57,2016
+abs,01/01/2016,W.P. Labuan,Services,4844.388,2016
+abs,01/01/2016,W.P. Labuan,Import Duties,76.813,2016
+abs,01/01/2017,Johor,Overall GDP,123561.327,2017
+abs,01/01/2017,Johor,Agriculture,16169.986,2017
+abs,01/01/2017,Johor,Mining & Quarrying,655.514,2017
+abs,01/01/2017,Johor,Manufacturing,36465.306,2017
+abs,01/01/2017,Johor,Construction,8407.258,2017
+abs,01/01/2017,Johor,Services,59999.052,2017
+abs,01/01/2017,Johor,Import Duties,1864.21,2017
+abs,01/01/2017,Kedah,Overall GDP,43066.583,2017
+abs,01/01/2017,Kedah,Agriculture,5465.003,2017
+abs,01/01/2017,Kedah,Mining & Quarrying,109.592,2017
+abs,01/01/2017,Kedah,Manufacturing,12449.393,2017
+abs,01/01/2017,Kedah,Construction,928.052,2017
+abs,01/01/2017,Kedah,Services,23808.188,2017
+abs,01/01/2017,Kedah,Import Duties,306.354,2017
+abs,01/01/2017,Kelantan,Overall GDP,23501.175,2017
+abs,01/01/2017,Kelantan,Agriculture,5476.893,2017
+abs,01/01/2017,Kelantan,Mining & Quarrying,300.233,2017
+abs,01/01/2017,Kelantan,Manufacturing,1277.854,2017
+abs,01/01/2017,Kelantan,Construction,520.898,2017
+abs,01/01/2017,Kelantan,Services,15899.029,2017
+abs,01/01/2017,Kelantan,Import Duties,26.268,2017
+abs,01/01/2017,Melaka,Overall GDP,40829.986,2017
+abs,01/01/2017,Melaka,Agriculture,4625.117,2017
+abs,01/01/2017,Melaka,Mining & Quarrying,56.59,2017
+abs,01/01/2017,Melaka,Manufacturing,15620.547,2017
+abs,01/01/2017,Melaka,Construction,1720.331,2017
+abs,01/01/2017,Melaka,Services,18613.275,2017
+abs,01/01/2017,Melaka,Import Duties,194.127,2017
+abs,01/01/2017,Negeri Sembilan,Overall GDP,43815.729,2017
+abs,01/01/2017,Negeri Sembilan,Agriculture,3321.278,2017
+abs,01/01/2017,Negeri Sembilan,Mining & Quarrying,217.007,2017
+abs,01/01/2017,Negeri Sembilan,Manufacturing,16653.928,2017
+abs,01/01/2017,Negeri Sembilan,Construction,1715.817,2017
+abs,01/01/2017,Negeri Sembilan,Services,20915.752,2017
+abs,01/01/2017,Negeri Sembilan,Import Duties,991.945,2017
+abs,01/01/2017,Pahang,Overall GDP,54591.139,2017
+abs,01/01/2017,Pahang,Agriculture,12253.554,2017
+abs,01/01/2017,Pahang,Mining & Quarrying,709.071,2017
+abs,01/01/2017,Pahang,Manufacturing,11531.092,2017
+abs,01/01/2017,Pahang,Construction,3230.848,2017
+abs,01/01/2017,Pahang,Services,26719.548,2017
+abs,01/01/2017,Pahang,Import Duties,147.025,2017
+abs,01/01/2017,Perak,Overall GDP,69336.571,2017
+abs,01/01/2017,Perak,Agriculture,10941.99,2017
+abs,01/01/2017,Perak,Mining & Quarrying,438.054,2017
+abs,01/01/2017,Perak,Manufacturing,12691.378,2017
+abs,01/01/2017,Perak,Construction,2113.067,2017
+abs,01/01/2017,Perak,Services,43027.708,2017
+abs,01/01/2017,Perak,Import Duties,124.374,2017
+abs,01/01/2017,Perlis,Overall GDP,5694.648,2017
+abs,01/01/2017,Perlis,Agriculture,1248.989,2017
+abs,01/01/2017,Perlis,Mining & Quarrying,30.706,2017
+abs,01/01/2017,Perlis,Manufacturing,458.684,2017
+abs,01/01/2017,Perlis,Construction,121.183,2017
+abs,01/01/2017,Perlis,Services,3722.87,2017
+abs,01/01/2017,Perlis,Import Duties,112.216,2017
+abs,01/01/2017,Pulau Pinang,Overall GDP,86767.823,2017
+abs,01/01/2017,Pulau Pinang,Agriculture,2034.414,2017
+abs,01/01/2017,Pulau Pinang,Mining & Quarrying,143.794,2017
+abs,01/01/2017,Pulau Pinang,Manufacturing,37425.53,2017
+abs,01/01/2017,Pulau Pinang,Construction,2688.806,2017
+abs,01/01/2017,Pulau Pinang,Services,43458.075,2017
+abs,01/01/2017,Pulau Pinang,Import Duties,1017.204,2017
+abs,01/01/2017,Sabah,Overall GDP,83793.257,2017
+abs,01/01/2017,Sabah,Agriculture,13882.585,2017
+abs,01/01/2017,Sabah,Mining & Quarrying,25440.572,2017
+abs,01/01/2017,Sabah,Manufacturing,6362.349,2017
+abs,01/01/2017,Sabah,Construction,2322.385,2017
+abs,01/01/2017,Sabah,Services,35433.648,2017
+abs,01/01/2017,Sabah,Import Duties,351.717,2017
+abs,01/01/2017,Sarawak,Overall GDP,130168.608,2017
+abs,01/01/2017,Sarawak,Agriculture,16728.012,2017
+abs,01/01/2017,Sarawak,Mining & Quarrying,30213.547,2017
+abs,01/01/2017,Sarawak,Manufacturing,34811.03,2017
+abs,01/01/2017,Sarawak,Construction,4354.593,2017
+abs,01/01/2017,Sarawak,Services,43541.213,2017
+abs,01/01/2017,Sarawak,Import Duties,520.213,2017
+abs,01/01/2017,Selangor,Overall GDP,302186.45,2017
+abs,01/01/2017,Selangor,Agriculture,4319.285,2017
+abs,01/01/2017,Selangor,Mining & Quarrying,691.631,2017
+abs,01/01/2017,Selangor,Manufacturing,84963.994,2017
+abs,01/01/2017,Selangor,Construction,17580.447,2017
+abs,01/01/2017,Selangor,Services,186017.921,2017
+abs,01/01/2017,Selangor,Import Duties,8613.171,2017
+abs,01/01/2017,Terengganu,Overall GDP,33978.557,2017
+abs,01/01/2017,Terengganu,Agriculture,2921.319,2017
+abs,01/01/2017,Terengganu,Mining & Quarrying,173.812,2017
+abs,01/01/2017,Terengganu,Manufacturing,12586.427,2017
+abs,01/01/2017,Terengganu,Construction,1275.923,2017
+abs,01/01/2017,Terengganu,Services,16916.309,2017
+abs,01/01/2017,Terengganu,Import Duties,104.767,2017
+abs,01/01/2017,W.P. Kuala Lumpur,Overall GDP,206175.307,2017
+abs,01/01/2017,W.P. Kuala Lumpur,Agriculture,0,2017
+abs,01/01/2017,W.P. Kuala Lumpur,Mining & Quarrying,145.62,2017
+abs,01/01/2017,W.P. Kuala Lumpur,Manufacturing,5870.658,2017
+abs,01/01/2017,W.P. Kuala Lumpur,Construction,16406.305,2017
+abs,01/01/2017,W.P. Kuala Lumpur,Services,180195.571,2017
+abs,01/01/2017,W.P. Kuala Lumpur,Import Duties,3555.524,2017
+abs,01/01/2017,W.P. Labuan,Overall GDP,6789.806,2017
+abs,01/01/2017,W.P. Labuan,Agriculture,118.722,2017
+abs,01/01/2017,W.P. Labuan,Mining & Quarrying,0,2017
+abs,01/01/2017,W.P. Labuan,Manufacturing,1295.515,2017
+abs,01/01/2017,W.P. Labuan,Construction,135.768,2017
+abs,01/01/2017,W.P. Labuan,Services,5092.569,2017
+abs,01/01/2017,W.P. Labuan,Import Duties,147.231,2017
+abs,01/01/2018,Johor,Overall GDP,130585.945,2018
+abs,01/01/2018,Johor,Agriculture,16246.395,2018
+abs,01/01/2018,Johor,Mining & Quarrying,711.119,2018
+abs,01/01/2018,Johor,Manufacturing,38337.729,2018
+abs,01/01/2018,Johor,Construction,9217.347,2018
+abs,01/01/2018,Johor,Services,64401.807,2018
+abs,01/01/2018,Johor,Import Duties,1671.547,2018
+abs,01/01/2018,Kedah,Overall GDP,44803.83,2018
+abs,01/01/2018,Kedah,Agriculture,5467.96,2018
+abs,01/01/2018,Kedah,Mining & Quarrying,114.924,2018
+abs,01/01/2018,Kedah,Manufacturing,12827.215,2018
+abs,01/01/2018,Kedah,Construction,1008.855,2018
+abs,01/01/2018,Kedah,Services,25104.159,2018
+abs,01/01/2018,Kedah,Import Duties,280.717,2018
+abs,01/01/2018,Kelantan,Overall GDP,24142.691,2018
+abs,01/01/2018,Kelantan,Agriculture,5430.623,2018
+abs,01/01/2018,Kelantan,Mining & Quarrying,359.496,2018
+abs,01/01/2018,Kelantan,Manufacturing,1281.173,2018
+abs,01/01/2018,Kelantan,Construction,324.425,2018
+abs,01/01/2018,Kelantan,Services,16721.126,2018
+abs,01/01/2018,Kelantan,Import Duties,25.848,2018
+abs,01/01/2018,Melaka,Overall GDP,42375.671,2018
+abs,01/01/2018,Melaka,Agriculture,4567.438,2018
+abs,01/01/2018,Melaka,Mining & Quarrying,61.964,2018
+abs,01/01/2018,Melaka,Manufacturing,16334.858,2018
+abs,01/01/2018,Melaka,Construction,1495.597,2018
+abs,01/01/2018,Melaka,Services,19730.706,2018
+abs,01/01/2018,Melaka,Import Duties,185.109,2018
+abs,01/01/2018,Negeri Sembilan,Overall GDP,45694.04,2018
+abs,01/01/2018,Negeri Sembilan,Agriculture,3323.09,2018
+abs,01/01/2018,Negeri Sembilan,Mining & Quarrying,223.609,2018
+abs,01/01/2018,Negeri Sembilan,Manufacturing,17208.037,2018
+abs,01/01/2018,Negeri Sembilan,Construction,1915.685,2018
+abs,01/01/2018,Negeri Sembilan,Services,22126.197,2018
+abs,01/01/2018,Negeri Sembilan,Import Duties,897.422,2018
+abs,01/01/2018,Pahang,Overall GDP,56289.94,2018
+abs,01/01/2018,Pahang,Agriculture,12418.561,2018
+abs,01/01/2018,Pahang,Mining & Quarrying,705.115,2018
+abs,01/01/2018,Pahang,Manufacturing,12194.343,2018
+abs,01/01/2018,Pahang,Construction,2399.236,2018
+abs,01/01/2018,Pahang,Services,28453.955,2018
+abs,01/01/2018,Pahang,Import Duties,118.73,2018
+abs,01/01/2018,Perak,Overall GDP,73030.81,2018
+abs,01/01/2018,Perak,Agriculture,10993.834,2018
+abs,01/01/2018,Perak,Mining & Quarrying,460.602,2018
+abs,01/01/2018,Perak,Manufacturing,13221.631,2018
+abs,01/01/2018,Perak,Construction,2336.763,2018
+abs,01/01/2018,Perak,Services,45910.8,2018
+abs,01/01/2018,Perak,Import Duties,107.18,2018
+abs,01/01/2018,Perlis,Overall GDP,5885.364,2018
+abs,01/01/2018,Perlis,Agriculture,1260.332,2018
+abs,01/01/2018,Perlis,Mining & Quarrying,32.582,2018
+abs,01/01/2018,Perlis,Manufacturing,465.657,2018
+abs,01/01/2018,Perlis,Construction,147.251,2018
+abs,01/01/2018,Perlis,Services,3881.139,2018
+abs,01/01/2018,Perlis,Import Duties,98.404,2018
+abs,01/01/2018,Pulau Pinang,Overall GDP,91234.235,2018
+abs,01/01/2018,Pulau Pinang,Agriculture,1969.23,2018
+abs,01/01/2018,Pulau Pinang,Mining & Quarrying,156.363,2018
+abs,01/01/2018,Pulau Pinang,Manufacturing,39458.422,2018
+abs,01/01/2018,Pulau Pinang,Construction,2619.567,2018
+abs,01/01/2018,Pulau Pinang,Services,46120.484,2018
+abs,01/01/2018,Pulau Pinang,Import Duties,910.17,2018
+abs,01/01/2018,Sabah,Overall GDP,85012.016,2018
+abs,01/01/2018,Sabah,Agriculture,13836.318,2018
+abs,01/01/2018,Sabah,Mining & Quarrying,23993.921,2018
+abs,01/01/2018,Sabah,Manufacturing,6513.729,2018
+abs,01/01/2018,Sabah,Construction,2918.088,2018
+abs,01/01/2018,Sabah,Services,37423.047,2018
+abs,01/01/2018,Sabah,Import Duties,326.914,2018
+abs,01/01/2018,Sarawak,Overall GDP,133009.823,2018
+abs,01/01/2018,Sarawak,Agriculture,16614.458,2018
+abs,01/01/2018,Sarawak,Mining & Quarrying,29626.577,2018
+abs,01/01/2018,Sarawak,Manufacturing,35579.068,2018
+abs,01/01/2018,Sarawak,Construction,4402.37,2018
+abs,01/01/2018,Sarawak,Services,46312.482,2018
+abs,01/01/2018,Sarawak,Import Duties,474.869,2018
+abs,01/01/2018,Selangor,Overall GDP,323215.439,2018
+abs,01/01/2018,Selangor,Agriculture,4534.651,2018
+abs,01/01/2018,Selangor,Mining & Quarrying,737.317,2018
+abs,01/01/2018,Selangor,Manufacturing,91132.978,2018
+abs,01/01/2018,Selangor,Construction,18645.768,2018
+abs,01/01/2018,Selangor,Services,200323.506,2018
+abs,01/01/2018,Selangor,Import Duties,7841.217,2018
+abs,01/01/2018,Terengganu,Overall GDP,34838.208,2018
+abs,01/01/2018,Terengganu,Agriculture,2846.927,2018
+abs,01/01/2018,Terengganu,Mining & Quarrying,183.225,2018
+abs,01/01/2018,Terengganu,Manufacturing,13055.539,2018
+abs,01/01/2018,Terengganu,Construction,1161.133,2018
+abs,01/01/2018,Terengganu,Services,17527.333,2018
+abs,01/01/2018,Terengganu,Import Duties,64.051,2018
+abs,01/01/2018,W.P. Kuala Lumpur,Overall GDP,220358.974,2018
+abs,01/01/2018,W.P. Kuala Lumpur,Agriculture,0,2018
+abs,01/01/2018,W.P. Kuala Lumpur,Mining & Quarrying,145.724,2018
+abs,01/01/2018,W.P. Kuala Lumpur,Manufacturing,5867.619,2018
+abs,01/01/2018,W.P. Kuala Lumpur,Construction,17446.124,2018
+abs,01/01/2018,W.P. Kuala Lumpur,Services,193472.341,2018
+abs,01/01/2018,W.P. Kuala Lumpur,Import Duties,3425.512,2018
+abs,01/01/2018,W.P. Labuan,Overall GDP,7244.941,2018
+abs,01/01/2018,W.P. Labuan,Agriculture,125.608,2018
+abs,01/01/2018,W.P. Labuan,Mining & Quarrying,0,2018
+abs,01/01/2018,W.P. Labuan,Manufacturing,1364.66,2018
+abs,01/01/2018,W.P. Labuan,Construction,156.064,2018
+abs,01/01/2018,W.P. Labuan,Services,5480.777,2018
+abs,01/01/2018,W.P. Labuan,Import Duties,117.831,2018
+abs,01/01/2019,Johor,Overall GDP,134225.938,2019
+abs,01/01/2019,Johor,Agriculture,16403.246,2019
+abs,01/01/2019,Johor,Mining & Quarrying,812.547,2019
+abs,01/01/2019,Johor,Manufacturing,40124.896,2019
+abs,01/01/2019,Johor,Construction,6699.7,2019
+abs,01/01/2019,Johor,Services,68576.722,2019
+abs,01/01/2019,Johor,Import Duties,1608.826,2019
+abs,01/01/2019,Kedah,Overall GDP,46841.199,2019
+abs,01/01/2019,Kedah,Agriculture,5645.724,2019
+abs,01/01/2019,Kedah,Mining & Quarrying,125.34,2019
+abs,01/01/2019,Kedah,Manufacturing,13429.618,2019
+abs,01/01/2019,Kedah,Construction,1090.383,2019
+abs,01/01/2019,Kedah,Services,26326.519,2019
+abs,01/01/2019,Kedah,Import Duties,223.615,2019
+abs,01/01/2019,Kelantan,Overall GDP,25479.178,2019
+abs,01/01/2019,Kelantan,Agriculture,5813.752,2019
+abs,01/01/2019,Kelantan,Mining & Quarrying,416.804,2019
+abs,01/01/2019,Kelantan,Manufacturing,1300.391,2019
+abs,01/01/2019,Kelantan,Construction,383.135,2019
+abs,01/01/2019,Kelantan,Services,17535.366,2019
+abs,01/01/2019,Kelantan,Import Duties,29.729,2019
+abs,01/01/2019,Melaka,Overall GDP,43583.397,2019
+abs,01/01/2019,Melaka,Agriculture,4433.169,2019
+abs,01/01/2019,Melaka,Mining & Quarrying,67.905,2019
+abs,01/01/2019,Melaka,Manufacturing,16744.806,2019
+abs,01/01/2019,Melaka,Construction,1357.797,2019
+abs,01/01/2019,Melaka,Services,20917.737,2019
+abs,01/01/2019,Melaka,Import Duties,61.984,2019
+abs,01/01/2019,Negeri Sembilan,Overall GDP,48033.554,2019
+abs,01/01/2019,Negeri Sembilan,Agriculture,3556.781,2019
+abs,01/01/2019,Negeri Sembilan,Mining & Quarrying,235.759,2019
+abs,01/01/2019,Negeri Sembilan,Manufacturing,17630.391,2019
+abs,01/01/2019,Negeri Sembilan,Construction,1842.634,2019
+abs,01/01/2019,Negeri Sembilan,Services,24037.373,2019
+abs,01/01/2019,Negeri Sembilan,Import Duties,730.616,2019
+abs,01/01/2019,Pahang,Overall GDP,58434.372,2019
+abs,01/01/2019,Pahang,Agriculture,12849.208,2019
+abs,01/01/2019,Pahang,Mining & Quarrying,819.669,2019
+abs,01/01/2019,Pahang,Manufacturing,12766.618,2019
+abs,01/01/2019,Pahang,Construction,1726.92,2019
+abs,01/01/2019,Pahang,Services,30217.041,2019
+abs,01/01/2019,Pahang,Import Duties,54.917,2019
+abs,01/01/2019,Perak,Overall GDP,75992.708,2019
+abs,01/01/2019,Perak,Agriculture,11312.41,2019
+abs,01/01/2019,Perak,Mining & Quarrying,504.554,2019
+abs,01/01/2019,Perak,Manufacturing,13683.259,2019
+abs,01/01/2019,Perak,Construction,2490.203,2019
+abs,01/01/2019,Perak,Services,47970.594,2019
+abs,01/01/2019,Perak,Import Duties,31.687,2019
+abs,01/01/2019,Perlis,Overall GDP,6151.334,2019
+abs,01/01/2019,Perlis,Agriculture,1333.94,2019
+abs,01/01/2019,Perlis,Mining & Quarrying,33.318,2019
+abs,01/01/2019,Perlis,Manufacturing,470.377,2019
+abs,01/01/2019,Perlis,Construction,166.658,2019
+abs,01/01/2019,Perlis,Services,4074.923,2019
+abs,01/01/2019,Perlis,Import Duties,72.118,2019
+abs,01/01/2019,Pulau Pinang,Overall GDP,94645.352,2019
+abs,01/01/2019,Pulau Pinang,Agriculture,2067.787,2019
+abs,01/01/2019,Pulau Pinang,Mining & Quarrying,171.449,2019
+abs,01/01/2019,Pulau Pinang,Manufacturing,40510.378,2019
+abs,01/01/2019,Pulau Pinang,Construction,2644.079,2019
+abs,01/01/2019,Pulau Pinang,Services,48645.481,2019
+abs,01/01/2019,Pulau Pinang,Import Duties,606.177,2019
+abs,01/01/2019,Sabah,Overall GDP,85641.69,2019
+abs,01/01/2019,Sabah,Agriculture,13719.07,2019
+abs,01/01/2019,Sabah,Mining & Quarrying,22736.44,2019
+abs,01/01/2019,Sabah,Manufacturing,6471.818,2019
+abs,01/01/2019,Sabah,Construction,3098.682,2019
+abs,01/01/2019,Sabah,Services,39428.467,2019
+abs,01/01/2019,Sabah,Import Duties,187.213,2019
+abs,01/01/2019,Sarawak,Overall GDP,136759.184,2019
+abs,01/01/2019,Sarawak,Agriculture,16578.352,2019
+abs,01/01/2019,Sarawak,Mining & Quarrying,30012.841,2019
+abs,01/01/2019,Sarawak,Manufacturing,36612.585,2019
+abs,01/01/2019,Sarawak,Construction,4476.115,2019
+abs,01/01/2019,Sarawak,Services,48761.022,2019
+abs,01/01/2019,Sarawak,Import Duties,318.269,2019
+abs,01/01/2019,Selangor,Overall GDP,345008.461,2019
+abs,01/01/2019,Selangor,Agriculture,4708.902,2019
+abs,01/01/2019,Selangor,Mining & Quarrying,859.075,2019
+abs,01/01/2019,Selangor,Manufacturing,95941.82,2019
+abs,01/01/2019,Selangor,Construction,20663.954,2019
+abs,01/01/2019,Selangor,Services,214347.881,2019
+abs,01/01/2019,Selangor,Import Duties,8486.83,2019
+abs,01/01/2019,Terengganu,Overall GDP,36000.52,2019
+abs,01/01/2019,Terengganu,Agriculture,3016.084,2019
+abs,01/01/2019,Terengganu,Mining & Quarrying,200.918,2019
+abs,01/01/2019,Terengganu,Manufacturing,13093.274,2019
+abs,01/01/2019,Terengganu,Construction,1165.429,2019
+abs,01/01/2019,Terengganu,Services,18508.873,2019
+abs,01/01/2019,Terengganu,Import Duties,15.941,2019
+abs,01/01/2019,W.P. Kuala Lumpur,Overall GDP,233793.693,2019
+abs,01/01/2019,W.P. Kuala Lumpur,Agriculture,0,2019
+abs,01/01/2019,W.P. Kuala Lumpur,Mining & Quarrying,152.637,2019
+abs,01/01/2019,W.P. Kuala Lumpur,Manufacturing,6119.096,2019
+abs,01/01/2019,W.P. Kuala Lumpur,Construction,18469.697,2019
+abs,01/01/2019,W.P. Kuala Lumpur,Services,205330.858,2019
+abs,01/01/2019,W.P. Kuala Lumpur,Import Duties,3719.753,2019
+abs,01/01/2019,W.P. Labuan,Overall GDP,7623.268,2019
+abs,01/01/2019,W.P. Labuan,Agriculture,133.251,2019
+abs,01/01/2019,W.P. Labuan,Mining & Quarrying,0,2019
+abs,01/01/2019,W.P. Labuan,Manufacturing,1383.647,2019
+abs,01/01/2019,W.P. Labuan,Construction,177.184,2019
+abs,01/01/2019,W.P. Labuan,Services,5897.621,2019
+abs,01/01/2019,W.P. Labuan,Import Duties,31.566,2019
+abs,01/01/2020,Johor,Overall GDP,128073.564,2020
+abs,01/01/2020,Johor,Agriculture,16856.55,2020
+abs,01/01/2020,Johor,Mining & Quarrying,657.515,2020
+abs,01/01/2020,Johor,Manufacturing,38650.689,2020
+abs,01/01/2020,Johor,Construction,4175.525,2020
+abs,01/01/2020,Johor,Services,66406.166,2020
+abs,01/01/2020,Johor,Import Duties,1327.119,2020
+abs,01/01/2020,Kedah,Overall GDP,46042.458,2020
+abs,01/01/2020,Kedah,Agriculture,5517.843,2020
+abs,01/01/2020,Kedah,Mining & Quarrying,111.892,2020
+abs,01/01/2020,Kedah,Manufacturing,13618.773,2020
+abs,01/01/2020,Kedah,Construction,1112.621,2020
+abs,01/01/2020,Kedah,Services,25433.746,2020
+abs,01/01/2020,Kedah,Import Duties,247.582,2020
+abs,01/01/2020,Kelantan,Overall GDP,25187.708,2020
+abs,01/01/2020,Kelantan,Agriculture,5817.503,2020
+abs,01/01/2020,Kelantan,Mining & Quarrying,341.892,2020
+abs,01/01/2020,Kelantan,Manufacturing,1234.011,2020
+abs,01/01/2020,Kelantan,Construction,396.456,2020
+abs,01/01/2020,Kelantan,Services,17374.192,2020
+abs,01/01/2020,Kelantan,Import Duties,23.653,2020
+abs,01/01/2020,Melaka,Overall GDP,41030.449,2020
+abs,01/01/2020,Melaka,Agriculture,4583.532,2020
+abs,01/01/2020,Melaka,Mining & Quarrying,59.283,2020
+abs,01/01/2020,Melaka,Manufacturing,15322.431,2020
+abs,01/01/2020,Melaka,Construction,991.943,2020
+abs,01/01/2020,Melaka,Services,19969.693,2020
+abs,01/01/2020,Melaka,Import Duties,103.567,2020
+abs,01/01/2020,Negeri Sembilan,Overall GDP,46336.101,2020
+abs,01/01/2020,Negeri Sembilan,Agriculture,3318.702,2020
+abs,01/01/2020,Negeri Sembilan,Mining & Quarrying,199.668,2020
+abs,01/01/2020,Negeri Sembilan,Manufacturing,16760.978,2020
+abs,01/01/2020,Negeri Sembilan,Construction,1370.22,2020
+abs,01/01/2020,Negeri Sembilan,Services,23822.068,2020
+abs,01/01/2020,Negeri Sembilan,Import Duties,864.466,2020
+abs,01/01/2020,Pahang,Overall GDP,54885.462,2020
+abs,01/01/2020,Pahang,Agriculture,13001.464,2020
+abs,01/01/2020,Pahang,Mining & Quarrying,613.576,2020
+abs,01/01/2020,Pahang,Manufacturing,12246.086,2020
+abs,01/01/2020,Pahang,Construction,1351.98,2020
+abs,01/01/2020,Pahang,Services,27597.184,2020
+abs,01/01/2020,Pahang,Import Duties,75.173,2020
+abs,01/01/2020,Perak,Overall GDP,74263.987,2020
+abs,01/01/2020,Perak,Agriculture,11430.364,2020
+abs,01/01/2020,Perak,Mining & Quarrying,432.138,2020
+abs,01/01/2020,Perak,Manufacturing,14155.88,2020
+abs,01/01/2020,Perak,Construction,2057.417,2020
+abs,01/01/2020,Perak,Services,46136.819,2020
+abs,01/01/2020,Perak,Import Duties,51.37,2020
+abs,01/01/2020,Perlis,Overall GDP,5785.067,2020
+abs,01/01/2020,Perlis,Agriculture,1087.742,2020
+abs,01/01/2020,Perlis,Mining & Quarrying,30.067,2020
+abs,01/01/2020,Perlis,Manufacturing,443.996,2020
+abs,01/01/2020,Perlis,Construction,150.603,2020
+abs,01/01/2020,Perlis,Services,4032.247,2020
+abs,01/01/2020,Perlis,Import Duties,40.41,2020
+abs,01/01/2020,Pulau Pinang,Overall GDP,92690.682,2020
+abs,01/01/2020,Pulau Pinang,Agriculture,2048.85,2020
+abs,01/01/2020,Pulau Pinang,Mining & Quarrying,139.141,2020
+abs,01/01/2020,Pulau Pinang,Manufacturing,41626.57,2020
+abs,01/01/2020,Pulau Pinang,Construction,2234.118,2020
+abs,01/01/2020,Pulau Pinang,Services,45978.568,2020
+abs,01/01/2020,Pulau Pinang,Import Duties,663.435,2020
+abs,01/01/2020,Sabah,Overall GDP,77840.052,2020
+abs,01/01/2020,Sabah,Agriculture,12798.329,2020
+abs,01/01/2020,Sabah,Mining & Quarrying,19935.969,2020
+abs,01/01/2020,Sabah,Manufacturing,6042.344,2020
+abs,01/01/2020,Sabah,Construction,2196.533,2020
+abs,01/01/2020,Sabah,Services,36597.415,2020
+abs,01/01/2020,Sabah,Import Duties,269.462,2020
+abs,01/01/2020,Sarawak,Overall GDP,127556.288,2020
+abs,01/01/2020,Sarawak,Agriculture,14907.463,2020
+abs,01/01/2020,Sarawak,Mining & Quarrying,28591.412,2020
+abs,01/01/2020,Sarawak,Manufacturing,33427.691,2020
+abs,01/01/2020,Sarawak,Construction,4081.745,2020
+abs,01/01/2020,Sarawak,Services,46160.302,2020
+abs,01/01/2020,Sarawak,Import Duties,387.676,2020
+abs,01/01/2020,Selangor,Overall GDP,326805.3,2020
+abs,01/01/2020,Selangor,Agriculture,4721.221,2020
+abs,01/01/2020,Selangor,Mining & Quarrying,755.167,2020
+abs,01/01/2020,Selangor,Manufacturing,95113.627,2020
+abs,01/01/2020,Selangor,Construction,18664.936,2020
+abs,01/01/2020,Selangor,Services,200127.437,2020
+abs,01/01/2020,Selangor,Import Duties,7422.912,2020
+abs,01/01/2020,Terengganu,Overall GDP,33994.032,2020
+abs,01/01/2020,Terengganu,Agriculture,2902.817,2020
+abs,01/01/2020,Terengganu,Mining & Quarrying,175.891,2020
+abs,01/01/2020,Terengganu,Manufacturing,11861.58,2020
+abs,01/01/2020,Terengganu,Construction,1080.445,2020
+abs,01/01/2020,Terengganu,Services,17942.611,2020
+abs,01/01/2020,Terengganu,Import Duties,30.687,2020
+abs,01/01/2020,W.P. Kuala Lumpur,Overall GDP,217447.043,2020
+abs,01/01/2020,W.P. Kuala Lumpur,Agriculture,0,2020
+abs,01/01/2020,W.P. Kuala Lumpur,Mining & Quarrying,138.272,2020
+abs,01/01/2020,W.P. Kuala Lumpur,Manufacturing,5733.447,2020
+abs,01/01/2020,W.P. Kuala Lumpur,Construction,13589.06,2020
+abs,01/01/2020,W.P. Kuala Lumpur,Services,194204.167,2020
+abs,01/01/2020,W.P. Kuala Lumpur,Import Duties,3780.403,2020
+abs,01/01/2020,W.P. Labuan,Overall GDP,7613.361,2020
+abs,01/01/2020,W.P. Labuan,Agriculture,115.129,2020
+abs,01/01/2020,W.P. Labuan,Mining & Quarrying,0,2020
+abs,01/01/2020,W.P. Labuan,Manufacturing,1367.505,2020
+abs,01/01/2020,W.P. Labuan,Construction,162.59,2020
+abs,01/01/2020,W.P. Labuan,Services,5910.296,2020
+abs,01/01/2020,W.P. Labuan,Import Duties,57.841,2020
+abs,01/01/2021,Johor,Overall GDP,131242.981,2021
+abs,01/01/2021,Johor,Agriculture,16882.569,2021
+abs,01/01/2021,Johor,Mining & Quarrying,586.874,2021
+abs,01/01/2021,Johor,Manufacturing,40726.902,2021
+abs,01/01/2021,Johor,Construction,3417.687,2021
+abs,01/01/2021,Johor,Services,68360.034,2021
+abs,01/01/2021,Johor,Import Duties,1268.915,2021
+abs,01/01/2021,Kedah,Overall GDP,47505.068,2021
+abs,01/01/2021,Kedah,Agriculture,5668.731,2021
+abs,01/01/2021,Kedah,Mining & Quarrying,103.154,2021
+abs,01/01/2021,Kedah,Manufacturing,14465.165,2021
+abs,01/01/2021,Kedah,Construction,1018.949,2021
+abs,01/01/2021,Kedah,Services,25925.347,2021
+abs,01/01/2021,Kedah,Import Duties,323.722,2021
+abs,01/01/2021,Kelantan,Overall GDP,25781.895,2021
+abs,01/01/2021,Kelantan,Agriculture,5869.39,2021
+abs,01/01/2021,Kelantan,Mining & Quarrying,352.629,2021
+abs,01/01/2021,Kelantan,Manufacturing,1259.726,2021
+abs,01/01/2021,Kelantan,Construction,400.86,2021
+abs,01/01/2021,Kelantan,Services,17866.211,2021
+abs,01/01/2021,Kelantan,Import Duties,33.078,2021
+abs,01/01/2021,Melaka,Overall GDP,41871.632,2021
+abs,01/01/2021,Melaka,Agriculture,4517.274,2021
+abs,01/01/2021,Melaka,Mining & Quarrying,55.351,2021
+abs,01/01/2021,Melaka,Manufacturing,15835.427,2021
+abs,01/01/2021,Melaka,Construction,896.499,2021
+abs,01/01/2021,Melaka,Services,20508.12,2021
+abs,01/01/2021,Melaka,Import Duties,58.961,2021
+abs,01/01/2021,Negeri Sembilan,Overall GDP,47787.092,2021
+abs,01/01/2021,Negeri Sembilan,Agriculture,3303.506,2021
+abs,01/01/2021,Negeri Sembilan,Mining & Quarrying,186.343,2021
+abs,01/01/2021,Negeri Sembilan,Manufacturing,17962.246,2021
+abs,01/01/2021,Negeri Sembilan,Construction,1365.234,2021
+abs,01/01/2021,Negeri Sembilan,Services,24359.904,2021
+abs,01/01/2021,Negeri Sembilan,Import Duties,609.859,2021
+abs,01/01/2021,Pahang,Overall GDP,55440.104,2021
+abs,01/01/2021,Pahang,Agriculture,13005.688,2021
+abs,01/01/2021,Pahang,Mining & Quarrying,507.224,2021
+abs,01/01/2021,Pahang,Manufacturing,12990.245,2021
+abs,01/01/2021,Pahang,Construction,1600.807,2021
+abs,01/01/2021,Pahang,Services,27285.399,2021
+abs,01/01/2021,Pahang,Import Duties,50.74,2021
+abs,01/01/2021,Perak,Overall GDP,76900.997,2021
+abs,01/01/2021,Perak,Agriculture,11768.73,2021
+abs,01/01/2021,Perak,Mining & Quarrying,401.822,2021
+abs,01/01/2021,Perak,Manufacturing,15453.346,2021
+abs,01/01/2021,Perak,Construction,1919.248,2021
+abs,01/01/2021,Perak,Services,47322.899,2021
+abs,01/01/2021,Perak,Import Duties,34.953,2021
+abs,01/01/2021,Perlis,Overall GDP,5866.65,2021
+abs,01/01/2021,Perlis,Agriculture,1023.525,2021
+abs,01/01/2021,Perlis,Mining & Quarrying,28.553,2021
+abs,01/01/2021,Perlis,Manufacturing,467.888,2021
+abs,01/01/2021,Perlis,Construction,150.799,2021
+abs,01/01/2021,Perlis,Services,4119.515,2021
+abs,01/01/2021,Perlis,Import Duties,76.371,2021
+abs,01/01/2021,Pulau Pinang,Overall GDP,99123.944,2021
+abs,01/01/2021,Pulau Pinang,Agriculture,1999.831,2021
+abs,01/01/2021,Pulau Pinang,Mining & Quarrying,129.979,2021
+abs,01/01/2021,Pulau Pinang,Manufacturing,46768.162,2021
+abs,01/01/2021,Pulau Pinang,Construction,2521.324,2021
+abs,01/01/2021,Pulau Pinang,Services,47079.905,2021
+abs,01/01/2021,Pulau Pinang,Import Duties,624.743,2021
+abs,01/01/2021,Sabah,Overall GDP,79000.069,2021
+abs,01/01/2021,Sabah,Agriculture,12517.988,2021
+abs,01/01/2021,Sabah,Mining & Quarrying,20574.499,2021
+abs,01/01/2021,Sabah,Manufacturing,5931.064,2021
+abs,01/01/2021,Sabah,Construction,2368.222,2021
+abs,01/01/2021,Sabah,Services,37368.739,2021
+abs,01/01/2021,Sabah,Import Duties,239.556,2021
+abs,01/01/2021,Sarawak,Overall GDP,131593.878,2021
+abs,01/01/2021,Sarawak,Agriculture,14465.913,2021
+abs,01/01/2021,Sarawak,Mining & Quarrying,27875.384,2021
+abs,01/01/2021,Sarawak,Manufacturing,37092.353,2021
+abs,01/01/2021,Sarawak,Construction,4490.408,2021
+abs,01/01/2021,Sarawak,Services,47314.523,2021
+abs,01/01/2021,Sarawak,Import Duties,355.297,2021
+abs,01/01/2021,Selangor,Overall GDP,344102.741,2021
+abs,01/01/2021,Selangor,Agriculture,4950.204,2021
+abs,01/01/2021,Selangor,Mining & Quarrying,707.8,2021
+abs,01/01/2021,Selangor,Manufacturing,107456.098,2021
+abs,01/01/2021,Selangor,Construction,17473.8,2021
+abs,01/01/2021,Selangor,Services,205429.698,2021
+abs,01/01/2021,Selangor,Import Duties,8085.14,2021
+abs,01/01/2021,Terengganu,Overall GDP,35235.898,2021
+abs,01/01/2021,Terengganu,Agriculture,2751.573,2021
+abs,01/01/2021,Terengganu,Mining & Quarrying,177.668,2021
+abs,01/01/2021,Terengganu,Manufacturing,12984.114,2021
+abs,01/01/2021,Terengganu,Construction,1105.7,2021
+abs,01/01/2021,Terengganu,Services,18200.843,2021
+abs,01/01/2021,Terengganu,Import Duties,15.999,2021
+abs,01/01/2021,W.P. Kuala Lumpur,Overall GDP,219883.721,2021
+abs,01/01/2021,W.P. Kuala Lumpur,Agriculture,0,2021
+abs,01/01/2021,W.P. Kuala Lumpur,Mining & Quarrying,134.235,2021
+abs,01/01/2021,W.P. Kuala Lumpur,Manufacturing,5977.909,2021
+abs,01/01/2021,W.P. Kuala Lumpur,Construction,11966.1,2021
+abs,01/01/2021,W.P. Kuala Lumpur,Services,197978.504,2021
+abs,01/01/2021,W.P. Kuala Lumpur,Import Duties,3825.288,2021
+abs,01/01/2021,W.P. Labuan,Overall GDP,7649.669,2021
+abs,01/01/2021,W.P. Labuan,Agriculture,116.628,2021
+abs,01/01/2021,W.P. Labuan,Mining & Quarrying,0,2021
+abs,01/01/2021,W.P. Labuan,Manufacturing,1353.715,2021
+abs,01/01/2021,W.P. Labuan,Construction,143.3,2021
+abs,01/01/2021,W.P. Labuan,Services,5996.655,2021
+abs,01/01/2021,W.P. Labuan,Import Duties,39.372,2021
+abs,01/01/2022,Johor,Overall GDP,142369.692,2022
+abs,01/01/2022,Johor,Agriculture,17402.664,2022
+abs,01/01/2022,Johor,Mining & Quarrying,648.636,2022
+abs,01/01/2022,Johor,Manufacturing,42948.216,2022
+abs,01/01/2022,Johor,Construction,3962.15,2022
+abs,01/01/2022,Johor,Services,75875.363,2022
+abs,01/01/2022,Johor,Import Duties,1532.664,2022
+abs,01/01/2022,Kedah,Overall GDP,50982.123,2022
+abs,01/01/2022,Kedah,Agriculture,5687.965,2022
+abs,01/01/2022,Kedah,Mining & Quarrying,114.256,2022
+abs,01/01/2022,Kedah,Manufacturing,15633.475,2022
+abs,01/01/2022,Kedah,Construction,1205.493,2022
+abs,01/01/2022,Kedah,Services,27992.38,2022
+abs,01/01/2022,Kedah,Import Duties,348.554,2022
+abs,01/01/2022,Kelantan,Overall GDP,26934.566,2022
+abs,01/01/2022,Kelantan,Agriculture,5640.233,2022
+abs,01/01/2022,Kelantan,Mining & Quarrying,392.951,2022
+abs,01/01/2022,Kelantan,Manufacturing,1298.632,2022
+abs,01/01/2022,Kelantan,Construction,479.777,2022
+abs,01/01/2022,Kelantan,Services,19077.743,2022
+abs,01/01/2022,Kelantan,Import Duties,45.229,2022
+abs,01/01/2022,Melaka,Overall GDP,45579.035,2022
+abs,01/01/2022,Melaka,Agriculture,4544.829,2022
+abs,01/01/2022,Melaka,Mining & Quarrying,61.137,2022
+abs,01/01/2022,Melaka,Manufacturing,16904.765,2022
+abs,01/01/2022,Melaka,Construction,942.579,2022
+abs,01/01/2022,Melaka,Services,23058.978,2022
+abs,01/01/2022,Melaka,Import Duties,66.747,2022
+abs,01/01/2022,Negeri Sembilan,Overall GDP,50939.264,2022
+abs,01/01/2022,Negeri Sembilan,Agriculture,3321.034,2022
+abs,01/01/2022,Negeri Sembilan,Mining & Quarrying,206.612,2022
+abs,01/01/2022,Negeri Sembilan,Manufacturing,19394.015,2022
+abs,01/01/2022,Negeri Sembilan,Construction,1444.138,2022
+abs,01/01/2022,Negeri Sembilan,Services,26255.402,2022
+abs,01/01/2022,Negeri Sembilan,Import Duties,318.062,2022
+abs,01/01/2022,Pahang,Overall GDP,61746.204,2022
+abs,01/01/2022,Pahang,Agriculture,13887.161,2022
+abs,01/01/2022,Pahang,Mining & Quarrying,571.949,2022
+abs,01/01/2022,Pahang,Manufacturing,13745.04,2022
+abs,01/01/2022,Pahang,Construction,1584.062,2022
+abs,01/01/2022,Pahang,Services,31906.849,2022
+abs,01/01/2022,Pahang,Import Duties,51.142,2022
+abs,01/01/2022,Perak,Overall GDP,80426.886,2022
+abs,01/01/2022,Perak,Agriculture,11466.447,2022
+abs,01/01/2022,Perak,Mining & Quarrying,449.423,2022
+abs,01/01/2022,Perak,Manufacturing,15606.298,2022
+abs,01/01/2022,Perak,Construction,2036.458,2022
+abs,01/01/2022,Perak,Services,50816.522,2022
+abs,01/01/2022,Perak,Import Duties,51.737,2022
+abs,01/01/2022,Perlis,Overall GDP,6209.957,2022
+abs,01/01/2022,Perlis,Agriculture,1058.373,2022
+abs,01/01/2022,Perlis,Mining & Quarrying,31.391,2022
+abs,01/01/2022,Perlis,Manufacturing,489.059,2022
+abs,01/01/2022,Perlis,Construction,152.461,2022
+abs,01/01/2022,Perlis,Services,4350.08,2022
+abs,01/01/2022,Perlis,Import Duties,128.592,2022
+abs,01/01/2022,Pulau Pinang,Overall GDP,112281.052,2022
+abs,01/01/2022,Pulau Pinang,Agriculture,2094.675,2022
+abs,01/01/2022,Pulau Pinang,Mining & Quarrying,143.903,2022
+abs,01/01/2022,Pulau Pinang,Manufacturing,54187.835,2022
+abs,01/01/2022,Pulau Pinang,Construction,2721.224,2022
+abs,01/01/2022,Pulau Pinang,Services,52490.218,2022
+abs,01/01/2022,Pulau Pinang,Import Duties,643.197,2022
+abs,01/01/2022,Sabah,Overall GDP,82106.428,2022
+abs,01/01/2022,Sabah,Agriculture,12543.031,2022
+abs,01/01/2022,Sabah,Mining & Quarrying,20454.838,2022
+abs,01/01/2022,Sabah,Manufacturing,5780.032,2022
+abs,01/01/2022,Sabah,Construction,2514.425,2022
+abs,01/01/2022,Sabah,Services,40544.43,2022
+abs,01/01/2022,Sabah,Import Duties,269.672,2022
+abs,01/01/2022,Sarawak,Overall GDP,140698.831,2022
+abs,01/01/2022,Sarawak,Agriculture,14727.061,2022
+abs,01/01/2022,Sarawak,Mining & Quarrying,29911.17,2022
+abs,01/01/2022,Sarawak,Manufacturing,39229.048,2022
+abs,01/01/2022,Sarawak,Construction,4671.277,2022
+abs,01/01/2022,Sarawak,Services,51732.671,2022
+abs,01/01/2022,Sarawak,Import Duties,427.604,2022
+abs,01/01/2022,Selangor,Overall GDP,385158.798,2022
+abs,01/01/2022,Selangor,Agriculture,4925.552,2022
+abs,01/01/2022,Selangor,Mining & Quarrying,796.664,2022
+abs,01/01/2022,Selangor,Manufacturing,117172.055,2022
+abs,01/01/2022,Selangor,Construction,18208.686,2022
+abs,01/01/2022,Selangor,Services,233372.832,2022
+abs,01/01/2022,Selangor,Import Duties,10683.01,2022
+abs,01/01/2022,Terengganu,Overall GDP,37353.84,2022
+abs,01/01/2022,Terengganu,Agriculture,2659.501,2022
+abs,01/01/2022,Terengganu,Mining & Quarrying,197.155,2022
+abs,01/01/2022,Terengganu,Manufacturing,14061.235,2022
+abs,01/01/2022,Terengganu,Construction,1143.569,2022
+abs,01/01/2022,Terengganu,Services,19284.074,2022
+abs,01/01/2022,Terengganu,Import Duties,8.308,2022
+abs,01/01/2022,W.P. Kuala Lumpur,Overall GDP,240517.538,2022
+abs,01/01/2022,W.P. Kuala Lumpur,Agriculture,0,2022
+abs,01/01/2022,W.P. Kuala Lumpur,Mining & Quarrying,147.775,2022
+abs,01/01/2022,W.P. Kuala Lumpur,Manufacturing,6297.152,2022
+abs,01/01/2022,W.P. Kuala Lumpur,Construction,12212.196,2022
+abs,01/01/2022,W.P. Kuala Lumpur,Services,219683.46,2022
+abs,01/01/2022,W.P. Kuala Lumpur,Import Duties,2175.199,2022
+abs,01/01/2022,W.P. Labuan,Overall GDP,7962.511,2022
+abs,01/01/2022,W.P. Labuan,Agriculture,122.137,2022
+abs,01/01/2022,W.P. Labuan,Mining & Quarrying,0,2022
+abs,01/01/2022,W.P. Labuan,Manufacturing,1376.733,2022
+abs,01/01/2022,W.P. Labuan,Construction,147.96,2022
+abs,01/01/2022,W.P. Labuan,Services,6281.577,2022
+abs,01/01/2022,W.P. Labuan,Import Duties,34.104,2022
+abs,01/01/2023,Johor,Overall GDP,148204.766,2023
+abs,01/01/2023,Johor,Agriculture,17205.216,2023
+abs,01/01/2023,Johor,Mining & Quarrying,691.086,2023
+abs,01/01/2023,Johor,Manufacturing,44165.268,2023
+abs,01/01/2023,Johor,Construction,4484.893,2023
+abs,01/01/2023,Johor,Services,79960.534,2023
+abs,01/01/2023,Johor,Import Duties,1697.769,2023
+abs,01/01/2023,Kedah,Overall GDP,51782.054,2023
+abs,01/01/2023,Kedah,Agriculture,5527.501,2023
+abs,01/01/2023,Kedah,Mining & Quarrying,121.952,2023
+abs,01/01/2023,Kedah,Manufacturing,15137.514,2023
+abs,01/01/2023,Kedah,Construction,1576.896,2023
+abs,01/01/2023,Kedah,Services,29115.645,2023
+abs,01/01/2023,Kedah,Import Duties,302.547,2023
+abs,01/01/2023,Kelantan,Overall GDP,27647.952,2023
+abs,01/01/2023,Kelantan,Agriculture,5609.939,2023
+abs,01/01/2023,Kelantan,Mining & Quarrying,424.836,2023
+abs,01/01/2023,Kelantan,Manufacturing,1265.084,2023
+abs,01/01/2023,Kelantan,Construction,511.92,2023
+abs,01/01/2023,Kelantan,Services,19799.217,2023
+abs,01/01/2023,Kelantan,Import Duties,36.957,2023
+abs,01/01/2023,Melaka,Overall GDP,46933.449,2023
+abs,01/01/2023,Melaka,Agriculture,4838.454,2023
+abs,01/01/2023,Melaka,Mining & Quarrying,64.889,2023
+abs,01/01/2023,Melaka,Manufacturing,16951.271,2023
+abs,01/01/2023,Melaka,Construction,996.003,2023
+abs,01/01/2023,Melaka,Services,24017.86,2023
+abs,01/01/2023,Melaka,Import Duties,64.971,2023
+abs,01/01/2023,Negeri Sembilan,Overall GDP,51864.043,2023
+abs,01/01/2023,Negeri Sembilan,Agriculture,3156.776,2023
+abs,01/01/2023,Negeri Sembilan,Mining & Quarrying,224.402,2023
+abs,01/01/2023,Negeri Sembilan,Manufacturing,19627.523,2023
+abs,01/01/2023,Negeri Sembilan,Construction,1322.75,2023
+abs,01/01/2023,Negeri Sembilan,Services,27435.109,2023
+abs,01/01/2023,Negeri Sembilan,Import Duties,97.482,2023
+abs,01/01/2023,Pahang,Overall GDP,64941.717,2023
+abs,01/01/2023,Pahang,Agriculture,14232.855,2023
+abs,01/01/2023,Pahang,Mining & Quarrying,626.959,2023
+abs,01/01/2023,Pahang,Manufacturing,14038.951,2023
+abs,01/01/2023,Pahang,Construction,2171.957,2023
+abs,01/01/2023,Pahang,Services,33833.324,2023
+abs,01/01/2023,Pahang,Import Duties,37.671,2023
+abs,01/01/2023,Perak,Overall GDP,82558.744,2023
+abs,01/01/2023,Perak,Agriculture,11682.179,2023
+abs,01/01/2023,Perak,Mining & Quarrying,486.814,2023
+abs,01/01/2023,Perak,Manufacturing,15951.746,2023
+abs,01/01/2023,Perak,Construction,2032.742,2023
+abs,01/01/2023,Perak,Services,52345.472,2023
+abs,01/01/2023,Perak,Import Duties,59.791,2023
+abs,01/01/2023,Perlis,Overall GDP,6343.178,2023
+abs,01/01/2023,Perlis,Agriculture,1101.382,2023
+abs,01/01/2023,Perlis,Mining & Quarrying,33.013,2023
+abs,01/01/2023,Perlis,Manufacturing,484.303,2023
+abs,01/01/2023,Perlis,Construction,158.567,2023
+abs,01/01/2023,Perlis,Services,4451.576,2023
+abs,01/01/2023,Perlis,Import Duties,114.338,2023
+abs,01/01/2023,Pulau Pinang,Overall GDP,115956.997,2023
+abs,01/01/2023,Pulau Pinang,Agriculture,2230.697,2023
+abs,01/01/2023,Pulau Pinang,Mining & Quarrying,153.618,2023
+abs,01/01/2023,Pulau Pinang,Manufacturing,53893.41,2023
+abs,01/01/2023,Pulau Pinang,Construction,3363.574,2023
+abs,01/01/2023,Pulau Pinang,Services,55657.576,2023
+abs,01/01/2023,Pulau Pinang,Import Duties,658.123,2023
+abs,01/01/2023,Sabah,Overall GDP,83196.915,2023
+abs,01/01/2023,Sabah,Agriculture,12649.256,2023
+abs,01/01/2023,Sabah,Mining & Quarrying,19389.615,2023
+abs,01/01/2023,Sabah,Manufacturing,6032.934,2023
+abs,01/01/2023,Sabah,Construction,2486.354,2023
+abs,01/01/2023,Sabah,Services,42375.969,2023
+abs,01/01/2023,Sabah,Import Duties,262.788,2023
+abs,01/01/2023,Sarawak,Overall GDP,142351.83,2023
+abs,01/01/2023,Sarawak,Agriculture,15028.88,2023
+abs,01/01/2023,Sarawak,Mining & Quarrying,29605.348,2023
+abs,01/01/2023,Sarawak,Manufacturing,37695.875,2023
+abs,01/01/2023,Sarawak,Construction,5059.113,2023
+abs,01/01/2023,Sarawak,Services,54543.192,2023
+abs,01/01/2023,Sarawak,Import Duties,419.421,2023
+abs,01/01/2023,Selangor,Overall GDP,406071.453,2023
+abs,01/01/2023,Selangor,Agriculture,4564.477,2023
+abs,01/01/2023,Selangor,Mining & Quarrying,827.027,2023
+abs,01/01/2023,Selangor,Manufacturing,119571.527,2023
+abs,01/01/2023,Selangor,Construction,20060.19,2023
+abs,01/01/2023,Selangor,Services,247683.629,2023
+abs,01/01/2023,Selangor,Import Duties,13364.603,2023
+abs,01/01/2023,Terengganu,Overall GDP,38201.414,2023
+abs,01/01/2023,Terengganu,Agriculture,2857.034,2023
+abs,01/01/2023,Terengganu,Mining & Quarrying,207.689,2023
+abs,01/01/2023,Terengganu,Manufacturing,14083.591,2023
+abs,01/01/2023,Terengganu,Construction,1161.791,2023
+abs,01/01/2023,Terengganu,Services,19876.587,2023
+abs,01/01/2023,Terengganu,Import Duties,14.723,2023
+abs,01/01/2023,W.P. Kuala Lumpur,Overall GDP,249301.544,2023
+abs,01/01/2023,W.P. Kuala Lumpur,Agriculture,0,2023
+abs,01/01/2023,W.P. Kuala Lumpur,Mining & Quarrying,152.658,2023
+abs,01/01/2023,W.P. Kuala Lumpur,Manufacturing,6412.314,2023
+abs,01/01/2023,W.P. Kuala Lumpur,Construction,11121.63,2023
+abs,01/01/2023,W.P. Kuala Lumpur,Services,230391.822,2023
+abs,01/01/2023,W.P. Kuala Lumpur,Import Duties,1221.887,2023
+abs,01/01/2023,W.P. Labuan,Overall GDP,8115.199,2023
+abs,01/01/2023,W.P. Labuan,Agriculture,126.045,2023
+abs,01/01/2023,W.P. Labuan,Mining & Quarrying,0,2023
+abs,01/01/2023,W.P. Labuan,Manufacturing,1382.377,2023
+abs,01/01/2023,W.P. Labuan,Construction,150.551,2023
+abs,01/01/2023,W.P. Labuan,Services,6416.974,2023
+abs,01/01/2023,W.P. Labuan,Import Duties,39.252,2023
+growth_yoy,01/01/2016,Johor,Overall GDP,6.073,2016
+growth_yoy,01/01/2016,Johor,Agriculture,-3.718,2016
+growth_yoy,01/01/2016,Johor,Mining & Quarrying,19.697,2016
+growth_yoy,01/01/2016,Johor,Manufacturing,5.448,2016
+growth_yoy,01/01/2016,Johor,Construction,23.515,2016
+growth_yoy,01/01/2016,Johor,Services,6.046,2016
+growth_yoy,01/01/2016,Johor,Import Duties,39.575,2016
+growth_yoy,01/01/2016,Kedah,Overall GDP,4.061,2016
+growth_yoy,01/01/2016,Kedah,Agriculture,-4.073,2016
+growth_yoy,01/01/2016,Kedah,Mining & Quarrying,15.226,2016
+growth_yoy,01/01/2016,Kedah,Manufacturing,4.436,2016
+growth_yoy,01/01/2016,Kedah,Construction,15.674,2016
+growth_yoy,01/01/2016,Kedah,Services,5.305,2016
+growth_yoy,01/01/2016,Kedah,Import Duties,11.61,2016
+growth_yoy,01/01/2016,Kelantan,Overall GDP,4.989,2016
+growth_yoy,01/01/2016,Kelantan,Agriculture,3.638,2016
+growth_yoy,01/01/2016,Kelantan,Mining & Quarrying,12.303,2016
+growth_yoy,01/01/2016,Kelantan,Manufacturing,2.136,2016
+growth_yoy,01/01/2016,Kelantan,Construction,29.404,2016
+growth_yoy,01/01/2016,Kelantan,Services,4.872,2016
+growth_yoy,01/01/2016,Kelantan,Import Duties,-17.495,2016
+growth_yoy,01/01/2016,Melaka,Overall GDP,4.533,2016
+growth_yoy,01/01/2016,Melaka,Agriculture,4.127,2016
+growth_yoy,01/01/2016,Melaka,Mining & Quarrying,19.596,2016
+growth_yoy,01/01/2016,Melaka,Manufacturing,3.966,2016
+growth_yoy,01/01/2016,Melaka,Construction,5.351,2016
+growth_yoy,01/01/2016,Melaka,Services,5.023,2016
+growth_yoy,01/01/2016,Melaka,Import Duties,4.416,2016
+growth_yoy,01/01/2016,Negeri Sembilan,Overall GDP,3.946,2016
+growth_yoy,01/01/2016,Negeri Sembilan,Agriculture,-5.529,2016
+growth_yoy,01/01/2016,Negeri Sembilan,Mining & Quarrying,19.541,2016
+growth_yoy,01/01/2016,Negeri Sembilan,Manufacturing,2.901,2016
+growth_yoy,01/01/2016,Negeri Sembilan,Construction,9.468,2016
+growth_yoy,01/01/2016,Negeri Sembilan,Services,5.411,2016
+growth_yoy,01/01/2016,Negeri Sembilan,Import Duties,15.315,2016
+growth_yoy,01/01/2016,Pahang,Overall GDP,2.883,2016
+growth_yoy,01/01/2016,Pahang,Agriculture,-4.048,2016
+growth_yoy,01/01/2016,Pahang,Mining & Quarrying,-32.982,2016
+growth_yoy,01/01/2016,Pahang,Manufacturing,3.873,2016
+growth_yoy,01/01/2016,Pahang,Construction,29.518,2016
+growth_yoy,01/01/2016,Pahang,Services,5.394,2016
+growth_yoy,01/01/2016,Pahang,Import Duties,25.733,2016
+growth_yoy,01/01/2016,Perak,Overall GDP,4.405,2016
+growth_yoy,01/01/2016,Perak,Agriculture,-1.933,2016
+growth_yoy,01/01/2016,Perak,Mining & Quarrying,16.812,2016
+growth_yoy,01/01/2016,Perak,Manufacturing,5.021,2016
+growth_yoy,01/01/2016,Perak,Construction,8.048,2016
+growth_yoy,01/01/2016,Perak,Services,5.525,2016
+growth_yoy,01/01/2016,Perak,Import Duties,27.246,2016
+growth_yoy,01/01/2016,Perlis,Overall GDP,4.048,2016
+growth_yoy,01/01/2016,Perlis,Agriculture,3.359,2016
+growth_yoy,01/01/2016,Perlis,Mining & Quarrying,-10.534,2016
+growth_yoy,01/01/2016,Perlis,Manufacturing,-2.103,2016
+growth_yoy,01/01/2016,Perlis,Construction,9.733,2016
+growth_yoy,01/01/2016,Perlis,Services,4.822,2016
+growth_yoy,01/01/2016,Perlis,Import Duties,7.678,2016
+growth_yoy,01/01/2016,Pulau Pinang,Overall GDP,5.563,2016
+growth_yoy,01/01/2016,Pulau Pinang,Agriculture,-4.606,2016
+growth_yoy,01/01/2016,Pulau Pinang,Mining & Quarrying,9.039,2016
+growth_yoy,01/01/2016,Pulau Pinang,Manufacturing,5.399,2016
+growth_yoy,01/01/2016,Pulau Pinang,Construction,10.047,2016
+growth_yoy,01/01/2016,Pulau Pinang,Services,5.78,2016
+growth_yoy,01/01/2016,Pulau Pinang,Import Duties,13.454,2016
+growth_yoy,01/01/2016,Sabah,Overall GDP,5.072,2016
+growth_yoy,01/01/2016,Sabah,Agriculture,-10.54,2016
+growth_yoy,01/01/2016,Sabah,Mining & Quarrying,20.789,2016
+growth_yoy,01/01/2016,Sabah,Manufacturing,-3.656,2016
+growth_yoy,01/01/2016,Sabah,Construction,-3.637,2016
+growth_yoy,01/01/2016,Sabah,Services,5.732,2016
+growth_yoy,01/01/2016,Sabah,Import Duties,5.694,2016
+growth_yoy,01/01/2016,Sarawak,Overall GDP,2.408,2016
+growth_yoy,01/01/2016,Sarawak,Agriculture,-2.096,2016
+growth_yoy,01/01/2016,Sarawak,Mining & Quarrying,-2.008,2016
+growth_yoy,01/01/2016,Sarawak,Manufacturing,4.477,2016
+growth_yoy,01/01/2016,Sarawak,Construction,-5.445,2016
+growth_yoy,01/01/2016,Sarawak,Services,6.808,2016
+growth_yoy,01/01/2016,Sarawak,Import Duties,10.382,2016
+growth_yoy,01/01/2016,Selangor,Overall GDP,4.841,2016
+growth_yoy,01/01/2016,Selangor,Agriculture,-4.998,2016
+growth_yoy,01/01/2016,Selangor,Mining & Quarrying,28.953,2016
+growth_yoy,01/01/2016,Selangor,Manufacturing,4.2,2016
+growth_yoy,01/01/2016,Selangor,Construction,-2.586,2016
+growth_yoy,01/01/2016,Selangor,Services,6.039,2016
+growth_yoy,01/01/2016,Selangor,Import Duties,5.316,2016
+growth_yoy,01/01/2016,Terengganu,Overall GDP,3.241,2016
+growth_yoy,01/01/2016,Terengganu,Agriculture,-3.018,2016
+growth_yoy,01/01/2016,Terengganu,Mining & Quarrying,9.448,2016
+growth_yoy,01/01/2016,Terengganu,Manufacturing,7.255,2016
+growth_yoy,01/01/2016,Terengganu,Construction,1.76,2016
+growth_yoy,01/01/2016,Terengganu,Services,1.515,2016
+growth_yoy,01/01/2016,Terengganu,Import Duties,1.971,2016
+growth_yoy,01/01/2016,W.P. Kuala Lumpur,Overall GDP,5.958,2016
+growth_yoy,01/01/2016,W.P. Kuala Lumpur,Agriculture,,2016
+growth_yoy,01/01/2016,W.P. Kuala Lumpur,Mining & Quarrying,9.872,2016
+growth_yoy,01/01/2016,W.P. Kuala Lumpur,Manufacturing,2.722,2016
+growth_yoy,01/01/2016,W.P. Kuala Lumpur,Construction,12.344,2016
+growth_yoy,01/01/2016,W.P. Kuala Lumpur,Services,5.628,2016
+growth_yoy,01/01/2016,W.P. Kuala Lumpur,Import Duties,1.084,2016
+growth_yoy,01/01/2016,W.P. Labuan,Overall GDP,6.881,2016
+growth_yoy,01/01/2016,W.P. Labuan,Agriculture,-3.1,2016
+growth_yoy,01/01/2016,W.P. Labuan,Mining & Quarrying,,2016
+growth_yoy,01/01/2016,W.P. Labuan,Manufacturing,7.475,2016
+growth_yoy,01/01/2016,W.P. Labuan,Construction,-18.763,2016
+growth_yoy,01/01/2016,W.P. Labuan,Services,7.885,2016
+growth_yoy,01/01/2016,W.P. Labuan,Import Duties,3.902,2016
+growth_yoy,01/01/2017,Johor,Overall GDP,5.896,2017
+growth_yoy,01/01/2017,Johor,Agriculture,7.585,2017
+growth_yoy,01/01/2017,Johor,Mining & Quarrying,15.139,2017
+growth_yoy,01/01/2017,Johor,Manufacturing,6.869,2017
+growth_yoy,01/01/2017,Johor,Construction,-6.362,2017
+growth_yoy,01/01/2017,Johor,Services,6.634,2017
+growth_yoy,01/01/2017,Johor,Import Duties,8.588,2017
+growth_yoy,01/01/2017,Kedah,Overall GDP,4.643,2017
+growth_yoy,01/01/2017,Kedah,Agriculture,5.046,2017
+growth_yoy,01/01/2017,Kedah,Mining & Quarrying,14.514,2017
+growth_yoy,01/01/2017,Kedah,Manufacturing,4.319,2017
+growth_yoy,01/01/2017,Kedah,Construction,-6.995,2017
+growth_yoy,01/01/2017,Kedah,Services,5.328,2017
+growth_yoy,01/01/2017,Kedah,Import Duties,-4.811,2017
+growth_yoy,01/01/2017,Kelantan,Overall GDP,4.562,2017
+growth_yoy,01/01/2017,Kelantan,Agriculture,3.582,2017
+growth_yoy,01/01/2017,Kelantan,Mining & Quarrying,16.733,2017
+growth_yoy,01/01/2017,Kelantan,Manufacturing,9.034,2017
+growth_yoy,01/01/2017,Kelantan,Construction,-9.472,2017
+growth_yoy,01/01/2017,Kelantan,Services,4.882,2017
+growth_yoy,01/01/2017,Kelantan,Import Duties,6.181,2017
+growth_yoy,01/01/2017,Melaka,Overall GDP,8.266,2017
+growth_yoy,01/01/2017,Melaka,Agriculture,7.253,2017
+growth_yoy,01/01/2017,Melaka,Mining & Quarrying,7.569,2017
+growth_yoy,01/01/2017,Melaka,Manufacturing,6.798,2017
+growth_yoy,01/01/2017,Melaka,Construction,72.431,2017
+growth_yoy,01/01/2017,Melaka,Services,5.425,2017
+growth_yoy,01/01/2017,Melaka,Import Duties,183.583,2017
+growth_yoy,01/01/2017,Negeri Sembilan,Overall GDP,4.894,2017
+growth_yoy,01/01/2017,Negeri Sembilan,Agriculture,8.664,2017
+growth_yoy,01/01/2017,Negeri Sembilan,Mining & Quarrying,9.769,2017
+growth_yoy,01/01/2017,Negeri Sembilan,Manufacturing,3.229,2017
+growth_yoy,01/01/2017,Negeri Sembilan,Construction,17.029,2017
+growth_yoy,01/01/2017,Negeri Sembilan,Services,4.705,2017
+growth_yoy,01/01/2017,Negeri Sembilan,Import Duties,5.293,2017
+growth_yoy,01/01/2017,Pahang,Overall GDP,7.304,2017
+growth_yoy,01/01/2017,Pahang,Agriculture,9.475,2017
+growth_yoy,01/01/2017,Pahang,Mining & Quarrying,-19.314,2017
+growth_yoy,01/01/2017,Pahang,Manufacturing,6.569,2017
+growth_yoy,01/01/2017,Pahang,Construction,18.501,2017
+growth_yoy,01/01/2017,Pahang,Services,6.144,2017
+growth_yoy,01/01/2017,Pahang,Import Duties,75.987,2017
+growth_yoy,01/01/2017,Perak,Overall GDP,5.122,2017
+growth_yoy,01/01/2017,Perak,Agriculture,7.787,2017
+growth_yoy,01/01/2017,Perak,Mining & Quarrying,5.906,2017
+growth_yoy,01/01/2017,Perak,Manufacturing,7.99,2017
+growth_yoy,01/01/2017,Perak,Construction,-24.151,2017
+growth_yoy,01/01/2017,Perak,Services,5.558,2017
+growth_yoy,01/01/2017,Perak,Import Duties,33.705,2017
+growth_yoy,01/01/2017,Perlis,Overall GDP,2.245,2017
+growth_yoy,01/01/2017,Perlis,Agriculture,4.076,2017
+growth_yoy,01/01/2017,Perlis,Mining & Quarrying,8.276,2017
+growth_yoy,01/01/2017,Perlis,Manufacturing,2.257,2017
+growth_yoy,01/01/2017,Perlis,Construction,-42.848,2017
+growth_yoy,01/01/2017,Perlis,Services,4.023,2017
+growth_yoy,01/01/2017,Perlis,Import Duties,10.383,2017
+growth_yoy,01/01/2017,Pulau Pinang,Overall GDP,5.182,2017
+growth_yoy,01/01/2017,Pulau Pinang,Agriculture,2.344,2017
+growth_yoy,01/01/2017,Pulau Pinang,Mining & Quarrying,6.226,2017
+growth_yoy,01/01/2017,Pulau Pinang,Manufacturing,5.69,2017
+growth_yoy,01/01/2017,Pulau Pinang,Construction,-9.906,2017
+growth_yoy,01/01/2017,Pulau Pinang,Services,5.566,2017
+growth_yoy,01/01/2017,Pulau Pinang,Import Duties,25.876,2017
+growth_yoy,01/01/2017,Sabah,Overall GDP,8.095,2017
+growth_yoy,01/01/2017,Sabah,Agriculture,4.734,2017
+growth_yoy,01/01/2017,Sabah,Mining & Quarrying,15.679,2017
+growth_yoy,01/01/2017,Sabah,Manufacturing,5.394,2017
+growth_yoy,01/01/2017,Sabah,Construction,-1.487,2017
+growth_yoy,01/01/2017,Sabah,Services,5.536,2017
+growth_yoy,01/01/2017,Sabah,Import Duties,16.595,2017
+growth_yoy,01/01/2017,Sarawak,Overall GDP,4.542,2017
+growth_yoy,01/01/2017,Sarawak,Agriculture,0.578,2017
+growth_yoy,01/01/2017,Sarawak,Mining & Quarrying,3.284,2017
+growth_yoy,01/01/2017,Sarawak,Manufacturing,3.707,2017
+growth_yoy,01/01/2017,Sarawak,Construction,19.849,2017
+growth_yoy,01/01/2017,Sarawak,Services,6.245,2017
+growth_yoy,01/01/2017,Sarawak,Import Duties,16.57,2017
+growth_yoy,01/01/2017,Selangor,Overall GDP,7.22,2017
+growth_yoy,01/01/2017,Selangor,Agriculture,11.55,2017
+growth_yoy,01/01/2017,Selangor,Mining & Quarrying,7.571,2017
+growth_yoy,01/01/2017,Selangor,Manufacturing,7.945,2017
+growth_yoy,01/01/2017,Selangor,Construction,8.234,2017
+growth_yoy,01/01/2017,Selangor,Services,6.987,2017
+growth_yoy,01/01/2017,Selangor,Import Duties,1.319,2017
+growth_yoy,01/01/2017,Terengganu,Overall GDP,5.743,2017
+growth_yoy,01/01/2017,Terengganu,Agriculture,8.951,2017
+growth_yoy,01/01/2017,Terengganu,Mining & Quarrying,9.051,2017
+growth_yoy,01/01/2017,Terengganu,Manufacturing,3.883,2017
+growth_yoy,01/01/2017,Terengganu,Construction,38.739,2017
+growth_yoy,01/01/2017,Terengganu,Services,4.376,2017
+growth_yoy,01/01/2017,Terengganu,Import Duties,110.722,2017
+growth_yoy,01/01/2017,W.P. Kuala Lumpur,Overall GDP,7.584,2017
+growth_yoy,01/01/2017,W.P. Kuala Lumpur,Agriculture,,2017
+growth_yoy,01/01/2017,W.P. Kuala Lumpur,Mining & Quarrying,12.827,2017
+growth_yoy,01/01/2017,W.P. Kuala Lumpur,Manufacturing,1.313,2017
+growth_yoy,01/01/2017,W.P. Kuala Lumpur,Construction,13.073,2017
+growth_yoy,01/01/2017,W.P. Kuala Lumpur,Services,6.787,2017
+growth_yoy,01/01/2017,W.P. Kuala Lumpur,Import Duties,44.306,2017
+growth_yoy,01/01/2017,W.P. Labuan,Overall GDP,5.892,2017
+growth_yoy,01/01/2017,W.P. Labuan,Agriculture,3.734,2017
+growth_yoy,01/01/2017,W.P. Labuan,Mining & Quarrying,,2017
+growth_yoy,01/01/2017,W.P. Labuan,Manufacturing,3.161,2017
+growth_yoy,01/01/2017,W.P. Labuan,Construction,12.605,2017
+growth_yoy,01/01/2017,W.P. Labuan,Services,5.123,2017
+growth_yoy,01/01/2017,W.P. Labuan,Import Duties,91.675,2017
+growth_yoy,01/01/2018,Johor,Overall GDP,5.685,2018
+growth_yoy,01/01/2018,Johor,Agriculture,0.473,2018
+growth_yoy,01/01/2018,Johor,Mining & Quarrying,8.483,2018
+growth_yoy,01/01/2018,Johor,Manufacturing,5.135,2018
+growth_yoy,01/01/2018,Johor,Construction,9.636,2018
+growth_yoy,01/01/2018,Johor,Services,7.338,2018
+growth_yoy,01/01/2018,Johor,Import Duties,-10.335,2018
+growth_yoy,01/01/2018,Kedah,Overall GDP,4.034,2018
+growth_yoy,01/01/2018,Kedah,Agriculture,0.054,2018
+growth_yoy,01/01/2018,Kedah,Mining & Quarrying,4.865,2018
+growth_yoy,01/01/2018,Kedah,Manufacturing,3.035,2018
+growth_yoy,01/01/2018,Kedah,Construction,8.707,2018
+growth_yoy,01/01/2018,Kedah,Services,5.443,2018
+growth_yoy,01/01/2018,Kedah,Import Duties,-8.368,2018
+growth_yoy,01/01/2018,Kelantan,Overall GDP,2.73,2018
+growth_yoy,01/01/2018,Kelantan,Agriculture,-0.845,2018
+growth_yoy,01/01/2018,Kelantan,Mining & Quarrying,19.739,2018
+growth_yoy,01/01/2018,Kelantan,Manufacturing,0.26,2018
+growth_yoy,01/01/2018,Kelantan,Construction,-37.718,2018
+growth_yoy,01/01/2018,Kelantan,Services,5.171,2018
+growth_yoy,01/01/2018,Kelantan,Import Duties,-1.599,2018
+growth_yoy,01/01/2018,Melaka,Overall GDP,3.786,2018
+growth_yoy,01/01/2018,Melaka,Agriculture,-1.247,2018
+growth_yoy,01/01/2018,Melaka,Mining & Quarrying,9.496,2018
+growth_yoy,01/01/2018,Melaka,Manufacturing,4.573,2018
+growth_yoy,01/01/2018,Melaka,Construction,-13.063,2018
+growth_yoy,01/01/2018,Melaka,Services,6.003,2018
+growth_yoy,01/01/2018,Melaka,Import Duties,-4.645,2018
+growth_yoy,01/01/2018,Negeri Sembilan,Overall GDP,4.287,2018
+growth_yoy,01/01/2018,Negeri Sembilan,Agriculture,0.055,2018
+growth_yoy,01/01/2018,Negeri Sembilan,Mining & Quarrying,3.042,2018
+growth_yoy,01/01/2018,Negeri Sembilan,Manufacturing,3.327,2018
+growth_yoy,01/01/2018,Negeri Sembilan,Construction,11.649,2018
+growth_yoy,01/01/2018,Negeri Sembilan,Services,5.787,2018
+growth_yoy,01/01/2018,Negeri Sembilan,Import Duties,-9.529,2018
+growth_yoy,01/01/2018,Pahang,Overall GDP,3.112,2018
+growth_yoy,01/01/2018,Pahang,Agriculture,1.347,2018
+growth_yoy,01/01/2018,Pahang,Mining & Quarrying,-0.558,2018
+growth_yoy,01/01/2018,Pahang,Manufacturing,5.752,2018
+growth_yoy,01/01/2018,Pahang,Construction,-25.74,2018
+growth_yoy,01/01/2018,Pahang,Services,6.491,2018
+growth_yoy,01/01/2018,Pahang,Import Duties,-19.245,2018
+growth_yoy,01/01/2018,Perak,Overall GDP,5.328,2018
+growth_yoy,01/01/2018,Perak,Agriculture,0.474,2018
+growth_yoy,01/01/2018,Perak,Mining & Quarrying,5.147,2018
+growth_yoy,01/01/2018,Perak,Manufacturing,4.178,2018
+growth_yoy,01/01/2018,Perak,Construction,10.586,2018
+growth_yoy,01/01/2018,Perak,Services,6.701,2018
+growth_yoy,01/01/2018,Perak,Import Duties,-13.824,2018
+growth_yoy,01/01/2018,Perlis,Overall GDP,3.349,2018
+growth_yoy,01/01/2018,Perlis,Agriculture,0.908,2018
+growth_yoy,01/01/2018,Perlis,Mining & Quarrying,6.11,2018
+growth_yoy,01/01/2018,Perlis,Manufacturing,1.52,2018
+growth_yoy,01/01/2018,Perlis,Construction,21.511,2018
+growth_yoy,01/01/2018,Perlis,Services,4.251,2018
+growth_yoy,01/01/2018,Perlis,Import Duties,-12.308,2018
+growth_yoy,01/01/2018,Pulau Pinang,Overall GDP,5.148,2018
+growth_yoy,01/01/2018,Pulau Pinang,Agriculture,-3.204,2018
+growth_yoy,01/01/2018,Pulau Pinang,Mining & Quarrying,8.741,2018
+growth_yoy,01/01/2018,Pulau Pinang,Manufacturing,5.432,2018
+growth_yoy,01/01/2018,Pulau Pinang,Construction,-2.575,2018
+growth_yoy,01/01/2018,Pulau Pinang,Services,6.126,2018
+growth_yoy,01/01/2018,Pulau Pinang,Import Duties,-10.522,2018
+growth_yoy,01/01/2018,Sabah,Overall GDP,1.454,2018
+growth_yoy,01/01/2018,Sabah,Agriculture,-0.333,2018
+growth_yoy,01/01/2018,Sabah,Mining & Quarrying,-5.686,2018
+growth_yoy,01/01/2018,Sabah,Manufacturing,2.379,2018
+growth_yoy,01/01/2018,Sabah,Construction,25.65,2018
+growth_yoy,01/01/2018,Sabah,Services,5.614,2018
+growth_yoy,01/01/2018,Sabah,Import Duties,-7.052,2018
+growth_yoy,01/01/2018,Sarawak,Overall GDP,2.183,2018
+growth_yoy,01/01/2018,Sarawak,Agriculture,-0.679,2018
+growth_yoy,01/01/2018,Sarawak,Mining & Quarrying,-1.943,2018
+growth_yoy,01/01/2018,Sarawak,Manufacturing,2.206,2018
+growth_yoy,01/01/2018,Sarawak,Construction,1.097,2018
+growth_yoy,01/01/2018,Sarawak,Services,6.365,2018
+growth_yoy,01/01/2018,Sarawak,Import Duties,-8.716,2018
+growth_yoy,01/01/2018,Selangor,Overall GDP,6.959,2018
+growth_yoy,01/01/2018,Selangor,Agriculture,4.986,2018
+growth_yoy,01/01/2018,Selangor,Mining & Quarrying,6.606,2018
+growth_yoy,01/01/2018,Selangor,Manufacturing,7.261,2018
+growth_yoy,01/01/2018,Selangor,Construction,6.06,2018
+growth_yoy,01/01/2018,Selangor,Services,7.69,2018
+growth_yoy,01/01/2018,Selangor,Import Duties,-8.962,2018
+growth_yoy,01/01/2018,Terengganu,Overall GDP,2.53,2018
+growth_yoy,01/01/2018,Terengganu,Agriculture,-2.547,2018
+growth_yoy,01/01/2018,Terengganu,Mining & Quarrying,5.416,2018
+growth_yoy,01/01/2018,Terengganu,Manufacturing,3.727,2018
+growth_yoy,01/01/2018,Terengganu,Construction,-8.997,2018
+growth_yoy,01/01/2018,Terengganu,Services,3.612,2018
+growth_yoy,01/01/2018,Terengganu,Import Duties,-38.863,2018
+growth_yoy,01/01/2018,W.P. Kuala Lumpur,Overall GDP,6.879,2018
+growth_yoy,01/01/2018,W.P. Kuala Lumpur,Agriculture,,2018
+growth_yoy,01/01/2018,W.P. Kuala Lumpur,Mining & Quarrying,0.071,2018
+growth_yoy,01/01/2018,W.P. Kuala Lumpur,Manufacturing,-0.052,2018
+growth_yoy,01/01/2018,W.P. Kuala Lumpur,Construction,6.338,2018
+growth_yoy,01/01/2018,W.P. Kuala Lumpur,Services,7.368,2018
+growth_yoy,01/01/2018,W.P. Kuala Lumpur,Import Duties,-3.657,2018
+growth_yoy,01/01/2018,W.P. Labuan,Overall GDP,6.703,2018
+growth_yoy,01/01/2018,W.P. Labuan,Agriculture,5.8,2018
+growth_yoy,01/01/2018,W.P. Labuan,Mining & Quarrying,,2018
+growth_yoy,01/01/2018,W.P. Labuan,Manufacturing,5.337,2018
+growth_yoy,01/01/2018,W.P. Labuan,Construction,14.949,2018
+growth_yoy,01/01/2018,W.P. Labuan,Services,7.623,2018
+growth_yoy,01/01/2018,W.P. Labuan,Import Duties,-19.969,2018
+growth_yoy,01/01/2019,Johor,Overall GDP,2.787,2019
+growth_yoy,01/01/2019,Johor,Agriculture,0.965,2019
+growth_yoy,01/01/2019,Johor,Mining & Quarrying,14.263,2019
+growth_yoy,01/01/2019,Johor,Manufacturing,4.662,2019
+growth_yoy,01/01/2019,Johor,Construction,-27.314,2019
+growth_yoy,01/01/2019,Johor,Services,6.483,2019
+growth_yoy,01/01/2019,Johor,Import Duties,-3.752,2019
+growth_yoy,01/01/2019,Kedah,Overall GDP,4.547,2019
+growth_yoy,01/01/2019,Kedah,Agriculture,3.251,2019
+growth_yoy,01/01/2019,Kedah,Mining & Quarrying,9.063,2019
+growth_yoy,01/01/2019,Kedah,Manufacturing,4.696,2019
+growth_yoy,01/01/2019,Kedah,Construction,8.081,2019
+growth_yoy,01/01/2019,Kedah,Services,4.869,2019
+growth_yoy,01/01/2019,Kedah,Import Duties,-20.341,2019
+growth_yoy,01/01/2019,Kelantan,Overall GDP,5.536,2019
+growth_yoy,01/01/2019,Kelantan,Agriculture,7.055,2019
+growth_yoy,01/01/2019,Kelantan,Mining & Quarrying,15.941,2019
+growth_yoy,01/01/2019,Kelantan,Manufacturing,1.5,2019
+growth_yoy,01/01/2019,Kelantan,Construction,18.097,2019
+growth_yoy,01/01/2019,Kelantan,Services,4.87,2019
+growth_yoy,01/01/2019,Kelantan,Import Duties,15.015,2019
+growth_yoy,01/01/2019,Melaka,Overall GDP,2.85,2019
+growth_yoy,01/01/2019,Melaka,Agriculture,-2.94,2019
+growth_yoy,01/01/2019,Melaka,Mining & Quarrying,9.588,2019
+growth_yoy,01/01/2019,Melaka,Manufacturing,2.51,2019
+growth_yoy,01/01/2019,Melaka,Construction,-9.214,2019
+growth_yoy,01/01/2019,Melaka,Services,6.016,2019
+growth_yoy,01/01/2019,Melaka,Import Duties,-66.515,2019
+growth_yoy,01/01/2019,Negeri Sembilan,Overall GDP,5.12,2019
+growth_yoy,01/01/2019,Negeri Sembilan,Agriculture,7.032,2019
+growth_yoy,01/01/2019,Negeri Sembilan,Mining & Quarrying,5.434,2019
+growth_yoy,01/01/2019,Negeri Sembilan,Manufacturing,2.454,2019
+growth_yoy,01/01/2019,Negeri Sembilan,Construction,-3.813,2019
+growth_yoy,01/01/2019,Negeri Sembilan,Services,8.638,2019
+growth_yoy,01/01/2019,Negeri Sembilan,Import Duties,-18.587,2019
+growth_yoy,01/01/2019,Pahang,Overall GDP,3.81,2019
+growth_yoy,01/01/2019,Pahang,Agriculture,3.468,2019
+growth_yoy,01/01/2019,Pahang,Mining & Quarrying,16.246,2019
+growth_yoy,01/01/2019,Pahang,Manufacturing,4.693,2019
+growth_yoy,01/01/2019,Pahang,Construction,-28.022,2019
+growth_yoy,01/01/2019,Pahang,Services,6.196,2019
+growth_yoy,01/01/2019,Pahang,Import Duties,-53.746,2019
+growth_yoy,01/01/2019,Perak,Overall GDP,4.056,2019
+growth_yoy,01/01/2019,Perak,Agriculture,2.898,2019
+growth_yoy,01/01/2019,Perak,Mining & Quarrying,9.542,2019
+growth_yoy,01/01/2019,Perak,Manufacturing,3.491,2019
+growth_yoy,01/01/2019,Perak,Construction,6.566,2019
+growth_yoy,01/01/2019,Perak,Services,4.487,2019
+growth_yoy,01/01/2019,Perak,Import Duties,-70.436,2019
+growth_yoy,01/01/2019,Perlis,Overall GDP,4.519,2019
+growth_yoy,01/01/2019,Perlis,Agriculture,5.84,2019
+growth_yoy,01/01/2019,Perlis,Mining & Quarrying,2.259,2019
+growth_yoy,01/01/2019,Perlis,Manufacturing,1.014,2019
+growth_yoy,01/01/2019,Perlis,Construction,13.18,2019
+growth_yoy,01/01/2019,Perlis,Services,4.993,2019
+growth_yoy,01/01/2019,Perlis,Import Duties,-26.712,2019
+growth_yoy,01/01/2019,Pulau Pinang,Overall GDP,3.739,2019
+growth_yoy,01/01/2019,Pulau Pinang,Agriculture,5.005,2019
+growth_yoy,01/01/2019,Pulau Pinang,Mining & Quarrying,9.648,2019
+growth_yoy,01/01/2019,Pulau Pinang,Manufacturing,2.666,2019
+growth_yoy,01/01/2019,Pulau Pinang,Construction,0.936,2019
+growth_yoy,01/01/2019,Pulau Pinang,Services,5.475,2019
+growth_yoy,01/01/2019,Pulau Pinang,Import Duties,-33.4,2019
+growth_yoy,01/01/2019,Sabah,Overall GDP,0.741,2019
+growth_yoy,01/01/2019,Sabah,Agriculture,-0.847,2019
+growth_yoy,01/01/2019,Sabah,Mining & Quarrying,-5.241,2019
+growth_yoy,01/01/2019,Sabah,Manufacturing,-0.643,2019
+growth_yoy,01/01/2019,Sabah,Construction,6.189,2019
+growth_yoy,01/01/2019,Sabah,Services,5.359,2019
+growth_yoy,01/01/2019,Sabah,Import Duties,-42.733,2019
+growth_yoy,01/01/2019,Sarawak,Overall GDP,2.819,2019
+growth_yoy,01/01/2019,Sarawak,Agriculture,-0.217,2019
+growth_yoy,01/01/2019,Sarawak,Mining & Quarrying,1.304,2019
+growth_yoy,01/01/2019,Sarawak,Manufacturing,2.905,2019
+growth_yoy,01/01/2019,Sarawak,Construction,1.675,2019
+growth_yoy,01/01/2019,Sarawak,Services,5.287,2019
+growth_yoy,01/01/2019,Sarawak,Import Duties,-32.978,2019
+growth_yoy,01/01/2019,Selangor,Overall GDP,6.743,2019
+growth_yoy,01/01/2019,Selangor,Agriculture,3.843,2019
+growth_yoy,01/01/2019,Selangor,Mining & Quarrying,16.514,2019
+growth_yoy,01/01/2019,Selangor,Manufacturing,5.277,2019
+growth_yoy,01/01/2019,Selangor,Construction,10.824,2019
+growth_yoy,01/01/2019,Selangor,Services,7.001,2019
+growth_yoy,01/01/2019,Selangor,Import Duties,8.234,2019
+growth_yoy,01/01/2019,Terengganu,Overall GDP,3.336,2019
+growth_yoy,01/01/2019,Terengganu,Agriculture,5.942,2019
+growth_yoy,01/01/2019,Terengganu,Mining & Quarrying,9.656,2019
+growth_yoy,01/01/2019,Terengganu,Manufacturing,0.289,2019
+growth_yoy,01/01/2019,Terengganu,Construction,0.37,2019
+growth_yoy,01/01/2019,Terengganu,Services,5.6,2019
+growth_yoy,01/01/2019,Terengganu,Import Duties,-75.112,2019
+growth_yoy,01/01/2019,W.P. Kuala Lumpur,Overall GDP,6.097,2019
+growth_yoy,01/01/2019,W.P. Kuala Lumpur,Agriculture,,2019
+growth_yoy,01/01/2019,W.P. Kuala Lumpur,Mining & Quarrying,4.744,2019
+growth_yoy,01/01/2019,W.P. Kuala Lumpur,Manufacturing,4.286,2019
+growth_yoy,01/01/2019,W.P. Kuala Lumpur,Construction,5.867,2019
+growth_yoy,01/01/2019,W.P. Kuala Lumpur,Services,6.129,2019
+growth_yoy,01/01/2019,W.P. Kuala Lumpur,Import Duties,8.59,2019
+growth_yoy,01/01/2019,W.P. Labuan,Overall GDP,5.222,2019
+growth_yoy,01/01/2019,W.P. Labuan,Agriculture,6.085,2019
+growth_yoy,01/01/2019,W.P. Labuan,Mining & Quarrying,,2019
+growth_yoy,01/01/2019,W.P. Labuan,Manufacturing,1.391,2019
+growth_yoy,01/01/2019,W.P. Labuan,Construction,13.533,2019
+growth_yoy,01/01/2019,W.P. Labuan,Services,7.606,2019
+growth_yoy,01/01/2019,W.P. Labuan,Import Duties,-73.211,2019
+growth_yoy,01/01/2020,Johor,Overall GDP,-4.584,2020
+growth_yoy,01/01/2020,Johor,Agriculture,2.764,2020
+growth_yoy,01/01/2020,Johor,Mining & Quarrying,-19.08,2020
+growth_yoy,01/01/2020,Johor,Manufacturing,-3.674,2020
+growth_yoy,01/01/2020,Johor,Construction,-37.676,2020
+growth_yoy,01/01/2020,Johor,Services,-3.165,2020
+growth_yoy,01/01/2020,Johor,Import Duties,-17.51,2020
+growth_yoy,01/01/2020,Kedah,Overall GDP,-1.705,2020
+growth_yoy,01/01/2020,Kedah,Agriculture,-2.265,2020
+growth_yoy,01/01/2020,Kedah,Mining & Quarrying,-10.729,2020
+growth_yoy,01/01/2020,Kedah,Manufacturing,1.408,2020
+growth_yoy,01/01/2020,Kedah,Construction,2.039,2020
+growth_yoy,01/01/2020,Kedah,Services,-3.391,2020
+growth_yoy,01/01/2020,Kedah,Import Duties,10.718,2020
+growth_yoy,01/01/2020,Kelantan,Overall GDP,-1.144,2020
+growth_yoy,01/01/2020,Kelantan,Agriculture,0.065,2020
+growth_yoy,01/01/2020,Kelantan,Mining & Quarrying,-17.973,2020
+growth_yoy,01/01/2020,Kelantan,Manufacturing,-5.105,2020
+growth_yoy,01/01/2020,Kelantan,Construction,3.477,2020
+growth_yoy,01/01/2020,Kelantan,Services,-0.919,2020
+growth_yoy,01/01/2020,Kelantan,Import Duties,-20.438,2020
+growth_yoy,01/01/2020,Melaka,Overall GDP,-5.858,2020
+growth_yoy,01/01/2020,Melaka,Agriculture,3.392,2020
+growth_yoy,01/01/2020,Melaka,Mining & Quarrying,-12.697,2020
+growth_yoy,01/01/2020,Melaka,Manufacturing,-8.494,2020
+growth_yoy,01/01/2020,Melaka,Construction,-26.945,2020
+growth_yoy,01/01/2020,Melaka,Services,-4.532,2020
+growth_yoy,01/01/2020,Melaka,Import Duties,67.087,2020
+growth_yoy,01/01/2020,Negeri Sembilan,Overall GDP,-3.534,2020
+growth_yoy,01/01/2020,Negeri Sembilan,Agriculture,-6.694,2020
+growth_yoy,01/01/2020,Negeri Sembilan,Mining & Quarrying,-15.308,2020
+growth_yoy,01/01/2020,Negeri Sembilan,Manufacturing,-4.931,2020
+growth_yoy,01/01/2020,Negeri Sembilan,Construction,-25.638,2020
+growth_yoy,01/01/2020,Negeri Sembilan,Services,-0.896,2020
+growth_yoy,01/01/2020,Negeri Sembilan,Import Duties,18.32,2020
+growth_yoy,01/01/2020,Pahang,Overall GDP,-6.073,2020
+growth_yoy,01/01/2020,Pahang,Agriculture,1.185,2020
+growth_yoy,01/01/2020,Pahang,Mining & Quarrying,-25.143,2020
+growth_yoy,01/01/2020,Pahang,Manufacturing,-4.077,2020
+growth_yoy,01/01/2020,Pahang,Construction,-21.711,2020
+growth_yoy,01/01/2020,Pahang,Services,-8.67,2020
+growth_yoy,01/01/2020,Pahang,Import Duties,36.885,2020
+growth_yoy,01/01/2020,Perak,Overall GDP,-2.275,2020
+growth_yoy,01/01/2020,Perak,Agriculture,1.043,2020
+growth_yoy,01/01/2020,Perak,Mining & Quarrying,-14.352,2020
+growth_yoy,01/01/2020,Perak,Manufacturing,3.454,2020
+growth_yoy,01/01/2020,Perak,Construction,-17.38,2020
+growth_yoy,01/01/2020,Perak,Services,-3.823,2020
+growth_yoy,01/01/2020,Perak,Import Duties,62.117,2020
+growth_yoy,01/01/2020,Perlis,Overall GDP,-5.954,2020
+growth_yoy,01/01/2020,Perlis,Agriculture,-18.456,2020
+growth_yoy,01/01/2020,Perlis,Mining & Quarrying,-9.757,2020
+growth_yoy,01/01/2020,Perlis,Manufacturing,-5.608,2020
+growth_yoy,01/01/2020,Perlis,Construction,-9.634,2020
+growth_yoy,01/01/2020,Perlis,Services,-1.047,2020
+growth_yoy,01/01/2020,Perlis,Import Duties,-43.967,2020
+growth_yoy,01/01/2020,Pulau Pinang,Overall GDP,-2.065,2020
+growth_yoy,01/01/2020,Pulau Pinang,Agriculture,-0.916,2020
+growth_yoy,01/01/2020,Pulau Pinang,Mining & Quarrying,-18.844,2020
+growth_yoy,01/01/2020,Pulau Pinang,Manufacturing,2.755,2020
+growth_yoy,01/01/2020,Pulau Pinang,Construction,-15.505,2020
+growth_yoy,01/01/2020,Pulau Pinang,Services,-5.482,2020
+growth_yoy,01/01/2020,Pulau Pinang,Import Duties,9.446,2020
+growth_yoy,01/01/2020,Sabah,Overall GDP,-9.11,2020
+growth_yoy,01/01/2020,Sabah,Agriculture,-6.711,2020
+growth_yoy,01/01/2020,Sabah,Mining & Quarrying,-12.317,2020
+growth_yoy,01/01/2020,Sabah,Manufacturing,-6.636,2020
+growth_yoy,01/01/2020,Sabah,Construction,-29.114,2020
+growth_yoy,01/01/2020,Sabah,Services,-7.18,2020
+growth_yoy,01/01/2020,Sabah,Import Duties,43.933,2020
+growth_yoy,01/01/2020,Sarawak,Overall GDP,-6.729,2020
+growth_yoy,01/01/2020,Sarawak,Agriculture,-10.079,2020
+growth_yoy,01/01/2020,Sarawak,Mining & Quarrying,-4.736,2020
+growth_yoy,01/01/2020,Sarawak,Manufacturing,-8.699,2020
+growth_yoy,01/01/2020,Sarawak,Construction,-8.811,2020
+growth_yoy,01/01/2020,Sarawak,Services,-5.334,2020
+growth_yoy,01/01/2020,Sarawak,Import Duties,21.808,2020
+growth_yoy,01/01/2020,Selangor,Overall GDP,-5.276,2020
+growth_yoy,01/01/2020,Selangor,Agriculture,0.262,2020
+growth_yoy,01/01/2020,Selangor,Mining & Quarrying,-12.095,2020
+growth_yoy,01/01/2020,Selangor,Manufacturing,-0.863,2020
+growth_yoy,01/01/2020,Selangor,Construction,-9.674,2020
+growth_yoy,01/01/2020,Selangor,Services,-6.634,2020
+growth_yoy,01/01/2020,Selangor,Import Duties,-12.536,2020
+growth_yoy,01/01/2020,Terengganu,Overall GDP,-5.573,2020
+growth_yoy,01/01/2020,Terengganu,Agriculture,-3.755,2020
+growth_yoy,01/01/2020,Terengganu,Mining & Quarrying,-12.456,2020
+growth_yoy,01/01/2020,Terengganu,Manufacturing,-9.407,2020
+growth_yoy,01/01/2020,Terengganu,Construction,-7.292,2020
+growth_yoy,01/01/2020,Terengganu,Services,-3.059,2020
+growth_yoy,01/01/2020,Terengganu,Import Duties,92.504,2020
+growth_yoy,01/01/2020,W.P. Kuala Lumpur,Overall GDP,-6.992,2020
+growth_yoy,01/01/2020,W.P. Kuala Lumpur,Agriculture,,2020
+growth_yoy,01/01/2020,W.P. Kuala Lumpur,Mining & Quarrying,-9.411,2020
+growth_yoy,01/01/2020,W.P. Kuala Lumpur,Manufacturing,-6.302,2020
+growth_yoy,01/01/2020,W.P. Kuala Lumpur,Construction,-26.425,2020
+growth_yoy,01/01/2020,W.P. Kuala Lumpur,Services,-5.419,2020
+growth_yoy,01/01/2020,W.P. Kuala Lumpur,Import Duties,1.63,2020
+growth_yoy,01/01/2020,W.P. Labuan,Overall GDP,-0.13,2020
+growth_yoy,01/01/2020,W.P. Labuan,Agriculture,-13.6,2020
+growth_yoy,01/01/2020,W.P. Labuan,Mining & Quarrying,,2020
+growth_yoy,01/01/2020,W.P. Labuan,Manufacturing,-1.167,2020
+growth_yoy,01/01/2020,W.P. Labuan,Construction,-8.237,2020
+growth_yoy,01/01/2020,W.P. Labuan,Services,0.215,2020
+growth_yoy,01/01/2020,W.P. Labuan,Import Duties,83.238,2020
+growth_yoy,01/01/2021,Johor,Overall GDP,2.475,2021
+growth_yoy,01/01/2021,Johor,Agriculture,0.154,2021
+growth_yoy,01/01/2021,Johor,Mining & Quarrying,-10.744,2021
+growth_yoy,01/01/2021,Johor,Manufacturing,5.372,2021
+growth_yoy,01/01/2021,Johor,Construction,-18.15,2021
+growth_yoy,01/01/2021,Johor,Services,2.942,2021
+growth_yoy,01/01/2021,Johor,Import Duties,-4.386,2021
+growth_yoy,01/01/2021,Kedah,Overall GDP,3.177,2021
+growth_yoy,01/01/2021,Kedah,Agriculture,2.735,2021
+growth_yoy,01/01/2021,Kedah,Mining & Quarrying,-7.809,2021
+growth_yoy,01/01/2021,Kedah,Manufacturing,6.215,2021
+growth_yoy,01/01/2021,Kedah,Construction,-8.419,2021
+growth_yoy,01/01/2021,Kedah,Services,1.933,2021
+growth_yoy,01/01/2021,Kedah,Import Duties,30.753,2021
+growth_yoy,01/01/2021,Kelantan,Overall GDP,2.359,2021
+growth_yoy,01/01/2021,Kelantan,Agriculture,0.892,2021
+growth_yoy,01/01/2021,Kelantan,Mining & Quarrying,3.14,2021
+growth_yoy,01/01/2021,Kelantan,Manufacturing,2.084,2021
+growth_yoy,01/01/2021,Kelantan,Construction,1.111,2021
+growth_yoy,01/01/2021,Kelantan,Services,2.832,2021
+growth_yoy,01/01/2021,Kelantan,Import Duties,39.847,2021
+growth_yoy,01/01/2021,Melaka,Overall GDP,2.05,2021
+growth_yoy,01/01/2021,Melaka,Agriculture,-1.446,2021
+growth_yoy,01/01/2021,Melaka,Mining & Quarrying,-6.633,2021
+growth_yoy,01/01/2021,Melaka,Manufacturing,3.348,2021
+growth_yoy,01/01/2021,Melaka,Construction,-9.622,2021
+growth_yoy,01/01/2021,Melaka,Services,2.696,2021
+growth_yoy,01/01/2021,Melaka,Import Duties,-43.07,2021
+growth_yoy,01/01/2021,Negeri Sembilan,Overall GDP,3.131,2021
+growth_yoy,01/01/2021,Negeri Sembilan,Agriculture,-0.458,2021
+growth_yoy,01/01/2021,Negeri Sembilan,Mining & Quarrying,-6.674,2021
+growth_yoy,01/01/2021,Negeri Sembilan,Manufacturing,7.167,2021
+growth_yoy,01/01/2021,Negeri Sembilan,Construction,-0.364,2021
+growth_yoy,01/01/2021,Negeri Sembilan,Services,2.258,2021
+growth_yoy,01/01/2021,Negeri Sembilan,Import Duties,-29.453,2021
+growth_yoy,01/01/2021,Pahang,Overall GDP,1.011,2021
+growth_yoy,01/01/2021,Pahang,Agriculture,0.032,2021
+growth_yoy,01/01/2021,Pahang,Mining & Quarrying,-17.333,2021
+growth_yoy,01/01/2021,Pahang,Manufacturing,6.077,2021
+growth_yoy,01/01/2021,Pahang,Construction,18.405,2021
+growth_yoy,01/01/2021,Pahang,Services,-1.13,2021
+growth_yoy,01/01/2021,Pahang,Import Duties,-32.502,2021
+growth_yoy,01/01/2021,Perak,Overall GDP,3.551,2021
+growth_yoy,01/01/2021,Perak,Agriculture,2.96,2021
+growth_yoy,01/01/2021,Perak,Mining & Quarrying,-7.015,2021
+growth_yoy,01/01/2021,Perak,Manufacturing,9.166,2021
+growth_yoy,01/01/2021,Perak,Construction,-6.716,2021
+growth_yoy,01/01/2021,Perak,Services,2.571,2021
+growth_yoy,01/01/2021,Perak,Import Duties,-31.958,2021
+growth_yoy,01/01/2021,Perlis,Overall GDP,1.41,2021
+growth_yoy,01/01/2021,Perlis,Agriculture,-5.904,2021
+growth_yoy,01/01/2021,Perlis,Mining & Quarrying,-5.035,2021
+growth_yoy,01/01/2021,Perlis,Manufacturing,5.381,2021
+growth_yoy,01/01/2021,Perlis,Construction,0.13,2021
+growth_yoy,01/01/2021,Perlis,Services,2.164,2021
+growth_yoy,01/01/2021,Perlis,Import Duties,88.99,2021
+growth_yoy,01/01/2021,Pulau Pinang,Overall GDP,6.941,2021
+growth_yoy,01/01/2021,Pulau Pinang,Agriculture,-2.393,2021
+growth_yoy,01/01/2021,Pulau Pinang,Mining & Quarrying,-6.585,2021
+growth_yoy,01/01/2021,Pulau Pinang,Manufacturing,12.352,2021
+growth_yoy,01/01/2021,Pulau Pinang,Construction,12.855,2021
+growth_yoy,01/01/2021,Pulau Pinang,Services,2.395,2021
+growth_yoy,01/01/2021,Pulau Pinang,Import Duties,-5.832,2021
+growth_yoy,01/01/2021,Sabah,Overall GDP,1.49,2021
+growth_yoy,01/01/2021,Sabah,Agriculture,-2.19,2021
+growth_yoy,01/01/2021,Sabah,Mining & Quarrying,3.203,2021
+growth_yoy,01/01/2021,Sabah,Manufacturing,-1.842,2021
+growth_yoy,01/01/2021,Sabah,Construction,7.816,2021
+growth_yoy,01/01/2021,Sabah,Services,2.108,2021
+growth_yoy,01/01/2021,Sabah,Import Duties,-11.098,2021
+growth_yoy,01/01/2021,Sarawak,Overall GDP,3.165,2021
+growth_yoy,01/01/2021,Sarawak,Agriculture,-2.962,2021
+growth_yoy,01/01/2021,Sarawak,Mining & Quarrying,-2.504,2021
+growth_yoy,01/01/2021,Sarawak,Manufacturing,10.963,2021
+growth_yoy,01/01/2021,Sarawak,Construction,10.012,2021
+growth_yoy,01/01/2021,Sarawak,Services,2.5,2021
+growth_yoy,01/01/2021,Sarawak,Import Duties,-8.352,2021
+growth_yoy,01/01/2021,Selangor,Overall GDP,5.293,2021
+growth_yoy,01/01/2021,Selangor,Agriculture,4.85,2021
+growth_yoy,01/01/2021,Selangor,Mining & Quarrying,-6.272,2021
+growth_yoy,01/01/2021,Selangor,Manufacturing,12.977,2021
+growth_yoy,01/01/2021,Selangor,Construction,-6.382,2021
+growth_yoy,01/01/2021,Selangor,Services,2.649,2021
+growth_yoy,01/01/2021,Selangor,Import Duties,8.921,2021
+growth_yoy,01/01/2021,Terengganu,Overall GDP,3.653,2021
+growth_yoy,01/01/2021,Terengganu,Agriculture,-5.21,2021
+growth_yoy,01/01/2021,Terengganu,Mining & Quarrying,1.01,2021
+growth_yoy,01/01/2021,Terengganu,Manufacturing,9.464,2021
+growth_yoy,01/01/2021,Terengganu,Construction,2.337,2021
+growth_yoy,01/01/2021,Terengganu,Services,1.439,2021
+growth_yoy,01/01/2021,Terengganu,Import Duties,-47.864,2021
+growth_yoy,01/01/2021,W.P. Kuala Lumpur,Overall GDP,1.121,2021
+growth_yoy,01/01/2021,W.P. Kuala Lumpur,Agriculture,,2021
+growth_yoy,01/01/2021,W.P. Kuala Lumpur,Mining & Quarrying,-2.92,2021
+growth_yoy,01/01/2021,W.P. Kuala Lumpur,Manufacturing,4.264,2021
+growth_yoy,01/01/2021,W.P. Kuala Lumpur,Construction,-11.943,2021
+growth_yoy,01/01/2021,W.P. Kuala Lumpur,Services,1.943,2021
+growth_yoy,01/01/2021,W.P. Kuala Lumpur,Import Duties,1.187,2021
+growth_yoy,01/01/2021,W.P. Labuan,Overall GDP,0.477,2021
+growth_yoy,01/01/2021,W.P. Labuan,Agriculture,1.302,2021
+growth_yoy,01/01/2021,W.P. Labuan,Mining & Quarrying,,2021
+growth_yoy,01/01/2021,W.P. Labuan,Manufacturing,-1.008,2021
+growth_yoy,01/01/2021,W.P. Labuan,Construction,-11.864,2021
+growth_yoy,01/01/2021,W.P. Labuan,Services,1.461,2021
+growth_yoy,01/01/2021,W.P. Labuan,Import Duties,-31.931,2021
+growth_yoy,01/01/2022,Johor,Overall GDP,8.478,2022
+growth_yoy,01/01/2022,Johor,Agriculture,3.081,2022
+growth_yoy,01/01/2022,Johor,Mining & Quarrying,10.524,2022
+growth_yoy,01/01/2022,Johor,Manufacturing,5.454,2022
+growth_yoy,01/01/2022,Johor,Construction,15.931,2022
+growth_yoy,01/01/2022,Johor,Services,10.994,2022
+growth_yoy,01/01/2022,Johor,Import Duties,20.785,2022
+growth_yoy,01/01/2022,Kedah,Overall GDP,7.319,2022
+growth_yoy,01/01/2022,Kedah,Agriculture,0.339,2022
+growth_yoy,01/01/2022,Kedah,Mining & Quarrying,10.763,2022
+growth_yoy,01/01/2022,Kedah,Manufacturing,8.077,2022
+growth_yoy,01/01/2022,Kedah,Construction,18.307,2022
+growth_yoy,01/01/2022,Kedah,Services,7.973,2022
+growth_yoy,01/01/2022,Kedah,Import Duties,7.671,2022
+growth_yoy,01/01/2022,Kelantan,Overall GDP,4.471,2022
+growth_yoy,01/01/2022,Kelantan,Agriculture,-3.904,2022
+growth_yoy,01/01/2022,Kelantan,Mining & Quarrying,11.435,2022
+growth_yoy,01/01/2022,Kelantan,Manufacturing,3.088,2022
+growth_yoy,01/01/2022,Kelantan,Construction,19.687,2022
+growth_yoy,01/01/2022,Kelantan,Services,6.781,2022
+growth_yoy,01/01/2022,Kelantan,Import Duties,36.734,2022
+growth_yoy,01/01/2022,Melaka,Overall GDP,8.854,2022
+growth_yoy,01/01/2022,Melaka,Agriculture,0.61,2022
+growth_yoy,01/01/2022,Melaka,Mining & Quarrying,10.453,2022
+growth_yoy,01/01/2022,Melaka,Manufacturing,6.753,2022
+growth_yoy,01/01/2022,Melaka,Construction,5.14,2022
+growth_yoy,01/01/2022,Melaka,Services,12.438,2022
+growth_yoy,01/01/2022,Melaka,Import Duties,13.205,2022
+growth_yoy,01/01/2022,Negeri Sembilan,Overall GDP,6.596,2022
+growth_yoy,01/01/2022,Negeri Sembilan,Agriculture,0.531,2022
+growth_yoy,01/01/2022,Negeri Sembilan,Mining & Quarrying,10.877,2022
+growth_yoy,01/01/2022,Negeri Sembilan,Manufacturing,7.971,2022
+growth_yoy,01/01/2022,Negeri Sembilan,Construction,5.78,2022
+growth_yoy,01/01/2022,Negeri Sembilan,Services,7.781,2022
+growth_yoy,01/01/2022,Negeri Sembilan,Import Duties,-47.847,2022
+growth_yoy,01/01/2022,Pahang,Overall GDP,11.375,2022
+growth_yoy,01/01/2022,Pahang,Agriculture,6.778,2022
+growth_yoy,01/01/2022,Pahang,Mining & Quarrying,12.761,2022
+growth_yoy,01/01/2022,Pahang,Manufacturing,5.81,2022
+growth_yoy,01/01/2022,Pahang,Construction,-1.046,2022
+growth_yoy,01/01/2022,Pahang,Services,16.937,2022
+growth_yoy,01/01/2022,Pahang,Import Duties,0.792,2022
+growth_yoy,01/01/2022,Perak,Overall GDP,4.585,2022
+growth_yoy,01/01/2022,Perak,Agriculture,-2.569,2022
+growth_yoy,01/01/2022,Perak,Mining & Quarrying,11.846,2022
+growth_yoy,01/01/2022,Perak,Manufacturing,0.99,2022
+growth_yoy,01/01/2022,Perak,Construction,6.107,2022
+growth_yoy,01/01/2022,Perak,Services,7.383,2022
+growth_yoy,01/01/2022,Perak,Import Duties,48.019,2022
+growth_yoy,01/01/2022,Perlis,Overall GDP,5.852,2022
+growth_yoy,01/01/2022,Perlis,Agriculture,3.405,2022
+growth_yoy,01/01/2022,Perlis,Mining & Quarrying,9.939,2022
+growth_yoy,01/01/2022,Perlis,Manufacturing,4.525,2022
+growth_yoy,01/01/2022,Perlis,Construction,1.102,2022
+growth_yoy,01/01/2022,Perlis,Services,5.597,2022
+growth_yoy,01/01/2022,Perlis,Import Duties,68.378,2022
+growth_yoy,01/01/2022,Pulau Pinang,Overall GDP,13.273,2022
+growth_yoy,01/01/2022,Pulau Pinang,Agriculture,4.743,2022
+growth_yoy,01/01/2022,Pulau Pinang,Mining & Quarrying,10.712,2022
+growth_yoy,01/01/2022,Pulau Pinang,Manufacturing,15.865,2022
+growth_yoy,01/01/2022,Pulau Pinang,Construction,7.928,2022
+growth_yoy,01/01/2022,Pulau Pinang,Services,11.492,2022
+growth_yoy,01/01/2022,Pulau Pinang,Import Duties,2.954,2022
+growth_yoy,01/01/2022,Sabah,Overall GDP,3.932,2022
+growth_yoy,01/01/2022,Sabah,Agriculture,0.2,2022
+growth_yoy,01/01/2022,Sabah,Mining & Quarrying,-0.582,2022
+growth_yoy,01/01/2022,Sabah,Manufacturing,-2.546,2022
+growth_yoy,01/01/2022,Sabah,Construction,6.174,2022
+growth_yoy,01/01/2022,Sabah,Services,8.498,2022
+growth_yoy,01/01/2022,Sabah,Import Duties,12.572,2022
+growth_yoy,01/01/2022,Sarawak,Overall GDP,6.919,2022
+growth_yoy,01/01/2022,Sarawak,Agriculture,1.805,2022
+growth_yoy,01/01/2022,Sarawak,Mining & Quarrying,7.303,2022
+growth_yoy,01/01/2022,Sarawak,Manufacturing,5.76,2022
+growth_yoy,01/01/2022,Sarawak,Construction,4.028,2022
+growth_yoy,01/01/2022,Sarawak,Services,9.338,2022
+growth_yoy,01/01/2022,Sarawak,Import Duties,20.351,2022
+growth_yoy,01/01/2022,Selangor,Overall GDP,11.931,2022
+growth_yoy,01/01/2022,Selangor,Agriculture,-0.498,2022
+growth_yoy,01/01/2022,Selangor,Mining & Quarrying,12.555,2022
+growth_yoy,01/01/2022,Selangor,Manufacturing,9.042,2022
+growth_yoy,01/01/2022,Selangor,Construction,4.206,2022
+growth_yoy,01/01/2022,Selangor,Services,13.602,2022
+growth_yoy,01/01/2022,Selangor,Import Duties,32.131,2022
+growth_yoy,01/01/2022,Terengganu,Overall GDP,6.011,2022
+growth_yoy,01/01/2022,Terengganu,Agriculture,-3.346,2022
+growth_yoy,01/01/2022,Terengganu,Mining & Quarrying,10.968,2022
+growth_yoy,01/01/2022,Terengganu,Manufacturing,8.296,2022
+growth_yoy,01/01/2022,Terengganu,Construction,3.425,2022
+growth_yoy,01/01/2022,Terengganu,Services,5.952,2022
+growth_yoy,01/01/2022,Terengganu,Import Duties,-48.072,2022
+growth_yoy,01/01/2022,W.P. Kuala Lumpur,Overall GDP,9.384,2022
+growth_yoy,01/01/2022,W.P. Kuala Lumpur,Agriculture,,2022
+growth_yoy,01/01/2022,W.P. Kuala Lumpur,Mining & Quarrying,10.087,2022
+growth_yoy,01/01/2022,W.P. Kuala Lumpur,Manufacturing,5.34,2022
+growth_yoy,01/01/2022,W.P. Kuala Lumpur,Construction,2.057,2022
+growth_yoy,01/01/2022,W.P. Kuala Lumpur,Services,10.963,2022
+growth_yoy,01/01/2022,W.P. Kuala Lumpur,Import Duties,-43.136,2022
+growth_yoy,01/01/2022,W.P. Labuan,Overall GDP,4.09,2022
+growth_yoy,01/01/2022,W.P. Labuan,Agriculture,4.724,2022
+growth_yoy,01/01/2022,W.P. Labuan,Mining & Quarrying,,2022
+growth_yoy,01/01/2022,W.P. Labuan,Manufacturing,1.7,2022
+growth_yoy,01/01/2022,W.P. Labuan,Construction,3.252,2022
+growth_yoy,01/01/2022,W.P. Labuan,Services,4.751,2022
+growth_yoy,01/01/2022,W.P. Labuan,Import Duties,-13.38,2022
+growth_yoy,01/01/2023,Johor,Overall GDP,4.099,2023
+growth_yoy,01/01/2023,Johor,Agriculture,-1.135,2023
+growth_yoy,01/01/2023,Johor,Mining & Quarrying,6.545,2023
+growth_yoy,01/01/2023,Johor,Manufacturing,2.834,2023
+growth_yoy,01/01/2023,Johor,Construction,13.193,2023
+growth_yoy,01/01/2023,Johor,Services,5.384,2023
+growth_yoy,01/01/2023,Johor,Import Duties,10.772,2023
+growth_yoy,01/01/2023,Kedah,Overall GDP,1.569,2023
+growth_yoy,01/01/2023,Kedah,Agriculture,-2.821,2023
+growth_yoy,01/01/2023,Kedah,Mining & Quarrying,6.736,2023
+growth_yoy,01/01/2023,Kedah,Manufacturing,-3.172,2023
+growth_yoy,01/01/2023,Kedah,Construction,30.809,2023
+growth_yoy,01/01/2023,Kedah,Services,4.013,2023
+growth_yoy,01/01/2023,Kedah,Import Duties,-13.199,2023
+growth_yoy,01/01/2023,Kelantan,Overall GDP,2.649,2023
+growth_yoy,01/01/2023,Kelantan,Agriculture,-0.537,2023
+growth_yoy,01/01/2023,Kelantan,Mining & Quarrying,8.114,2023
+growth_yoy,01/01/2023,Kelantan,Manufacturing,-2.583,2023
+growth_yoy,01/01/2023,Kelantan,Construction,6.7,2023
+growth_yoy,01/01/2023,Kelantan,Services,3.782,2023
+growth_yoy,01/01/2023,Kelantan,Import Duties,-18.289,2023
+growth_yoy,01/01/2023,Melaka,Overall GDP,2.972,2023
+growth_yoy,01/01/2023,Melaka,Agriculture,6.461,2023
+growth_yoy,01/01/2023,Melaka,Mining & Quarrying,6.137,2023
+growth_yoy,01/01/2023,Melaka,Manufacturing,0.275,2023
+growth_yoy,01/01/2023,Melaka,Construction,5.668,2023
+growth_yoy,01/01/2023,Melaka,Services,4.158,2023
+growth_yoy,01/01/2023,Melaka,Import Duties,-2.661,2023
+growth_yoy,01/01/2023,Negeri Sembilan,Overall GDP,1.815,2023
+growth_yoy,01/01/2023,Negeri Sembilan,Agriculture,-4.946,2023
+growth_yoy,01/01/2023,Negeri Sembilan,Mining & Quarrying,8.61,2023
+growth_yoy,01/01/2023,Negeri Sembilan,Manufacturing,1.204,2023
+growth_yoy,01/01/2023,Negeri Sembilan,Construction,-8.406,2023
+growth_yoy,01/01/2023,Negeri Sembilan,Services,4.493,2023
+growth_yoy,01/01/2023,Negeri Sembilan,Import Duties,-69.351,2023
+growth_yoy,01/01/2023,Pahang,Overall GDP,5.175,2023
+growth_yoy,01/01/2023,Pahang,Agriculture,2.489,2023
+growth_yoy,01/01/2023,Pahang,Mining & Quarrying,9.618,2023
+growth_yoy,01/01/2023,Pahang,Manufacturing,2.138,2023
+growth_yoy,01/01/2023,Pahang,Construction,37.113,2023
+growth_yoy,01/01/2023,Pahang,Services,6.038,2023
+growth_yoy,01/01/2023,Pahang,Import Duties,-26.34,2023
+growth_yoy,01/01/2023,Perak,Overall GDP,2.651,2023
+growth_yoy,01/01/2023,Perak,Agriculture,1.881,2023
+growth_yoy,01/01/2023,Perak,Mining & Quarrying,8.32,2023
+growth_yoy,01/01/2023,Perak,Manufacturing,2.214,2023
+growth_yoy,01/01/2023,Perak,Construction,-0.182,2023
+growth_yoy,01/01/2023,Perak,Services,3.009,2023
+growth_yoy,01/01/2023,Perak,Import Duties,15.567,2023
+growth_yoy,01/01/2023,Perlis,Overall GDP,2.145,2023
+growth_yoy,01/01/2023,Perlis,Agriculture,4.064,2023
+growth_yoy,01/01/2023,Perlis,Mining & Quarrying,5.167,2023
+growth_yoy,01/01/2023,Perlis,Manufacturing,-0.972,2023
+growth_yoy,01/01/2023,Perlis,Construction,4.005,2023
+growth_yoy,01/01/2023,Perlis,Services,2.333,2023
+growth_yoy,01/01/2023,Perlis,Import Duties,-11.085,2023
+growth_yoy,01/01/2023,Pulau Pinang,Overall GDP,3.274,2023
+growth_yoy,01/01/2023,Pulau Pinang,Agriculture,6.494,2023
+growth_yoy,01/01/2023,Pulau Pinang,Mining & Quarrying,6.751,2023
+growth_yoy,01/01/2023,Pulau Pinang,Manufacturing,-0.543,2023
+growth_yoy,01/01/2023,Pulau Pinang,Construction,23.605,2023
+growth_yoy,01/01/2023,Pulau Pinang,Services,6.034,2023
+growth_yoy,01/01/2023,Pulau Pinang,Import Duties,2.321,2023
+growth_yoy,01/01/2023,Sabah,Overall GDP,1.328,2023
+growth_yoy,01/01/2023,Sabah,Agriculture,0.847,2023
+growth_yoy,01/01/2023,Sabah,Mining & Quarrying,-5.208,2023
+growth_yoy,01/01/2023,Sabah,Manufacturing,4.375,2023
+growth_yoy,01/01/2023,Sabah,Construction,-1.116,2023
+growth_yoy,01/01/2023,Sabah,Services,4.517,2023
+growth_yoy,01/01/2023,Sabah,Import Duties,-2.553,2023
+growth_yoy,01/01/2023,Sarawak,Overall GDP,1.175,2023
+growth_yoy,01/01/2023,Sarawak,Agriculture,2.049,2023
+growth_yoy,01/01/2023,Sarawak,Mining & Quarrying,-1.022,2023
+growth_yoy,01/01/2023,Sarawak,Manufacturing,-3.908,2023
+growth_yoy,01/01/2023,Sarawak,Construction,8.303,2023
+growth_yoy,01/01/2023,Sarawak,Services,5.433,2023
+growth_yoy,01/01/2023,Sarawak,Import Duties,-1.914,2023
+growth_yoy,01/01/2023,Selangor,Overall GDP,5.43,2023
+growth_yoy,01/01/2023,Selangor,Agriculture,-7.331,2023
+growth_yoy,01/01/2023,Selangor,Mining & Quarrying,3.811,2023
+growth_yoy,01/01/2023,Selangor,Manufacturing,2.048,2023
+growth_yoy,01/01/2023,Selangor,Construction,10.168,2023
+growth_yoy,01/01/2023,Selangor,Services,6.132,2023
+growth_yoy,01/01/2023,Selangor,Import Duties,25.101,2023
+growth_yoy,01/01/2023,Terengganu,Overall GDP,2.269,2023
+growth_yoy,01/01/2023,Terengganu,Agriculture,7.427,2023
+growth_yoy,01/01/2023,Terengganu,Mining & Quarrying,5.343,2023
+growth_yoy,01/01/2023,Terengganu,Manufacturing,0.159,2023
+growth_yoy,01/01/2023,Terengganu,Construction,1.593,2023
+growth_yoy,01/01/2023,Terengganu,Services,3.073,2023
+growth_yoy,01/01/2023,Terengganu,Import Duties,77.215,2023
+growth_yoy,01/01/2023,W.P. Kuala Lumpur,Overall GDP,3.652,2023
+growth_yoy,01/01/2023,W.P. Kuala Lumpur,Agriculture,,2023
+growth_yoy,01/01/2023,W.P. Kuala Lumpur,Mining & Quarrying,3.304,2023
+growth_yoy,01/01/2023,W.P. Kuala Lumpur,Manufacturing,1.829,2023
+growth_yoy,01/01/2023,W.P. Kuala Lumpur,Construction,-8.93,2023
+growth_yoy,01/01/2023,W.P. Kuala Lumpur,Services,4.874,2023
+growth_yoy,01/01/2023,W.P. Kuala Lumpur,Import Duties,-43.826,2023
+growth_yoy,01/01/2023,W.P. Labuan,Overall GDP,1.918,2023
+growth_yoy,01/01/2023,W.P. Labuan,Agriculture,3.2,2023
+growth_yoy,01/01/2023,W.P. Labuan,Mining & Quarrying,,2023
+growth_yoy,01/01/2023,W.P. Labuan,Manufacturing,0.41,2023
+growth_yoy,01/01/2023,W.P. Labuan,Construction,1.751,2023
+growth_yoy,01/01/2023,W.P. Labuan,Services,2.155,2023
+growth_yoy,01/01/2023,W.P. Labuan,Import Duties,15.095,2023
+abs,01/01/2015,Supra,Overall GDP,51419.75,2015
+abs,01/01/2015,Supra,Agriculture,0,2015
+abs,01/01/2015,Supra,Mining & Quarrying,51419.75,2015
+abs,01/01/2015,Supra,Manufacturing,0,2015
+abs,01/01/2015,Supra,Construction,0,2015
+abs,01/01/2015,Supra,Services,0,2015
+abs,01/01/2015,Supra,Import Duties,0,2015
+abs,01/01/2016,Supra,Overall GDP,50562.395,2016
+abs,01/01/2016,Supra,Agriculture,0,2016
+abs,01/01/2016,Supra,Mining & Quarrying,50562.395,2016
+abs,01/01/2016,Supra,Manufacturing,0,2016
+abs,01/01/2016,Supra,Construction,0,2016
+abs,01/01/2016,Supra,Services,0,2016
+abs,01/01/2016,Supra,Import Duties,0,2016
+abs,01/01/2017,Supra,Overall GDP,46512.054,2017
+abs,01/01/2017,Supra,Agriculture,0,2017
+abs,01/01/2017,Supra,Mining & Quarrying,46512.054,2017
+abs,01/01/2017,Supra,Manufacturing,0,2017
+abs,01/01/2017,Supra,Construction,0,2017
+abs,01/01/2017,Supra,Services,0,2017
+abs,01/01/2017,Supra,Import Duties,0,2017
+abs,01/01/2018,Supra,Overall GDP,46044.467,2018
+abs,01/01/2018,Supra,Agriculture,0,2018
+abs,01/01/2018,Supra,Mining & Quarrying,46044.467,2018
+abs,01/01/2018,Supra,Manufacturing,0,2018
+abs,01/01/2018,Supra,Construction,0,2018
+abs,01/01/2018,Supra,Services,0,2018
+abs,01/01/2018,Supra,Import Duties,0,2018
+abs,01/01/2019,Supra,Overall GDP,45738.116,2019
+abs,01/01/2019,Supra,Agriculture,0,2019
+abs,01/01/2019,Supra,Mining & Quarrying,45738.116,2019
+abs,01/01/2019,Supra,Manufacturing,0,2019
+abs,01/01/2019,Supra,Construction,0,2019
+abs,01/01/2019,Supra,Services,0,2019
+abs,01/01/2019,Supra,Import Duties,0,2019
+abs,01/01/2020,Supra,Overall GDP,40697.536,2020
+abs,01/01/2020,Supra,Agriculture,0,2020
+abs,01/01/2020,Supra,Mining & Quarrying,40697.536,2020
+abs,01/01/2020,Supra,Manufacturing,0,2020
+abs,01/01/2020,Supra,Construction,0,2020
+abs,01/01/2020,Supra,Services,0,2020
+abs,01/01/2020,Supra,Import Duties,0,2020
+abs,01/01/2021,Supra,Overall GDP,41895.612,2021
+abs,01/01/2021,Supra,Agriculture,0,2021
+abs,01/01/2021,Supra,Mining & Quarrying,41895.612,2021
+abs,01/01/2021,Supra,Manufacturing,0,2021
+abs,01/01/2021,Supra,Construction,0,2021
+abs,01/01/2021,Supra,Services,0,2021
+abs,01/01/2021,Supra,Import Duties,0,2021
+abs,01/01/2022,Supra,Overall GDP,42872.705,2022
+abs,01/01/2022,Supra,Agriculture,0,2022
+abs,01/01/2022,Supra,Mining & Quarrying,42872.705,2022
+abs,01/01/2022,Supra,Manufacturing,0,2022
+abs,01/01/2022,Supra,Construction,0,2022
+abs,01/01/2022,Supra,Services,0,2022
+abs,01/01/2022,Supra,Import Duties,0,2022
+abs,01/01/2023,Supra,Overall GDP,44503.21,2023
+abs,01/01/2023,Supra,Agriculture,0,2023
+abs,01/01/2023,Supra,Mining & Quarrying,44503.21,2023
+abs,01/01/2023,Supra,Manufacturing,0,2023
+abs,01/01/2023,Supra,Construction,0,2023
+abs,01/01/2023,Supra,Services,0,2023
+abs,01/01/2023,Supra,Import Duties,0,2023
+growth_yoy,01/01/2016,Supra,Overall GDP,-1.667,2016
+growth_yoy,01/01/2016,Supra,Agriculture,,2016
+growth_yoy,01/01/2016,Supra,Mining & Quarrying,-1.667,2016
+growth_yoy,01/01/2016,Supra,Manufacturing,,2016
+growth_yoy,01/01/2016,Supra,Construction,,2016
+growth_yoy,01/01/2016,Supra,Services,,2016
+growth_yoy,01/01/2016,Supra,Import Duties,,2016
+growth_yoy,01/01/2017,Supra,Overall GDP,-8.011,2017
+growth_yoy,01/01/2017,Supra,Agriculture,,2017
+growth_yoy,01/01/2017,Supra,Mining & Quarrying,-8.011,2017
+growth_yoy,01/01/2017,Supra,Manufacturing,,2017
+growth_yoy,01/01/2017,Supra,Construction,,2017
+growth_yoy,01/01/2017,Supra,Services,,2017
+growth_yoy,01/01/2017,Supra,Import Duties,,2017
+growth_yoy,01/01/2018,Supra,Overall GDP,-1.005,2018
+growth_yoy,01/01/2018,Supra,Agriculture,,2018
+growth_yoy,01/01/2018,Supra,Mining & Quarrying,-1.005,2018
+growth_yoy,01/01/2018,Supra,Manufacturing,,2018
+growth_yoy,01/01/2018,Supra,Construction,,2018
+growth_yoy,01/01/2018,Supra,Services,,2018
+growth_yoy,01/01/2018,Supra,Import Duties,,2018
+growth_yoy,01/01/2019,Supra,Overall GDP,-0.665,2019
+growth_yoy,01/01/2019,Supra,Agriculture,,2019
+growth_yoy,01/01/2019,Supra,Mining & Quarrying,-0.665,2019
+growth_yoy,01/01/2019,Supra,Manufacturing,,2019
+growth_yoy,01/01/2019,Supra,Construction,,2019
+growth_yoy,01/01/2019,Supra,Services,,2019
+growth_yoy,01/01/2019,Supra,Import Duties,,2019
+growth_yoy,01/01/2020,Supra,Overall GDP,-11.021,2020
+growth_yoy,01/01/2020,Supra,Agriculture,,2020
+growth_yoy,01/01/2020,Supra,Mining & Quarrying,-11.021,2020
+growth_yoy,01/01/2020,Supra,Manufacturing,,2020
+growth_yoy,01/01/2020,Supra,Construction,,2020
+growth_yoy,01/01/2020,Supra,Services,,2020
+growth_yoy,01/01/2020,Supra,Import Duties,,2020
+growth_yoy,01/01/2021,Supra,Overall GDP,2.944,2021
+growth_yoy,01/01/2021,Supra,Agriculture,,2021
+growth_yoy,01/01/2021,Supra,Mining & Quarrying,2.944,2021
+growth_yoy,01/01/2021,Supra,Manufacturing,,2021
+growth_yoy,01/01/2021,Supra,Construction,,2021
+growth_yoy,01/01/2021,Supra,Services,,2021
+growth_yoy,01/01/2021,Supra,Import Duties,,2021
+growth_yoy,01/01/2022,Supra,Overall GDP,2.332,2022
+growth_yoy,01/01/2022,Supra,Agriculture,,2022
+growth_yoy,01/01/2022,Supra,Mining & Quarrying,2.332,2022
+growth_yoy,01/01/2022,Supra,Manufacturing,,2022
+growth_yoy,01/01/2022,Supra,Construction,,2022
+growth_yoy,01/01/2022,Supra,Services,,2022
+growth_yoy,01/01/2022,Supra,Import Duties,,2022
+growth_yoy,01/01/2023,Supra,Overall GDP,3.803,2023
+growth_yoy,01/01/2023,Supra,Agriculture,,2023
+growth_yoy,01/01/2023,Supra,Mining & Quarrying,3.803,2023
+growth_yoy,01/01/2023,Supra,Manufacturing,,2023
+growth_yoy,01/01/2023,Supra,Construction,,2023
+growth_yoy,01/01/2023,Supra,Services,,2023
+growth_yoy,01/01/2023,Supra,Import Duties,,2023
