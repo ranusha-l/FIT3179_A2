@@ -51,7 +51,7 @@
           "color": {
             "field": "value",
             "type": "quantitative",
-            "scale": {"type": "sqrt", "scheme": "viridis"},
+            "scale": {"type": "sqrt", "scheme": "yellowgreenblue"},
             "title": "GDP"
           },
           "tooltip": [
@@ -61,6 +61,13 @@
             {"field": "sector", "type": "nominal", "title": "Sector"}
           ]
         }
+      },
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/ranusha-l/FIT3179_A2/refs/heads/main/ne_110m_ocean.json",
+          "format": {"type": "topojson", "feature": "oceans"}
+        },
+        "mark": {"type": "geoshape", "fill": "skyblue"}
       }
     ]
   }

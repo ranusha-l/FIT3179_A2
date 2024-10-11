@@ -16,6 +16,7 @@
       "sector_select": {
         "type": "single",
         "fields": ["sector"],
+        "value": "Overall GDP",
         "bind": {
           "input": "select",
           "options": ["Overall GDP", "Mining & Quarrying", "Construction", "Import Duties", "Agriculture", "Services", "Manufacturing"],
