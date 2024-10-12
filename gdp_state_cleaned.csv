@@ -90,20 +90,20 @@ abs,01/01/2015,Terengganu,Manufacturing,11296.446,2015
 abs,01/01/2015,Terengganu,Construction,903.75,2015
 abs,01/01/2015,Terengganu,Services,15965.109,2015
 abs,01/01/2015,Terengganu,Import Duties,48.757,2015
-abs,01/01/2015,W.P. Kuala Lumpur,Overall GDP,180864.541,2015
-abs,01/01/2015,W.P. Kuala Lumpur,Agriculture,0,2015
-abs,01/01/2015,W.P. Kuala Lumpur,Mining & Quarrying,117.469,2015
-abs,01/01/2015,W.P. Kuala Lumpur,Manufacturing,5641.072,2015
-abs,01/01/2015,W.P. Kuala Lumpur,Construction,12915.189,2015
-abs,01/01/2015,W.P. Kuala Lumpur,Services,159751.802,2015
-abs,01/01/2015,W.P. Kuala Lumpur,Import Duties,2437.469,2015
-abs,01/01/2015,W.P. Labuan,Overall GDP,5999.225,2015
-abs,01/01/2015,W.P. Labuan,Agriculture,118.109,2015
-abs,01/01/2015,W.P. Labuan,Mining & Quarrying,0,2015
-abs,01/01/2015,W.P. Labuan,Manufacturing,1168.465,2015
-abs,01/01/2015,W.P. Labuan,Construction,148.418,2015
-abs,01/01/2015,W.P. Labuan,Services,4490.305,2015
-abs,01/01/2015,W.P. Labuan,Import Duties,73.928,2015
+abs,01/01/2015,Kuala Lumpur,Overall GDP,180864.541,2015
+abs,01/01/2015,Kuala Lumpur,Agriculture,0,2015
+abs,01/01/2015,Kuala Lumpur,Mining & Quarrying,117.469,2015
+abs,01/01/2015,Kuala Lumpur,Manufacturing,5641.072,2015
+abs,01/01/2015,Kuala Lumpur,Construction,12915.189,2015
+abs,01/01/2015,Kuala Lumpur,Services,159751.802,2015
+abs,01/01/2015,Kuala Lumpur,Import Duties,2437.469,2015
+abs,01/01/2015,Labuan,Overall GDP,5999.225,2015
+abs,01/01/2015,Labuan,Agriculture,118.109,2015
+abs,01/01/2015,Labuan,Mining & Quarrying,0,2015
+abs,01/01/2015,Labuan,Manufacturing,1168.465,2015
+abs,01/01/2015,Labuan,Construction,148.418,2015
+abs,01/01/2015,Labuan,Services,4490.305,2015
+abs,01/01/2015,Labuan,Import Duties,73.928,2015
 abs,01/01/2016,Johor,Overall GDP,116682.227,2016
 abs,01/01/2016,Johor,Agriculture,15029.966,2016
 abs,01/01/2016,Johor,Mining & Quarrying,569.326,2016
@@ -195,20 +195,20 @@ abs,01/01/2016,Terengganu,Manufacturing,12115.969,2016
 abs,01/01/2016,Terengganu,Construction,919.66,2016
 abs,01/01/2016,Terengganu,Services,16207.034,2016
 abs,01/01/2016,Terengganu,Import Duties,49.718,2016
-abs,01/01/2016,W.P. Kuala Lumpur,Overall GDP,191640.985,2016
-abs,01/01/2016,W.P. Kuala Lumpur,Agriculture,0,2016
-abs,01/01/2016,W.P. Kuala Lumpur,Mining & Quarrying,129.065,2016
-abs,01/01/2016,W.P. Kuala Lumpur,Manufacturing,5794.6,2016
-abs,01/01/2016,W.P. Kuala Lumpur,Construction,14509.479,2016
-abs,01/01/2016,W.P. Kuala Lumpur,Services,168742.436,2016
-abs,01/01/2016,W.P. Kuala Lumpur,Import Duties,2463.885,2016
-abs,01/01/2016,W.P. Labuan,Overall GDP,6412.031,2016
-abs,01/01/2016,W.P. Labuan,Agriculture,114.448,2016
-abs,01/01/2016,W.P. Labuan,Mining & Quarrying,0,2016
-abs,01/01/2016,W.P. Labuan,Manufacturing,1255.813,2016
-abs,01/01/2016,W.P. Labuan,Construction,120.57,2016
-abs,01/01/2016,W.P. Labuan,Services,4844.388,2016
-abs,01/01/2016,W.P. Labuan,Import Duties,76.813,2016
+abs,01/01/2016,Kuala Lumpur,Overall GDP,191640.985,2016
+abs,01/01/2016,Kuala Lumpur,Agriculture,0,2016
+abs,01/01/2016,Kuala Lumpur,Mining & Quarrying,129.065,2016
+abs,01/01/2016,Kuala Lumpur,Manufacturing,5794.6,2016
+abs,01/01/2016,Kuala Lumpur,Construction,14509.479,2016
+abs,01/01/2016,Kuala Lumpur,Services,168742.436,2016
+abs,01/01/2016,Kuala Lumpur,Import Duties,2463.885,2016
+abs,01/01/2016,Labuan,Overall GDP,6412.031,2016
+abs,01/01/2016,Labuan,Agriculture,114.448,2016
+abs,01/01/2016,Labuan,Mining & Quarrying,0,2016
+abs,01/01/2016,Labuan,Manufacturing,1255.813,2016
+abs,01/01/2016,Labuan,Construction,120.57,2016
+abs,01/01/2016,Labuan,Services,4844.388,2016
+abs,01/01/2016,Labuan,Import Duties,76.813,2016
 abs,01/01/2017,Johor,Overall GDP,123561.327,2017
 abs,01/01/2017,Johor,Agriculture,16169.986,2017
 abs,01/01/2017,Johor,Mining & Quarrying,655.514,2017
@@ -300,20 +300,20 @@ abs,01/01/2017,Terengganu,Manufacturing,12586.427,2017
 abs,01/01/2017,Terengganu,Construction,1275.923,2017
 abs,01/01/2017,Terengganu,Services,16916.309,2017
 abs,01/01/2017,Terengganu,Import Duties,104.767,2017
-abs,01/01/2017,W.P. Kuala Lumpur,Overall GDP,206175.307,2017
-abs,01/01/2017,W.P. Kuala Lumpur,Agriculture,0,2017
-abs,01/01/2017,W.P. Kuala Lumpur,Mining & Quarrying,145.62,2017
-abs,01/01/2017,W.P. Kuala Lumpur,Manufacturing,5870.658,2017
-abs,01/01/2017,W.P. Kuala Lumpur,Construction,16406.305,2017
-abs,01/01/2017,W.P. Kuala Lumpur,Services,180195.571,2017
-abs,01/01/2017,W.P. Kuala Lumpur,Import Duties,3555.524,2017
-abs,01/01/2017,W.P. Labuan,Overall GDP,6789.806,2017
-abs,01/01/2017,W.P. Labuan,Agriculture,118.722,2017
-abs,01/01/2017,W.P. Labuan,Mining & Quarrying,0,2017
-abs,01/01/2017,W.P. Labuan,Manufacturing,1295.515,2017
-abs,01/01/2017,W.P. Labuan,Construction,135.768,2017
-abs,01/01/2017,W.P. Labuan,Services,5092.569,2017
-abs,01/01/2017,W.P. Labuan,Import Duties,147.231,2017
+abs,01/01/2017,Kuala Lumpur,Overall GDP,206175.307,2017
+abs,01/01/2017,Kuala Lumpur,Agriculture,0,2017
+abs,01/01/2017,Kuala Lumpur,Mining & Quarrying,145.62,2017
+abs,01/01/2017,Kuala Lumpur,Manufacturing,5870.658,2017
+abs,01/01/2017,Kuala Lumpur,Construction,16406.305,2017
+abs,01/01/2017,Kuala Lumpur,Services,180195.571,2017
+abs,01/01/2017,Kuala Lumpur,Import Duties,3555.524,2017
+abs,01/01/2017,Labuan,Overall GDP,6789.806,2017
+abs,01/01/2017,Labuan,Agriculture,118.722,2017
+abs,01/01/2017,Labuan,Mining & Quarrying,0,2017
+abs,01/01/2017,Labuan,Manufacturing,1295.515,2017
+abs,01/01/2017,Labuan,Construction,135.768,2017
+abs,01/01/2017,Labuan,Services,5092.569,2017
+abs,01/01/2017,Labuan,Import Duties,147.231,2017
 abs,01/01/2018,Johor,Overall GDP,130585.945,2018
 abs,01/01/2018,Johor,Agriculture,16246.395,2018
 abs,01/01/2018,Johor,Mining & Quarrying,711.119,2018
@@ -405,20 +405,20 @@ abs,01/01/2018,Terengganu,Manufacturing,13055.539,2018
 abs,01/01/2018,Terengganu,Construction,1161.133,2018
 abs,01/01/2018,Terengganu,Services,17527.333,2018
 abs,01/01/2018,Terengganu,Import Duties,64.051,2018
-abs,01/01/2018,W.P. Kuala Lumpur,Overall GDP,220358.974,2018
-abs,01/01/2018,W.P. Kuala Lumpur,Agriculture,0,2018
-abs,01/01/2018,W.P. Kuala Lumpur,Mining & Quarrying,145.724,2018
-abs,01/01/2018,W.P. Kuala Lumpur,Manufacturing,5867.619,2018
-abs,01/01/2018,W.P. Kuala Lumpur,Construction,17446.124,2018
-abs,01/01/2018,W.P. Kuala Lumpur,Services,193472.341,2018
-abs,01/01/2018,W.P. Kuala Lumpur,Import Duties,3425.512,2018
-abs,01/01/2018,W.P. Labuan,Overall GDP,7244.941,2018
-abs,01/01/2018,W.P. Labuan,Agriculture,125.608,2018
-abs,01/01/2018,W.P. Labuan,Mining & Quarrying,0,2018
-abs,01/01/2018,W.P. Labuan,Manufacturing,1364.66,2018
-abs,01/01/2018,W.P. Labuan,Construction,156.064,2018
-abs,01/01/2018,W.P. Labuan,Services,5480.777,2018
-abs,01/01/2018,W.P. Labuan,Import Duties,117.831,2018
+abs,01/01/2018,Kuala Lumpur,Overall GDP,220358.974,2018
+abs,01/01/2018,Kuala Lumpur,Agriculture,0,2018
+abs,01/01/2018,Kuala Lumpur,Mining & Quarrying,145.724,2018
+abs,01/01/2018,Kuala Lumpur,Manufacturing,5867.619,2018
+abs,01/01/2018,Kuala Lumpur,Construction,17446.124,2018
+abs,01/01/2018,Kuala Lumpur,Services,193472.341,2018
+abs,01/01/2018,Kuala Lumpur,Import Duties,3425.512,2018
+abs,01/01/2018,Labuan,Overall GDP,7244.941,2018
+abs,01/01/2018,Labuan,Agriculture,125.608,2018
+abs,01/01/2018,Labuan,Mining & Quarrying,0,2018
+abs,01/01/2018,Labuan,Manufacturing,1364.66,2018
+abs,01/01/2018,Labuan,Construction,156.064,2018
+abs,01/01/2018,Labuan,Services,5480.777,2018
+abs,01/01/2018,Labuan,Import Duties,117.831,2018
 abs,01/01/2019,Johor,Overall GDP,134225.938,2019
 abs,01/01/2019,Johor,Agriculture,16403.246,2019
 abs,01/01/2019,Johor,Mining & Quarrying,812.547,2019
@@ -510,20 +510,20 @@ abs,01/01/2019,Terengganu,Manufacturing,13093.274,2019
 abs,01/01/2019,Terengganu,Construction,1165.429,2019
 abs,01/01/2019,Terengganu,Services,18508.873,2019
 abs,01/01/2019,Terengganu,Import Duties,15.941,2019
-abs,01/01/2019,W.P. Kuala Lumpur,Overall GDP,233793.693,2019
-abs,01/01/2019,W.P. Kuala Lumpur,Agriculture,0,2019
-abs,01/01/2019,W.P. Kuala Lumpur,Mining & Quarrying,152.637,2019
-abs,01/01/2019,W.P. Kuala Lumpur,Manufacturing,6119.096,2019
-abs,01/01/2019,W.P. Kuala Lumpur,Construction,18469.697,2019
-abs,01/01/2019,W.P. Kuala Lumpur,Services,205330.858,2019
-abs,01/01/2019,W.P. Kuala Lumpur,Import Duties,3719.753,2019
-abs,01/01/2019,W.P. Labuan,Overall GDP,7623.268,2019
-abs,01/01/2019,W.P. Labuan,Agriculture,133.251,2019
-abs,01/01/2019,W.P. Labuan,Mining & Quarrying,0,2019
-abs,01/01/2019,W.P. Labuan,Manufacturing,1383.647,2019
-abs,01/01/2019,W.P. Labuan,Construction,177.184,2019
-abs,01/01/2019,W.P. Labuan,Services,5897.621,2019
-abs,01/01/2019,W.P. Labuan,Import Duties,31.566,2019
+abs,01/01/2019,Kuala Lumpur,Overall GDP,233793.693,2019
+abs,01/01/2019,Kuala Lumpur,Agriculture,0,2019
+abs,01/01/2019,Kuala Lumpur,Mining & Quarrying,152.637,2019
+abs,01/01/2019,Kuala Lumpur,Manufacturing,6119.096,2019
+abs,01/01/2019,Kuala Lumpur,Construction,18469.697,2019
+abs,01/01/2019,Kuala Lumpur,Services,205330.858,2019
+abs,01/01/2019,Kuala Lumpur,Import Duties,3719.753,2019
+abs,01/01/2019,Labuan,Overall GDP,7623.268,2019
+abs,01/01/2019,Labuan,Agriculture,133.251,2019
+abs,01/01/2019,Labuan,Mining & Quarrying,0,2019
+abs,01/01/2019,Labuan,Manufacturing,1383.647,2019
+abs,01/01/2019,Labuan,Construction,177.184,2019
+abs,01/01/2019,Labuan,Services,5897.621,2019
+abs,01/01/2019,Labuan,Import Duties,31.566,2019
 abs,01/01/2020,Johor,Overall GDP,128073.564,2020
 abs,01/01/2020,Johor,Agriculture,16856.55,2020
 abs,01/01/2020,Johor,Mining & Quarrying,657.515,2020
@@ -615,20 +615,20 @@ abs,01/01/2020,Terengganu,Manufacturing,11861.58,2020
 abs,01/01/2020,Terengganu,Construction,1080.445,2020
 abs,01/01/2020,Terengganu,Services,17942.611,2020
 abs,01/01/2020,Terengganu,Import Duties,30.687,2020
-abs,01/01/2020,W.P. Kuala Lumpur,Overall GDP,217447.043,2020
-abs,01/01/2020,W.P. Kuala Lumpur,Agriculture,0,2020
-abs,01/01/2020,W.P. Kuala Lumpur,Mining & Quarrying,138.272,2020
-abs,01/01/2020,W.P. Kuala Lumpur,Manufacturing,5733.447,2020
-abs,01/01/2020,W.P. Kuala Lumpur,Construction,13589.06,2020
-abs,01/01/2020,W.P. Kuala Lumpur,Services,194204.167,2020
-abs,01/01/2020,W.P. Kuala Lumpur,Import Duties,3780.403,2020
-abs,01/01/2020,W.P. Labuan,Overall GDP,7613.361,2020
-abs,01/01/2020,W.P. Labuan,Agriculture,115.129,2020
-abs,01/01/2020,W.P. Labuan,Mining & Quarrying,0,2020
-abs,01/01/2020,W.P. Labuan,Manufacturing,1367.505,2020
-abs,01/01/2020,W.P. Labuan,Construction,162.59,2020
-abs,01/01/2020,W.P. Labuan,Services,5910.296,2020
-abs,01/01/2020,W.P. Labuan,Import Duties,57.841,2020
+abs,01/01/2020,Kuala Lumpur,Overall GDP,217447.043,2020
+abs,01/01/2020,Kuala Lumpur,Agriculture,0,2020
+abs,01/01/2020,Kuala Lumpur,Mining & Quarrying,138.272,2020
+abs,01/01/2020,Kuala Lumpur,Manufacturing,5733.447,2020
+abs,01/01/2020,Kuala Lumpur,Construction,13589.06,2020
+abs,01/01/2020,Kuala Lumpur,Services,194204.167,2020
+abs,01/01/2020,Kuala Lumpur,Import Duties,3780.403,2020
+abs,01/01/2020,Labuan,Overall GDP,7613.361,2020
+abs,01/01/2020,Labuan,Agriculture,115.129,2020
+abs,01/01/2020,Labuan,Mining & Quarrying,0,2020
+abs,01/01/2020,Labuan,Manufacturing,1367.505,2020
+abs,01/01/2020,Labuan,Construction,162.59,2020
+abs,01/01/2020,Labuan,Services,5910.296,2020
+abs,01/01/2020,Labuan,Import Duties,57.841,2020
 abs,01/01/2021,Johor,Overall GDP,131242.981,2021
 abs,01/01/2021,Johor,Agriculture,16882.569,2021
 abs,01/01/2021,Johor,Mining & Quarrying,586.874,2021
@@ -720,20 +720,20 @@ abs,01/01/2021,Terengganu,Manufacturing,12984.114,2021
 abs,01/01/2021,Terengganu,Construction,1105.7,2021
 abs,01/01/2021,Terengganu,Services,18200.843,2021
 abs,01/01/2021,Terengganu,Import Duties,15.999,2021
-abs,01/01/2021,W.P. Kuala Lumpur,Overall GDP,219883.721,2021
-abs,01/01/2021,W.P. Kuala Lumpur,Agriculture,0,2021
-abs,01/01/2021,W.P. Kuala Lumpur,Mining & Quarrying,134.235,2021
-abs,01/01/2021,W.P. Kuala Lumpur,Manufacturing,5977.909,2021
-abs,01/01/2021,W.P. Kuala Lumpur,Construction,11966.1,2021
-abs,01/01/2021,W.P. Kuala Lumpur,Services,197978.504,2021
-abs,01/01/2021,W.P. Kuala Lumpur,Import Duties,3825.288,2021
-abs,01/01/2021,W.P. Labuan,Overall GDP,7649.669,2021
-abs,01/01/2021,W.P. Labuan,Agriculture,116.628,2021
-abs,01/01/2021,W.P. Labuan,Mining & Quarrying,0,2021
-abs,01/01/2021,W.P. Labuan,Manufacturing,1353.715,2021
-abs,01/01/2021,W.P. Labuan,Construction,143.3,2021
-abs,01/01/2021,W.P. Labuan,Services,5996.655,2021
-abs,01/01/2021,W.P. Labuan,Import Duties,39.372,2021
+abs,01/01/2021,Kuala Lumpur,Overall GDP,219883.721,2021
+abs,01/01/2021,Kuala Lumpur,Agriculture,0,2021
+abs,01/01/2021,Kuala Lumpur,Mining & Quarrying,134.235,2021
+abs,01/01/2021,Kuala Lumpur,Manufacturing,5977.909,2021
+abs,01/01/2021,Kuala Lumpur,Construction,11966.1,2021
+abs,01/01/2021,Kuala Lumpur,Services,197978.504,2021
+abs,01/01/2021,Kuala Lumpur,Import Duties,3825.288,2021
+abs,01/01/2021,Labuan,Overall GDP,7649.669,2021
+abs,01/01/2021,Labuan,Agriculture,116.628,2021
+abs,01/01/2021,Labuan,Mining & Quarrying,0,2021
+abs,01/01/2021,Labuan,Manufacturing,1353.715,2021
+abs,01/01/2021,Labuan,Construction,143.3,2021
+abs,01/01/2021,Labuan,Services,5996.655,2021
+abs,01/01/2021,Labuan,Import Duties,39.372,2021
 abs,01/01/2022,Johor,Overall GDP,142369.692,2022
 abs,01/01/2022,Johor,Agriculture,17402.664,2022
 abs,01/01/2022,Johor,Mining & Quarrying,648.636,2022
@@ -825,20 +825,20 @@ abs,01/01/2022,Terengganu,Manufacturing,14061.235,2022
 abs,01/01/2022,Terengganu,Construction,1143.569,2022
 abs,01/01/2022,Terengganu,Services,19284.074,2022
 abs,01/01/2022,Terengganu,Import Duties,8.308,2022
-abs,01/01/2022,W.P. Kuala Lumpur,Overall GDP,240517.538,2022
-abs,01/01/2022,W.P. Kuala Lumpur,Agriculture,0,2022
-abs,01/01/2022,W.P. Kuala Lumpur,Mining & Quarrying,147.775,2022
-abs,01/01/2022,W.P. Kuala Lumpur,Manufacturing,6297.152,2022
-abs,01/01/2022,W.P. Kuala Lumpur,Construction,12212.196,2022
-abs,01/01/2022,W.P. Kuala Lumpur,Services,219683.46,2022
-abs,01/01/2022,W.P. Kuala Lumpur,Import Duties,2175.199,2022
-abs,01/01/2022,W.P. Labuan,Overall GDP,7962.511,2022
-abs,01/01/2022,W.P. Labuan,Agriculture,122.137,2022
-abs,01/01/2022,W.P. Labuan,Mining & Quarrying,0,2022
-abs,01/01/2022,W.P. Labuan,Manufacturing,1376.733,2022
-abs,01/01/2022,W.P. Labuan,Construction,147.96,2022
-abs,01/01/2022,W.P. Labuan,Services,6281.577,2022
-abs,01/01/2022,W.P. Labuan,Import Duties,34.104,2022
+abs,01/01/2022,Kuala Lumpur,Overall GDP,240517.538,2022
+abs,01/01/2022,Kuala Lumpur,Agriculture,0,2022
+abs,01/01/2022,Kuala Lumpur,Mining & Quarrying,147.775,2022
+abs,01/01/2022,Kuala Lumpur,Manufacturing,6297.152,2022
+abs,01/01/2022,Kuala Lumpur,Construction,12212.196,2022
+abs,01/01/2022,Kuala Lumpur,Services,219683.46,2022
+abs,01/01/2022,Kuala Lumpur,Import Duties,2175.199,2022
+abs,01/01/2022,Labuan,Overall GDP,7962.511,2022
+abs,01/01/2022,Labuan,Agriculture,122.137,2022
+abs,01/01/2022,Labuan,Mining & Quarrying,0,2022
+abs,01/01/2022,Labuan,Manufacturing,1376.733,2022
+abs,01/01/2022,Labuan,Construction,147.96,2022
+abs,01/01/2022,Labuan,Services,6281.577,2022
+abs,01/01/2022,Labuan,Import Duties,34.104,2022
 abs,01/01/2023,Johor,Overall GDP,148204.766,2023
 abs,01/01/2023,Johor,Agriculture,17205.216,2023
 abs,01/01/2023,Johor,Mining & Quarrying,691.086,2023
@@ -930,20 +930,20 @@ abs,01/01/2023,Terengganu,Manufacturing,14083.591,2023
 abs,01/01/2023,Terengganu,Construction,1161.791,2023
 abs,01/01/2023,Terengganu,Services,19876.587,2023
 abs,01/01/2023,Terengganu,Import Duties,14.723,2023
-abs,01/01/2023,W.P. Kuala Lumpur,Overall GDP,249301.544,2023
-abs,01/01/2023,W.P. Kuala Lumpur,Agriculture,0,2023
-abs,01/01/2023,W.P. Kuala Lumpur,Mining & Quarrying,152.658,2023
-abs,01/01/2023,W.P. Kuala Lumpur,Manufacturing,6412.314,2023
-abs,01/01/2023,W.P. Kuala Lumpur,Construction,11121.63,2023
-abs,01/01/2023,W.P. Kuala Lumpur,Services,230391.822,2023
-abs,01/01/2023,W.P. Kuala Lumpur,Import Duties,1221.887,2023
-abs,01/01/2023,W.P. Labuan,Overall GDP,8115.199,2023
-abs,01/01/2023,W.P. Labuan,Agriculture,126.045,2023
-abs,01/01/2023,W.P. Labuan,Mining & Quarrying,0,2023
-abs,01/01/2023,W.P. Labuan,Manufacturing,1382.377,2023
-abs,01/01/2023,W.P. Labuan,Construction,150.551,2023
-abs,01/01/2023,W.P. Labuan,Services,6416.974,2023
-abs,01/01/2023,W.P. Labuan,Import Duties,39.252,2023
+abs,01/01/2023,Kuala Lumpur,Overall GDP,249301.544,2023
+abs,01/01/2023,Kuala Lumpur,Agriculture,0,2023
+abs,01/01/2023,Kuala Lumpur,Mining & Quarrying,152.658,2023
+abs,01/01/2023,Kuala Lumpur,Manufacturing,6412.314,2023
+abs,01/01/2023,Kuala Lumpur,Construction,11121.63,2023
+abs,01/01/2023,Kuala Lumpur,Services,230391.822,2023
+abs,01/01/2023,Kuala Lumpur,Import Duties,1221.887,2023
+abs,01/01/2023,Labuan,Overall GDP,8115.199,2023
+abs,01/01/2023,Labuan,Agriculture,126.045,2023
+abs,01/01/2023,Labuan,Mining & Quarrying,0,2023
+abs,01/01/2023,Labuan,Manufacturing,1382.377,2023
+abs,01/01/2023,Labuan,Construction,150.551,2023
+abs,01/01/2023,Labuan,Services,6416.974,2023
+abs,01/01/2023,Labuan,Import Duties,39.252,2023
 growth_yoy,01/01/2016,Johor,Overall GDP,6.073,2016
 growth_yoy,01/01/2016,Johor,Agriculture,-3.718,2016
 growth_yoy,01/01/2016,Johor,Mining & Quarrying,19.697,2016
@@ -1035,20 +1035,20 @@ growth_yoy,01/01/2016,Terengganu,Manufacturing,7.255,2016
 growth_yoy,01/01/2016,Terengganu,Construction,1.76,2016
 growth_yoy,01/01/2016,Terengganu,Services,1.515,2016
 growth_yoy,01/01/2016,Terengganu,Import Duties,1.971,2016
-growth_yoy,01/01/2016,W.P. Kuala Lumpur,Overall GDP,5.958,2016
-growth_yoy,01/01/2016,W.P. Kuala Lumpur,Agriculture,,2016
-growth_yoy,01/01/2016,W.P. Kuala Lumpur,Mining & Quarrying,9.872,2016
-growth_yoy,01/01/2016,W.P. Kuala Lumpur,Manufacturing,2.722,2016
-growth_yoy,01/01/2016,W.P. Kuala Lumpur,Construction,12.344,2016
-growth_yoy,01/01/2016,W.P. Kuala Lumpur,Services,5.628,2016
-growth_yoy,01/01/2016,W.P. Kuala Lumpur,Import Duties,1.084,2016
-growth_yoy,01/01/2016,W.P. Labuan,Overall GDP,6.881,2016
-growth_yoy,01/01/2016,W.P. Labuan,Agriculture,-3.1,2016
-growth_yoy,01/01/2016,W.P. Labuan,Mining & Quarrying,,2016
-growth_yoy,01/01/2016,W.P. Labuan,Manufacturing,7.475,2016
-growth_yoy,01/01/2016,W.P. Labuan,Construction,-18.763,2016
-growth_yoy,01/01/2016,W.P. Labuan,Services,7.885,2016
-growth_yoy,01/01/2016,W.P. Labuan,Import Duties,3.902,2016
+growth_yoy,01/01/2016,Kuala Lumpur,Overall GDP,5.958,2016
+growth_yoy,01/01/2016,Kuala Lumpur,Agriculture,,2016
+growth_yoy,01/01/2016,Kuala Lumpur,Mining & Quarrying,9.872,2016
+growth_yoy,01/01/2016,Kuala Lumpur,Manufacturing,2.722,2016
+growth_yoy,01/01/2016,Kuala Lumpur,Construction,12.344,2016
+growth_yoy,01/01/2016,Kuala Lumpur,Services,5.628,2016
+growth_yoy,01/01/2016,Kuala Lumpur,Import Duties,1.084,2016
+growth_yoy,01/01/2016,Labuan,Overall GDP,6.881,2016
+growth_yoy,01/01/2016,Labuan,Agriculture,-3.1,2016
+growth_yoy,01/01/2016,Labuan,Mining & Quarrying,,2016
+growth_yoy,01/01/2016,Labuan,Manufacturing,7.475,2016
+growth_yoy,01/01/2016,Labuan,Construction,-18.763,2016
+growth_yoy,01/01/2016,Labuan,Services,7.885,2016
+growth_yoy,01/01/2016,Labuan,Import Duties,3.902,2016
 growth_yoy,01/01/2017,Johor,Overall GDP,5.896,2017
 growth_yoy,01/01/2017,Johor,Agriculture,7.585,2017
 growth_yoy,01/01/2017,Johor,Mining & Quarrying,15.139,2017
@@ -1140,20 +1140,20 @@ growth_yoy,01/01/2017,Terengganu,Manufacturing,3.883,2017
 growth_yoy,01/01/2017,Terengganu,Construction,38.739,2017
 growth_yoy,01/01/2017,Terengganu,Services,4.376,2017
 growth_yoy,01/01/2017,Terengganu,Import Duties,110.722,2017
-growth_yoy,01/01/2017,W.P. Kuala Lumpur,Overall GDP,7.584,2017
-growth_yoy,01/01/2017,W.P. Kuala Lumpur,Agriculture,,2017
-growth_yoy,01/01/2017,W.P. Kuala Lumpur,Mining & Quarrying,12.827,2017
-growth_yoy,01/01/2017,W.P. Kuala Lumpur,Manufacturing,1.313,2017
-growth_yoy,01/01/2017,W.P. Kuala Lumpur,Construction,13.073,2017
-growth_yoy,01/01/2017,W.P. Kuala Lumpur,Services,6.787,2017
-growth_yoy,01/01/2017,W.P. Kuala Lumpur,Import Duties,44.306,2017
-growth_yoy,01/01/2017,W.P. Labuan,Overall GDP,5.892,2017
-growth_yoy,01/01/2017,W.P. Labuan,Agriculture,3.734,2017
-growth_yoy,01/01/2017,W.P. Labuan,Mining & Quarrying,,2017
-growth_yoy,01/01/2017,W.P. Labuan,Manufacturing,3.161,2017
-growth_yoy,01/01/2017,W.P. Labuan,Construction,12.605,2017
-growth_yoy,01/01/2017,W.P. Labuan,Services,5.123,2017
-growth_yoy,01/01/2017,W.P. Labuan,Import Duties,91.675,2017
+growth_yoy,01/01/2017,Kuala Lumpur,Overall GDP,7.584,2017
+growth_yoy,01/01/2017,Kuala Lumpur,Agriculture,,2017
+growth_yoy,01/01/2017,Kuala Lumpur,Mining & Quarrying,12.827,2017
+growth_yoy,01/01/2017,Kuala Lumpur,Manufacturing,1.313,2017
+growth_yoy,01/01/2017,Kuala Lumpur,Construction,13.073,2017
+growth_yoy,01/01/2017,Kuala Lumpur,Services,6.787,2017
+growth_yoy,01/01/2017,Kuala Lumpur,Import Duties,44.306,2017
+growth_yoy,01/01/2017,Labuan,Overall GDP,5.892,2017
+growth_yoy,01/01/2017,Labuan,Agriculture,3.734,2017
+growth_yoy,01/01/2017,Labuan,Mining & Quarrying,,2017
+growth_yoy,01/01/2017,Labuan,Manufacturing,3.161,2017
+growth_yoy,01/01/2017,Labuan,Construction,12.605,2017
+growth_yoy,01/01/2017,Labuan,Services,5.123,2017
+growth_yoy,01/01/2017,Labuan,Import Duties,91.675,2017
 growth_yoy,01/01/2018,Johor,Overall GDP,5.685,2018
 growth_yoy,01/01/2018,Johor,Agriculture,0.473,2018
 growth_yoy,01/01/2018,Johor,Mining & Quarrying,8.483,2018
@@ -1245,20 +1245,20 @@ growth_yoy,01/01/2018,Terengganu,Manufacturing,3.727,2018
 growth_yoy,01/01/2018,Terengganu,Construction,-8.997,2018
 growth_yoy,01/01/2018,Terengganu,Services,3.612,2018
 growth_yoy,01/01/2018,Terengganu,Import Duties,-38.863,2018
-growth_yoy,01/01/2018,W.P. Kuala Lumpur,Overall GDP,6.879,2018
-growth_yoy,01/01/2018,W.P. Kuala Lumpur,Agriculture,,2018
-growth_yoy,01/01/2018,W.P. Kuala Lumpur,Mining & Quarrying,0.071,2018
-growth_yoy,01/01/2018,W.P. Kuala Lumpur,Manufacturing,-0.052,2018
-growth_yoy,01/01/2018,W.P. Kuala Lumpur,Construction,6.338,2018
-growth_yoy,01/01/2018,W.P. Kuala Lumpur,Services,7.368,2018
-growth_yoy,01/01/2018,W.P. Kuala Lumpur,Import Duties,-3.657,2018
-growth_yoy,01/01/2018,W.P. Labuan,Overall GDP,6.703,2018
-growth_yoy,01/01/2018,W.P. Labuan,Agriculture,5.8,2018
-growth_yoy,01/01/2018,W.P. Labuan,Mining & Quarrying,,2018
-growth_yoy,01/01/2018,W.P. Labuan,Manufacturing,5.337,2018
-growth_yoy,01/01/2018,W.P. Labuan,Construction,14.949,2018
-growth_yoy,01/01/2018,W.P. Labuan,Services,7.623,2018
-growth_yoy,01/01/2018,W.P. Labuan,Import Duties,-19.969,2018
+growth_yoy,01/01/2018,Kuala Lumpur,Overall GDP,6.879,2018
+growth_yoy,01/01/2018,Kuala Lumpur,Agriculture,,2018
+growth_yoy,01/01/2018,Kuala Lumpur,Mining & Quarrying,0.071,2018
+growth_yoy,01/01/2018,Kuala Lumpur,Manufacturing,-0.052,2018
+growth_yoy,01/01/2018,Kuala Lumpur,Construction,6.338,2018
+growth_yoy,01/01/2018,Kuala Lumpur,Services,7.368,2018
+growth_yoy,01/01/2018,Kuala Lumpur,Import Duties,-3.657,2018
+growth_yoy,01/01/2018,Labuan,Overall GDP,6.703,2018
+growth_yoy,01/01/2018,Labuan,Agriculture,5.8,2018
+growth_yoy,01/01/2018,Labuan,Mining & Quarrying,,2018
+growth_yoy,01/01/2018,Labuan,Manufacturing,5.337,2018
+growth_yoy,01/01/2018,Labuan,Construction,14.949,2018
+growth_yoy,01/01/2018,Labuan,Services,7.623,2018
+growth_yoy,01/01/2018,Labuan,Import Duties,-19.969,2018
 growth_yoy,01/01/2019,Johor,Overall GDP,2.787,2019
 growth_yoy,01/01/2019,Johor,Agriculture,0.965,2019
 growth_yoy,01/01/2019,Johor,Mining & Quarrying,14.263,2019
@@ -1350,20 +1350,20 @@ growth_yoy,01/01/2019,Terengganu,Manufacturing,0.289,2019
 growth_yoy,01/01/2019,Terengganu,Construction,0.37,2019
 growth_yoy,01/01/2019,Terengganu,Services,5.6,2019
 growth_yoy,01/01/2019,Terengganu,Import Duties,-75.112,2019
-growth_yoy,01/01/2019,W.P. Kuala Lumpur,Overall GDP,6.097,2019
-growth_yoy,01/01/2019,W.P. Kuala Lumpur,Agriculture,,2019
-growth_yoy,01/01/2019,W.P. Kuala Lumpur,Mining & Quarrying,4.744,2019
-growth_yoy,01/01/2019,W.P. Kuala Lumpur,Manufacturing,4.286,2019
-growth_yoy,01/01/2019,W.P. Kuala Lumpur,Construction,5.867,2019
-growth_yoy,01/01/2019,W.P. Kuala Lumpur,Services,6.129,2019
-growth_yoy,01/01/2019,W.P. Kuala Lumpur,Import Duties,8.59,2019
-growth_yoy,01/01/2019,W.P. Labuan,Overall GDP,5.222,2019
-growth_yoy,01/01/2019,W.P. Labuan,Agriculture,6.085,2019
-growth_yoy,01/01/2019,W.P. Labuan,Mining & Quarrying,,2019
-growth_yoy,01/01/2019,W.P. Labuan,Manufacturing,1.391,2019
-growth_yoy,01/01/2019,W.P. Labuan,Construction,13.533,2019
-growth_yoy,01/01/2019,W.P. Labuan,Services,7.606,2019
-growth_yoy,01/01/2019,W.P. Labuan,Import Duties,-73.211,2019
+growth_yoy,01/01/2019,Kuala Lumpur,Overall GDP,6.097,2019
+growth_yoy,01/01/2019,Kuala Lumpur,Agriculture,,2019
+growth_yoy,01/01/2019,Kuala Lumpur,Mining & Quarrying,4.744,2019
+growth_yoy,01/01/2019,Kuala Lumpur,Manufacturing,4.286,2019
+growth_yoy,01/01/2019,Kuala Lumpur,Construction,5.867,2019
+growth_yoy,01/01/2019,Kuala Lumpur,Services,6.129,2019
+growth_yoy,01/01/2019,Kuala Lumpur,Import Duties,8.59,2019
+growth_yoy,01/01/2019,Labuan,Overall GDP,5.222,2019
+growth_yoy,01/01/2019,Labuan,Agriculture,6.085,2019
+growth_yoy,01/01/2019,Labuan,Mining & Quarrying,,2019
+growth_yoy,01/01/2019,Labuan,Manufacturing,1.391,2019
+growth_yoy,01/01/2019,Labuan,Construction,13.533,2019
+growth_yoy,01/01/2019,Labuan,Services,7.606,2019
+growth_yoy,01/01/2019,Labuan,Import Duties,-73.211,2019
 growth_yoy,01/01/2020,Johor,Overall GDP,-4.584,2020
 growth_yoy,01/01/2020,Johor,Agriculture,2.764,2020
 growth_yoy,01/01/2020,Johor,Mining & Quarrying,-19.08,2020
@@ -1455,20 +1455,20 @@ growth_yoy,01/01/2020,Terengganu,Manufacturing,-9.407,2020
 growth_yoy,01/01/2020,Terengganu,Construction,-7.292,2020
 growth_yoy,01/01/2020,Terengganu,Services,-3.059,2020
 growth_yoy,01/01/2020,Terengganu,Import Duties,92.504,2020
-growth_yoy,01/01/2020,W.P. Kuala Lumpur,Overall GDP,-6.992,2020
-growth_yoy,01/01/2020,W.P. Kuala Lumpur,Agriculture,,2020
-growth_yoy,01/01/2020,W.P. Kuala Lumpur,Mining & Quarrying,-9.411,2020
-growth_yoy,01/01/2020,W.P. Kuala Lumpur,Manufacturing,-6.302,2020
-growth_yoy,01/01/2020,W.P. Kuala Lumpur,Construction,-26.425,2020
-growth_yoy,01/01/2020,W.P. Kuala Lumpur,Services,-5.419,2020
-growth_yoy,01/01/2020,W.P. Kuala Lumpur,Import Duties,1.63,2020
-growth_yoy,01/01/2020,W.P. Labuan,Overall GDP,-0.13,2020
-growth_yoy,01/01/2020,W.P. Labuan,Agriculture,-13.6,2020
-growth_yoy,01/01/2020,W.P. Labuan,Mining & Quarrying,,2020
-growth_yoy,01/01/2020,W.P. Labuan,Manufacturing,-1.167,2020
-growth_yoy,01/01/2020,W.P. Labuan,Construction,-8.237,2020
-growth_yoy,01/01/2020,W.P. Labuan,Services,0.215,2020
-growth_yoy,01/01/2020,W.P. Labuan,Import Duties,83.238,2020
+growth_yoy,01/01/2020,Kuala Lumpur,Overall GDP,-6.992,2020
+growth_yoy,01/01/2020,Kuala Lumpur,Agriculture,,2020
+growth_yoy,01/01/2020,Kuala Lumpur,Mining & Quarrying,-9.411,2020
+growth_yoy,01/01/2020,Kuala Lumpur,Manufacturing,-6.302,2020
+growth_yoy,01/01/2020,Kuala Lumpur,Construction,-26.425,2020
+growth_yoy,01/01/2020,Kuala Lumpur,Services,-5.419,2020
+growth_yoy,01/01/2020,Kuala Lumpur,Import Duties,1.63,2020
+growth_yoy,01/01/2020,Labuan,Overall GDP,-0.13,2020
+growth_yoy,01/01/2020,Labuan,Agriculture,-13.6,2020
+growth_yoy,01/01/2020,Labuan,Mining & Quarrying,,2020
+growth_yoy,01/01/2020,Labuan,Manufacturing,-1.167,2020
+growth_yoy,01/01/2020,Labuan,Construction,-8.237,2020
+growth_yoy,01/01/2020,Labuan,Services,0.215,2020
+growth_yoy,01/01/2020,Labuan,Import Duties,83.238,2020
 growth_yoy,01/01/2021,Johor,Overall GDP,2.475,2021
 growth_yoy,01/01/2021,Johor,Agriculture,0.154,2021
 growth_yoy,01/01/2021,Johor,Mining & Quarrying,-10.744,2021
@@ -1560,20 +1560,20 @@ growth_yoy,01/01/2021,Terengganu,Manufacturing,9.464,2021
 growth_yoy,01/01/2021,Terengganu,Construction,2.337,2021
 growth_yoy,01/01/2021,Terengganu,Services,1.439,2021
 growth_yoy,01/01/2021,Terengganu,Import Duties,-47.864,2021
-growth_yoy,01/01/2021,W.P. Kuala Lumpur,Overall GDP,1.121,2021
-growth_yoy,01/01/2021,W.P. Kuala Lumpur,Agriculture,,2021
-growth_yoy,01/01/2021,W.P. Kuala Lumpur,Mining & Quarrying,-2.92,2021
-growth_yoy,01/01/2021,W.P. Kuala Lumpur,Manufacturing,4.264,2021
-growth_yoy,01/01/2021,W.P. Kuala Lumpur,Construction,-11.943,2021
-growth_yoy,01/01/2021,W.P. Kuala Lumpur,Services,1.943,2021
-growth_yoy,01/01/2021,W.P. Kuala Lumpur,Import Duties,1.187,2021
-growth_yoy,01/01/2021,W.P. Labuan,Overall GDP,0.477,2021
-growth_yoy,01/01/2021,W.P. Labuan,Agriculture,1.302,2021
-growth_yoy,01/01/2021,W.P. Labuan,Mining & Quarrying,,2021
-growth_yoy,01/01/2021,W.P. Labuan,Manufacturing,-1.008,2021
-growth_yoy,01/01/2021,W.P. Labuan,Construction,-11.864,2021
-growth_yoy,01/01/2021,W.P. Labuan,Services,1.461,2021
-growth_yoy,01/01/2021,W.P. Labuan,Import Duties,-31.931,2021
+growth_yoy,01/01/2021,Kuala Lumpur,Overall GDP,1.121,2021
+growth_yoy,01/01/2021,Kuala Lumpur,Agriculture,,2021
+growth_yoy,01/01/2021,Kuala Lumpur,Mining & Quarrying,-2.92,2021
+growth_yoy,01/01/2021,Kuala Lumpur,Manufacturing,4.264,2021
+growth_yoy,01/01/2021,Kuala Lumpur,Construction,-11.943,2021
+growth_yoy,01/01/2021,Kuala Lumpur,Services,1.943,2021
+growth_yoy,01/01/2021,Kuala Lumpur,Import Duties,1.187,2021
+growth_yoy,01/01/2021,Labuan,Overall GDP,0.477,2021
+growth_yoy,01/01/2021,Labuan,Agriculture,1.302,2021
+growth_yoy,01/01/2021,Labuan,Mining & Quarrying,,2021
+growth_yoy,01/01/2021,Labuan,Manufacturing,-1.008,2021
+growth_yoy,01/01/2021,Labuan,Construction,-11.864,2021
+growth_yoy,01/01/2021,Labuan,Services,1.461,2021
+growth_yoy,01/01/2021,Labuan,Import Duties,-31.931,2021
 growth_yoy,01/01/2022,Johor,Overall GDP,8.478,2022
 growth_yoy,01/01/2022,Johor,Agriculture,3.081,2022
 growth_yoy,01/01/2022,Johor,Mining & Quarrying,10.524,2022
@@ -1665,20 +1665,20 @@ growth_yoy,01/01/2022,Terengganu,Manufacturing,8.296,2022
 growth_yoy,01/01/2022,Terengganu,Construction,3.425,2022
 growth_yoy,01/01/2022,Terengganu,Services,5.952,2022
 growth_yoy,01/01/2022,Terengganu,Import Duties,-48.072,2022
-growth_yoy,01/01/2022,W.P. Kuala Lumpur,Overall GDP,9.384,2022
-growth_yoy,01/01/2022,W.P. Kuala Lumpur,Agriculture,,2022
-growth_yoy,01/01/2022,W.P. Kuala Lumpur,Mining & Quarrying,10.087,2022
-growth_yoy,01/01/2022,W.P. Kuala Lumpur,Manufacturing,5.34,2022
-growth_yoy,01/01/2022,W.P. Kuala Lumpur,Construction,2.057,2022
-growth_yoy,01/01/2022,W.P. Kuala Lumpur,Services,10.963,2022
-growth_yoy,01/01/2022,W.P. Kuala Lumpur,Import Duties,-43.136,2022
-growth_yoy,01/01/2022,W.P. Labuan,Overall GDP,4.09,2022
-growth_yoy,01/01/2022,W.P. Labuan,Agriculture,4.724,2022
-growth_yoy,01/01/2022,W.P. Labuan,Mining & Quarrying,,2022
-growth_yoy,01/01/2022,W.P. Labuan,Manufacturing,1.7,2022
-growth_yoy,01/01/2022,W.P. Labuan,Construction,3.252,2022
-growth_yoy,01/01/2022,W.P. Labuan,Services,4.751,2022
-growth_yoy,01/01/2022,W.P. Labuan,Import Duties,-13.38,2022
+growth_yoy,01/01/2022,Kuala Lumpur,Overall GDP,9.384,2022
+growth_yoy,01/01/2022,Kuala Lumpur,Agriculture,,2022
+growth_yoy,01/01/2022,Kuala Lumpur,Mining & Quarrying,10.087,2022
+growth_yoy,01/01/2022,Kuala Lumpur,Manufacturing,5.34,2022
+growth_yoy,01/01/2022,Kuala Lumpur,Construction,2.057,2022
+growth_yoy,01/01/2022,Kuala Lumpur,Services,10.963,2022
+growth_yoy,01/01/2022,Kuala Lumpur,Import Duties,-43.136,2022
+growth_yoy,01/01/2022,Labuan,Overall GDP,4.09,2022
+growth_yoy,01/01/2022,Labuan,Agriculture,4.724,2022
+growth_yoy,01/01/2022,Labuan,Mining & Quarrying,,2022
+growth_yoy,01/01/2022,Labuan,Manufacturing,1.7,2022
+growth_yoy,01/01/2022,Labuan,Construction,3.252,2022
+growth_yoy,01/01/2022,Labuan,Services,4.751,2022
+growth_yoy,01/01/2022,Labuan,Import Duties,-13.38,2022
 growth_yoy,01/01/2023,Johor,Overall GDP,4.099,2023
 growth_yoy,01/01/2023,Johor,Agriculture,-1.135,2023
 growth_yoy,01/01/2023,Johor,Mining & Quarrying,6.545,2023
@@ -1770,20 +1770,20 @@ growth_yoy,01/01/2023,Terengganu,Manufacturing,0.159,2023
 growth_yoy,01/01/2023,Terengganu,Construction,1.593,2023
 growth_yoy,01/01/2023,Terengganu,Services,3.073,2023
 growth_yoy,01/01/2023,Terengganu,Import Duties,77.215,2023
-growth_yoy,01/01/2023,W.P. Kuala Lumpur,Overall GDP,3.652,2023
-growth_yoy,01/01/2023,W.P. Kuala Lumpur,Agriculture,,2023
-growth_yoy,01/01/2023,W.P. Kuala Lumpur,Mining & Quarrying,3.304,2023
-growth_yoy,01/01/2023,W.P. Kuala Lumpur,Manufacturing,1.829,2023
-growth_yoy,01/01/2023,W.P. Kuala Lumpur,Construction,-8.93,2023
-growth_yoy,01/01/2023,W.P. Kuala Lumpur,Services,4.874,2023
-growth_yoy,01/01/2023,W.P. Kuala Lumpur,Import Duties,-43.826,2023
-growth_yoy,01/01/2023,W.P. Labuan,Overall GDP,1.918,2023
-growth_yoy,01/01/2023,W.P. Labuan,Agriculture,3.2,2023
-growth_yoy,01/01/2023,W.P. Labuan,Mining & Quarrying,,2023
-growth_yoy,01/01/2023,W.P. Labuan,Manufacturing,0.41,2023
-growth_yoy,01/01/2023,W.P. Labuan,Construction,1.751,2023
-growth_yoy,01/01/2023,W.P. Labuan,Services,2.155,2023
-growth_yoy,01/01/2023,W.P. Labuan,Import Duties,15.095,2023
+growth_yoy,01/01/2023,Kuala Lumpur,Overall GDP,3.652,2023
+growth_yoy,01/01/2023,Kuala Lumpur,Agriculture,,2023
+growth_yoy,01/01/2023,Kuala Lumpur,Mining & Quarrying,3.304,2023
+growth_yoy,01/01/2023,Kuala Lumpur,Manufacturing,1.829,2023
+growth_yoy,01/01/2023,Kuala Lumpur,Construction,-8.93,2023
+growth_yoy,01/01/2023,Kuala Lumpur,Services,4.874,2023
+growth_yoy,01/01/2023,Kuala Lumpur,Import Duties,-43.826,2023
+growth_yoy,01/01/2023,Labuan,Overall GDP,1.918,2023
+growth_yoy,01/01/2023,Labuan,Agriculture,3.2,2023
+growth_yoy,01/01/2023,Labuan,Mining & Quarrying,,2023
+growth_yoy,01/01/2023,Labuan,Manufacturing,0.41,2023
+growth_yoy,01/01/2023,Labuan,Construction,1.751,2023
+growth_yoy,01/01/2023,Labuan,Services,2.155,2023
+growth_yoy,01/01/2023,Labuan,Import Duties,15.095,2023
 abs,01/01/2015,Supra,Overall GDP,51419.75,2015
 abs,01/01/2015,Supra,Agriculture,0,2015
 abs,01/01/2015,Supra,Mining & Quarrying,51419.75,2015
