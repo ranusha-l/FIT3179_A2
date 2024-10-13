@@ -1,0 +1,86 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "GDP per Capita by State",
+  "width": 800,
+  "height": 400,
+  "projection": {"type": "mercator"},
+  "params": [
+    {
+      "name": "selectedYear",
+      "value": 2020,
+      "bind": {
+        "input": "select",
+        "options": [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+        "name": "Select Year: "
+      }
+    },
+    {
+      "name": "selectedSector",
+      "value": "Overall GDP",
+      "bind": {
+        "input": "select",
+        "options": ["Overall GDP", "Mining & Quarrying", "Construction", "Import Duties", "Agriculture", "Services", "Manufacturing"],
+        "name": "Select Sector: "
+      }
+    }
+  ],
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/ranusha-l/FIT3179_A2/refs/heads/main/gdp_state_cleaned.csv",
+        "format": {"type": "csv"}
+      },
+      "transform": [
+        {
+          "lookup": "state",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/ranusha-l/FIT3179_A2/refs/heads/main/population_state_cleaned.csv",
+              "format": {"type": "csv"}
+            },
+            "key": "state",
+            "fields": ["population"]
+          }
+        },
+        {"filter": "datum.year == selectedYear"},
+        {"filter": "datum.ethnicity == 'overall'"},
+        {"filter": "datum.series == 'abs'"},
+        {"filter": "datum.sex == 'both'"},
+        {"filter": "datum.age == 'overall'"},
+        {
+          "lookup": "state",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/ranusha-l/Data-Viz-testing/refs/heads/main/ne_10m_admin_1_states_provinces.topojson",
+              "format": {"type": "topojson", "feature": "ne_10m_admin_1_states_provinces"}
+            },
+            "key": "properties.name"
+          },
+          "as": "geo"
+        },
+        {"filter": "datum.year == selectedYear"},
+        {"filter": "datum.sector == selectedSector"},
+        {
+          "calculate": "datum.value / datum.population",
+          "as": "gdp_per_capita"
+        }
+      ],
+      "mark": {"type": "geoshape", "stroke": "gray", "strokeWidth": 1},
+      "encoding": {
+        "shape": {"field": "geo", "type": "geojson"},
+        "color": {
+          "field": "gdp_per_capita",
+          "type": "quantitative",
+          "scale": {"type": "sqrt", "scheme": "yellowgreenblue"},
+          "title": "GDP per Capita"
+        },
+        "tooltip": [
+          {"field": "state", "type": "nominal", "title": "State"},
+          {"field": "gdp_per_capita", "type": "quantitative", "title": "GDP per Capita"},
+          {"field": "year", "type": "quantitative", "title": "Year"},
+          {"field": "sector", "type": "nominal", "title": "Sector"}
+        ]
+      }
+    }
+  ]
+}
