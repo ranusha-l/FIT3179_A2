@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GDP by State Visualization</title>
+  <title>GDP Growth by State</title>
   <!-- Include Vega and Vega-Lite Libraries -->
   <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
@@ -14,19 +14,68 @@
 </head>
 <body>
   <!-- Container to hold the map visualization -->
-  <h1>GDP by State in Malaysia</h1>
-  <div class="center-div" id="map"></div>
+  <h1>GDP Growth by State</h1>
+
+
+  <div class="container">
+    <div class="chart" id="map"></div>
+    <div class="text">
+      <p>Hover over the map to see the GDP growth of each state.</p>
+    </div>
+  </div>
 
   <!-- Container to hold the line chart   -->
-  <h2>GDP Over Time by Sector</h2>
-  <div id="line_chart"></div>
+  <div class="div-class" id="line_chart"></div>
 
   <!-- Container to hold the bar chart   -->
-  <h2>GDP by State</h2>
-  <div id="bar_chart"></div>
+  <div class="div-class" id="bar_chart"></div>
 
   <!-- Container to hold the pie chart   -->
   <h2>GDP by Sector</h2>
-  <div id="bubble_plot"></div>
+  <div class="div_class" id="pie_chart"></div>
 </body>
 </html>
+
+<style>
+  .container {
+    display: flex;
+    flex-direction:  column;
+    align-items: center; /* Align items vertically if needed */
+    justify-content: center; /* Align items horizontally if needed */
+
+  }
+
+  .chart {
+    width: 70%; /* Adjust the size of the chart div */
+     /* For demonstration, replace with your chart */
+  }
+
+  .text {
+    width: 30%; /* Adjust the size of the text section */
+    padding-left: 20px; /* Add space between chart and text */
+   margin-bottom: 150px; /* Increases the gap between divs */
+  }
+  .div-class {
+    align-self: center;
+    align-items: center;
+    align-content: center;
+    margin-bottom: 150px; /* Increases the gap between divs */
+  }
+
+  .center-div {
+    width: 50%; /* Set the width of the div */
+    margin: 0 auto; /* This centers the div horizontally */
+    margin-bottom: 150px; /* Increases the gap between divs */
+    padding: 30;
+  }
+
+  h1 {
+    text-align: center; /* Centers the text */
+    margin-bottom: 100px;
+  }
+
+  .right-text{
+    text-align: right; /* Aligns the text to the right */
+  }
+
+</style>

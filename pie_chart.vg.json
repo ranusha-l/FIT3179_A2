@@ -1,0 +1,46 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "GDP by Sector for Each State (Excluding Overall GDP)",
+    "width": 800,
+    "height": 400,
+    "params": [
+        {
+            "name": "selectedState",
+            "value": "Kuala Lumpur",
+            "bind": {
+                "input": "select",
+                "options": ["Johor", "Kedah", "Kelantan", "Melaka", "Negeri Sembilan", "Pahang", "Perak", "Perlis", "Pulau Pinang", "Sabah", "Sarawak", "Selangor", "Terengganu", "Kuala Lumpur"],
+                "name": "Select State: "
+            }
+        },
+        {
+            "name": "selectedYear",
+            "value": 2023,
+            "bind": {
+                "input": "select",
+                "options": [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+                "name": "Select Year: "
+            }
+        }
+    ],
+    "data": {
+      "url": "https://raw.githubusercontent.com/ranusha-l/FIT3179_A2/refs/heads/main/gdp_state_cleaned.csv",
+      "format": {"type": "csv"}
+    },
+    "transform": [
+        {"filter": "datum.state == selectedState"},
+        {"filter": "datum.sector != 'Overall GDP'" },
+        {"filter": "datum.year == selectedYear"},
+        {"filter": "datum.series == 'abs'"}
+    ],
+    "mark": {"type": "arc", "tooltip": true},
+    "encoding": {
+        "theta": {"field": "value", "type": "quantitative", "title": "GDP"},
+        "color": {"field": "sector", "type": "nominal", "title": "Sector", "scale": {"range": ["#2596be", "#ff7f0e", "#2ca02c", "#EAD93D", "#9467bd", "#8c564b"]}},
+        "tooltip": [
+            {"field": "sector", "type": "nominal", "title": "Sector"},
+            {"field": "value", "type": "quantitative", "title": "GDP"}
+        ]
+    }
+
+}

@@ -1,16 +1,16 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "GDP by State",
-    "width": 800,
-    "height": 400,
+    "title": "GDP Growth Year on Year by State",
+    "width": 900,
+    "height": 500,
     "projection": {"type": "mercator"},
     "params": [
       {
         "name": "selectedYear",
-        "value": 2020,
+        "value": 2023,
         "bind": {
           "input": "select",
-          "options": [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+          "options": [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
           "name": "Select Year: "
         }
       },
@@ -27,7 +27,7 @@
     "layer": [
       {
         "data": {
-          "url": "https://raw.githubusercontent.com/ranusha-l/Data-Viz-testing/refs/heads/main/gdp_state_real_supply_cleaned.csv",
+          "url": "https://raw.githubusercontent.com/ranusha-l/FIT3179_A2/refs/heads/main/gdp_state_cleaned.csv",
           "format": {"type": "csv"}
         },
         "transform": [
@@ -43,7 +43,8 @@
             "as": "geo"
           },
           {"filter": "datum.year == selectedYear"},
-          {"filter": "datum.sector == selectedSector"}
+          {"filter": "datum.sector == selectedSector"},
+          {"filter": "datum.series == 'growth_yoy'"}
         ],
         "mark": {"type": "geoshape", "stroke": "gray", "strokeWidth": 1},
         "encoding": {
@@ -51,23 +52,16 @@
           "color": {
             "field": "value",
             "type": "quantitative",
-            "scale": {"type": "sqrt", "scheme": "yellowgreenblue"},
+            "scale": {"type": "sqrt", "scheme": "brownbluegreen", "domainMid": 0},
             "title": "GDP"
           },
           "tooltip": [
             {"field": "state", "type": "nominal", "title": "State"},
-            {"field": "value", "type": "quantitative", "title": "GDP Value"},
+            {"field": "value", "type": "quantitative", "title": "GDP Growth"},
             {"field": "year", "type": "quantitative", "title": "Year"},
             {"field": "sector", "type": "nominal", "title": "Sector"}
           ]
         }
-      },
-      {
-        "data": {
-          "url": "https://raw.githubusercontent.com/ranusha-l/FIT3179_A2/refs/heads/main/ne_110m_ocean.json",
-          "format": {"type": "topojson", "feature": "oceans"}
-        },
-        "mark": {"type": "geoshape", "fill": "skyblue"}
       }
     ]
   }

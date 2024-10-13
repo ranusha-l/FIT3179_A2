@@ -1,21 +1,11 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "GDP by State Over Time for Selected Sector",
+    "title": "GDP Growth by State Over Time",
     "width": 800,
     "height": 400,
-    "data": {
-      "url": "https://raw.githubusercontent.com/ranusha-l/Data-Viz-testing/refs/heads/main/gdp_state_real_supply_cleaned.csv",
-      "format": {"type": "csv"}
-    },
-    "transform": [
+    "params": [
       {
-        "filter": {"selection": "sector_select"}
-      }
-    ],
-    "selection": {
-      "sector_select": {
-        "type": "single",
-        "fields": ["sector"],
+        "name": "sector",
         "value": "Overall GDP",
         "bind": {
           "input": "select",
@@ -23,17 +13,31 @@
           "name": "Select Sector: "
         }
       }
+    ],
+    "data": {
+      "url": "https://raw.githubusercontent.com/ranusha-l/FIT3179_A2/refs/heads/main/gdp_state_cleaned.csv",
+      "format": {"type": "csv"}
     },
-    "mark": {"type": "line", "point": true},
-    "encoding": {
-      "x": {"field": "year", "type": "ordinal", "title": "Year"},
-      "y": {"field": "value", "type": "quantitative", "title": "GDP"},
-      "color": {"field": "state", "type": "nominal", "title": "State"},
-      "tooltip": [
-        {"field": "state", "type": "nominal", "title": "State"},
-        {"field": "year", "type": "ordinal", "title": "Year"},
-        {"field": "value", "type": "quantitative", "title": "GDP"}
+    "transform": [
+      {"filter": "datum.sector == sector"},
+      {"filter": "datum.series == 'growth_yoy'"}
+    ],
+    "layer": [
+      {
+        "mark": {"type": "line", "point": true},
+        "encoding": {
+        "x": {"field": "year", "type": "ordinal", "title": "Year"},
+        "y": {"field": "value", "type": "quantitative", "title": "GDP"},
+        "color": {"field": "state", "type": "nominal", "title": "State"},
+        "tooltip": [
+          {"field": "state", "type": "nominal", "title": "State"},
+          {"field": "year", "type": "ordinal", "title": "Year"},
+          {"field": "value", "type": "quantitative", "title": "GDP"}
       ]
-    }
+    }}
+  
+  ]
+    
+    
   }
   
