@@ -23,7 +23,17 @@
     ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc
   </p>
 
-
+  <!-- <select id="yearSelect">
+    <option value="2015">2015</option>
+    <option value="2016">2016</option>
+    <option value="2017">2017</option>
+    <option value="2018">2018</option>
+    <option value="2019">2019</option>
+    <option value="2020" selected>2020</option>
+    <option value="2021">2021</option>
+    <option value="2022">2022</option>
+    <option value="2023">2023</option>
+</select> -->
 
   <h2>Map Title</h2>
   <div class="text">
@@ -53,7 +63,16 @@
     <p>pie description</p>
   </div>
   <div class="div-class" id="pie_chart"></div>
+  <div class="center-div">
+    
   </div>
+  <p class="source-p">
+    <b>Source:</b>
+    <a href="https://data.gov.my/data-catalogue/gdp_state_real_supply" target="_blank">Malaysia's official open data portal</a>
+  <p class="source-p">Changes to Data:
+         Added Year column to the dataset</p>
+  <p class="source-p">Retrieved on 11th October 2024</p>
+  </p>
 </body>
 </html>
 
@@ -71,7 +90,7 @@
     align-items: center; /* Align items vertically if needed */
     justify-content: center; /* Align items horizontally if needed */
     margin-top: 70px;
-    margin-bottom: 150px;
+    margin-bottom: 60px;
   }
 
   .chart {
@@ -88,7 +107,7 @@
     align-self: center;
     align-items: center;
     align-content: center;
-    margin-bottom: 150px; /* Increases the gap between divs */
+    margin-bottom: 60px; /* Increases the gap between divs */
   }
 
   .center-div {
@@ -100,7 +119,20 @@
 
   h1 {
     text-align: center; /* Centers the text */
-    margin-bottom: 100px;
+    margin-bottom: 30px;
+  }
+
+  p {
+    text-align: justify; /* Justifies the text */
+    margin-bottom: 10px;
+    width: 80%; /* Adjust the width of the text */
+  }
+
+  .source-p {
+    text-align: left; /* Centers the text */
+    margin-top: 0px;
+    width: 100%; /* Adjust the width of the text */
+    font-size: small;
   }
 
 
