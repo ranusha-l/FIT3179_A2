@@ -3,18 +3,31 @@
     "title": "GDP by Sector for Each State (Excluding Overall GDP)",
     "width": 800,
     "height": 400,
+    "params": [
+        {
+            "name": "selectedYear",
+            "value": 2023,
+            "bind": {
+                "input": "select",
+                "options": [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+                "name": "Select Year: "
+            }
+        }
+
+    ],
     "data": {
       "url": "https://raw.githubusercontent.com/ranusha-l/FIT3179_A2/refs/heads/main/gdp_state_cleaned.csv",
       "format": {"type": "csv"}
     },
     "transform": [
       {"filter": "datum.sector != 'Overall GDP'" },
-      {"filter": "datum.series == 'growth_yoy'"}
+      {"filter": "datum.series == 'growth_yoy'"},
+      {"filter": "datum.year == selectedYear"}
     ],
     "mark": "bar",
     "encoding": {
       "x": {"field": "state", "type": "nominal", "title": "State", "sort": "-y"},
-      "y": {"field": "value", "type": "quantitative", "title": "GDP", "scale": {"domain": [-550,550]}},
+      "y": {"field": "value", "type": "quantitative", "title": "GDP"},
       "color": {"field": "sector", "type": "nominal", "title": "Sector", "scale": {"range": ["#2596be", "#ff7f0e", "#2ca02c", "#EAD93D", "#9467bd", "#8c564b"]}},
       "tooltip": [
         {"field": "sector", "type": "nominal", "title": "Sector"},

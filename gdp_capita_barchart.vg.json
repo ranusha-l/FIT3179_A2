@@ -1,0 +1,25 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "GDP by Sector for Each State (Excluding Overall GDP)",
+    "width": 800,
+    "height": 400,
+    "data": {
+      "url": "https://raw.githubusercontent.com/ranusha-l/FIT3179_A2/refs/heads/main/gdp_state_cleaned.csv",
+      "format": {"type": "csv"}
+    },
+    "transform": [
+      {"filter": "datum.sector != 'Overall GDP'" },
+      {"filter": "datum.series == 'growth_yoy'"}
+    ],
+    "mark": "bar",
+    "encoding": {
+      "x": {"field": "state", "type": "nominal", "title": "State", "sort": "-y"},
+      "y": {"field": "value", "type": "quantitative", "title": "GDP", "scale": {"domain": [-550,550]}},
+      "color": {"field": "sector", "type": "nominal", "title": "Sector", "scale": {"range": ["#2596be", "#ff7f0e", "#2ca02c", "#EAD93D", "#9467bd", "#8c564b"]}},
+      "tooltip": [
+        {"field": "sector", "type": "nominal", "title": "Sector"},
+        {"field": "value", "type": "quantitative", "title": "GDP"}
+      ]
+    }
+  }
+  

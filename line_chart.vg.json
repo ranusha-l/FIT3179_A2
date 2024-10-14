@@ -12,7 +12,16 @@
           "options": ["Overall GDP", "Mining & Quarrying", "Construction", "Import Duties", "Agriculture", "Services", "Manufacturing"],
           "name": "Select Sector: "
         }
-      }
+      },
+      {
+        "name": "selectedState",
+        "value": "Kuala Lumpur",
+        "bind": {
+            "input": "select",
+            "options": ["Johor", "Kedah", "Kelantan", "Melaka", "Negeri Sembilan", "Pahang", "Perak", "Perlis", "Pulau Pinang", "Sabah", "Sarawak", "Selangor", "Terengganu", "Kuala Lumpur", "Supra"],
+            "name": "Select State: "
+        }
+    }
     ],
     "data": {
       "url": "https://raw.githubusercontent.com/ranusha-l/FIT3179_A2/refs/heads/main/gdp_state_cleaned.csv",
@@ -20,21 +29,37 @@
     },
     "transform": [
       {"filter": "datum.sector == sector"},
-      {"filter": "datum.series == 'growth_yoy'"}
+      {"filter": "datum.series == 'growth_yoy'"},
+      {"filter": "datum.state == selectedState"}
     ],
     "layer": [
       {
         "mark": {"type": "line", "point": true},
         "encoding": {
-        "x": {"field": "year", "type": "ordinal", "title": "Year"},
+        "x": {"field": "year", "type": "quantitative", "title": "Year", "scale": {"domain": [2015, 2023] }},
         "y": {"field": "value", "type": "quantitative", "title": "GDP"},
         "color": {"field": "state", "type": "nominal", "title": "State"},
         "tooltip": [
           {"field": "state", "type": "nominal", "title": "State"},
-          {"field": "year", "type": "ordinal", "title": "Year"},
+          {"field": "year", "type": "quantitative", "title": "Year"},
           {"field": "value", "type": "quantitative", "title": "GDP"}
       ]
-    }}
+    }},
+    {
+      "mark": {"type": "rule", "color": "darkgray"},
+      "encoding": {
+        "x": {"datum": 2019, "type": "quantitative"}
+      }
+    },
+    {
+      "mark": {"type": "text", "color": "darkgray", "fontSize": 14},
+      "encoding": {
+        "x": {"datum": 2019, "type": "quantitative"},
+        "y": {"value": 10},
+        "text": {"value": "COVID-19 Pandemic"}
+      }
+    }
+    
   
   ]
     

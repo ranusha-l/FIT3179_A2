@@ -6,7 +6,7 @@
     "params": [
         {
             "name": "selectedState",
-            "value": "Kuala Lumpur",
+            "value": "Sarawak",
             "bind": {
                 "input": "select",
                 "options": ["Johor", "Kedah", "Kelantan", "Melaka", "Negeri Sembilan", "Pahang", "Perak", "Perlis", "Pulau Pinang", "Sabah", "Sarawak", "Selangor", "Terengganu", "Kuala Lumpur"],
