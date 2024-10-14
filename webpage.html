@@ -15,7 +15,7 @@
 <body>
   <!-- Container to hold the map visualization -->
   <div class="container-full">
-  <h1>GDP Growth by State</h1>
+  <h1>Gross Domestic Product Growth in Malaysia (2016 - 2023)</h1>
   <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc
     ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc
@@ -66,13 +66,16 @@
   <div class="center-div">
     
   </div>
-  <p class="source-p">
+  <div class="source-container">
+  <p>
     <b>Source:</b>
     <a href="https://data.gov.my/data-catalogue/gdp_state_real_supply" target="_blank">Malaysia's official open data portal</a>
-  <p class="source-p">Changes to Data:
-         Added Year column to the dataset</p>
-  <p class="source-p">Retrieved on 11th October 2024</p>
+    <p>Changes to Data: <br>
+      Added Year column to the dataset<br>
+      Retrieved on 11th October 2024<br>
+      Created by: Ranusha Liyanage 33570892</p>
   </p>
+  </div>
 </body>
 </html>
 
@@ -82,6 +85,17 @@
     flex-direction:  column;
     align-items: center; /* Align items vertically if needed */
     justify-content: center; /* Align items horizontally if needed */
+  }
+
+  .source-container{
+    display: flex;
+    flex-direction: column;
+    align-self:left;
+    align-items: left; /* Align items vertically if needed */
+    justify-content: left; /* Align items horizontally if needed */
+    font-size: small;
+    text-align: left;
+    width: 100%;
   }
 
   .map-container {
@@ -127,13 +141,13 @@
     margin-bottom: 10px;
     width: 80%; /* Adjust the width of the text */
   }
-
+/* 
   .source-p {
-    text-align: left; /* Centers the text */
+    text-align: left; 
     margin-top: 0px;
-    width: 100%; /* Adjust the width of the text */
+    width: 100%; 
     font-size: small;
-  }
+  } */
 
 
 </style>
