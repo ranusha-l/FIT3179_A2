@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "GDP by Sector for Each State (Excluding Overall GDP)",
+
     "width": 800,
     "height": 400,
     "params": [
@@ -9,7 +9,7 @@
             "value": 2023,
             "bind": {
                 "input": "select",
-                "options": [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+                "options": [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
                 "name": "Select Year: "
             }
         }
