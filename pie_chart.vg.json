@@ -1,17 +1,16 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "GDP by Sector for Each State (Excluding Overall GDP)",
     "width": 800,
     "height": 400,
     "params": [
         {
-            "name": "selectedState",
-            "value": "Sarawak",
-            "bind": {
-                "input": "select",
-                "options": ["Johor", "Kedah", "Kelantan", "Melaka", "Negeri Sembilan", "Pahang", "Perak", "Perlis", "Pulau Pinang", "Sabah", "Sarawak", "Selangor", "Terengganu", "Kuala Lumpur"],
-                "name": "Select State: "
-            }
+        "name": "selectedState",
+        "value": "Sarawak",
+        "bind": {
+            "input": "select",
+            "options": ["Johor", "Kedah", "Kelantan", "Melaka", "Negeri Sembilan", "Pahang", "Perak", "Perlis", "Pulau Pinang", "Sabah", "Sarawak", "Selangor", "Terengganu", "Kuala Lumpur"],
+            "name": "Select State: "
+        }
         },
         {
             "name": "selectedYear",

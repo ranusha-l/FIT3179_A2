@@ -1,6 +1,5 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "GDP Growth Year on Year by State",
     "width": 900,
     "height": 500,
     "projection": {"type": "mercator"},
@@ -13,6 +12,7 @@
           "options": [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
           "name": "Select Year: "
         }
+        
       },
       {
         "name": "selectedSector",
@@ -53,7 +53,7 @@
             "field": "value",
             "type": "quantitative",
             "scale": {"type": "sqrt", "scheme": "brownbluegreen", "domainMid": 0},
-            "title": "GDP"
+            "title": "GDP Growth (%)"
           },
           "tooltip": [
             {"field": "state", "type": "nominal", "title": "State"},

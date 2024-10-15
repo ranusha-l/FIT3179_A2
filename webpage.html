@@ -16,51 +16,43 @@
   <!-- Container to hold the map visualization -->
   <div class="container-full">
   <h1>Gross Domestic Product Growth in Malaysia (2016 - 2023)</h1>
-  <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc
-    ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc
-    ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc
-    ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc ultricies tincidunt. Nullam nec purus nec nunc
+  <p class="subhead">
+    Exploring Malaysia's Gross Domestic Product (GDP) growth with various insights and visualizations
   </p>
+  <div class="input">
+    <label for="yearSlider">Select Year: <span id="yearLabel">2023</span></label>
+    <input type="range" id="yearSlider" min="2016" max="2023" value="2023" step="1" oninput="updateYear(this.value)">
+  </div>
 
-  <!-- <select id="yearSelect">
-    <option value="2015">2015</option>
-    <option value="2016">2016</option>
-    <option value="2017">2017</option>
-    <option value="2018">2018</option>
-    <option value="2019">2019</option>
-    <option value="2020" selected>2020</option>
-    <option value="2021">2021</option>
-    <option value="2022">2022</option>
-    <option value="2023">2023</option>
-</select> -->
+  
 
-  <h2>Map Title</h2>
+
+  <h2>GDP Growth Distribution by State</h2>
   <div class="text">
-    <p>map description</p>
+    <p class="desc">The GDP growth rates for each of the regions shown on this map for the year 2023 are visualised. The various growth percentages represented by the shaded areas, which range from 0% (light shade) to 5% (dark shade), give a clear visual representation of the regional economic performance. To examine variations in GDP growth over time and between sectors.</p>
   </div>
     <div class="map-container" id="map"></div>
     
   
 
   <!-- Container to hold the line chart   -->
-  <h2>Line title</h2>
+  <h2>GDP Growth by Sector (2015-2023)</h2>
   <div class="text">
-    <p>line description</p>
+    <p>monitors the GDP growth rate in several industries from 2015 to 2023. The graph illustrates how significant occurrences, such the COVID-19 epidemic and the ensuing relaxation of lockdown regulations, have affected the economy. A separate coloured line represents each sector. The tool's capacity to pick several states raises the possibility that it can offer customised economic insights depending on geographic data. An essential tool for examining post-pandemic recovery patterns and industry-specific economic trends is this visualisation.</p>
   </div>
   <div class="div-class" id="line_chart"></div>
 
   <!-- Container to hold the bar chart   -->
-  <h2>Bar title</h2>
+  <h2>Total GDP Growth of All States</h2>
   <div class="text">
-    <p>bar description</p>
+    <p>displaying the GDP growth rates in 2023 for each state. The various colours that each bar is divided into indicate different economic sectors. States' bars differ greatly from one another, reflecting different economic situations and trends in growth. When comparing sector-specific economic outcomes across several locations, this graphic tool is especially helpful in revealing the advantages and disadvantages of each area's economy.</p>
   </div>
   <div class="div-class" id="bar_chart"></div>
 
   <!-- Container to hold the pie chart   -->
-  <h2>GDP by Sector</h2>
+  <h2>GDP Breakdown by Sector</h2>
   <div class="text">
-    <p>pie description</p>
+    <p>This shows the GDP contribution distribution of a State across the different industries. Pie charts show the leading industries and their contributions to the local economy, giving an instantaneous and understandable visual analysis of the state of the economy.</p>
   </div>
   <div class="div-class" id="pie_chart"></div>
   <div class="center-div">
@@ -103,7 +95,7 @@
     flex-direction: row;
     align-items: center; /* Align items vertically if needed */
     justify-content: center; /* Align items horizontally if needed */
-    margin-top: 70px;
+    margin-top: 20px;
     margin-bottom: 60px;
   }
 
@@ -113,8 +105,12 @@
   }
 
   .text {
-    width: 30%; /* Adjust the size of the text section */
+    width: 70%; /* Adjust the size of the text section */
     padding-left: 20px; /* Add space between chart and text */
+  }
+
+  .desc{
+    width: 100%;
   }
 
   .div-class {
@@ -131,15 +127,42 @@
     padding: 30;
   }
 
+  .subhead {
+    text-align: center; /* Centers the text */
+    margin-bottom: 30px;
+    font-size: large;
+  }
+
   h1 {
     text-align: center; /* Centers the text */
     margin-bottom: 30px;
+  }
+
+  h2 {
+    font-family: Arial, Helvetica, sans-serif;
+
   }
 
   p {
     text-align: justify; /* Justifies the text */
     margin-bottom: 10px;
     width: 80%; /* Adjust the width of the text */
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  input[type=range] {
+    width: 100%;
+  }
+
+  .input {
+    position: fixed;
+    top: 10px;
+    left: 20px;
+    background: transparent ;
+    width: 10%; /* Adjust the width of the input */
+    margin-bottom: 30px; /* Increases the gap between divs */
+    margin-top: 60px; /* Increases the gap between divs */
+    align-self: left;
+    z-index: 1000;
   }
 /* 
   .source-p {

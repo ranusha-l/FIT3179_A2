@@ -1,18 +1,9 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "GDP Growth by State Over Time",
     "width": 800,
     "height": 400,
     "params": [
-      {
-        "name": "sector",
-        "value": "Overall GDP",
-        "bind": {
-          "input": "select",
-          "options": ["Overall GDP", "Mining & Quarrying", "Construction", "Import Duties", "Agriculture", "Services", "Manufacturing"],
-          "name": "Select Sector: "
-        }
-      },
+      
       {
         "name": "selectedState",
         "value": "Kuala Lumpur",
@@ -22,13 +13,13 @@
             "name": "Select State: "
         }
     }
+
     ],
     "data": {
       "url": "https://raw.githubusercontent.com/ranusha-l/FIT3179_A2/refs/heads/main/gdp_state_cleaned.csv",
       "format": {"type": "csv"}
     },
     "transform": [
-      {"filter": "datum.sector == sector"},
       {"filter": "datum.series == 'growth_yoy'"},
       {"filter": "datum.state == selectedState"}
     ],
@@ -37,12 +28,12 @@
         "mark": {"type": "line", "point": true},
         "encoding": {
         "x": {"field": "year", "type": "quantitative", "title": "Year", "scale": {"domain": [2015, 2023] }},
-        "y": {"field": "value", "type": "quantitative", "title": "GDP"},
-        "color": {"field": "state", "type": "nominal", "title": "State"},
+        "y": {"field": "value", "type": "quantitative", "title": "GDP Growth (%)"},
+        "color": {"field": "sector", "type": "nominal", "title": "Sector", "scale": {"range": ["#2596be", "#ff7f0e", "#2ca02c", "#EAD93D", "#9467bd", "#8c564b"]}},
         "tooltip": [
           {"field": "state", "type": "nominal", "title": "State"},
           {"field": "year", "type": "quantitative", "title": "Year"},
-          {"field": "value", "type": "quantitative", "title": "GDP"}
+          {"field": "value", "type": "quantitative", "title": "GDP %"}
       ]
     }},
     {
@@ -57,6 +48,20 @@
         "x": {"datum": 2019, "type": "quantitative"},
         "y": {"value": 10},
         "text": {"value": "COVID-19 Pandemic"}
+      }
+    },
+    {
+      "mark": {"type": "rule", "color": "darkgray"},
+      "encoding": {
+        "x": {"datum": 2020, "type": "quantitative"}
+      }
+    },
+    {
+      "mark": {"type": "text", "color": "darkgray", "fontSize": 14},
+      "encoding": {
+        "x": {"datum": 2020, "type": "quantitative"},
+        "y": {"value": 380},
+        "text": {"value": "Lockdown End"}
       }
     }
     

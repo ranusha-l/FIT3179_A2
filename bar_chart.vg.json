@@ -27,7 +27,7 @@
     "mark": "bar",
     "encoding": {
       "x": {"field": "state", "type": "nominal", "title": "State", "sort": "-y"},
-      "y": {"field": "value", "type": "quantitative", "title": "GDP"},
+      "y": {"field": "value", "type": "quantitative", "title": "GDP Growth (%)"},
       "color": {"field": "sector", "type": "nominal", "title": "Sector", "scale": {"range": ["#2596be", "#ff7f0e", "#2ca02c", "#EAD93D", "#9467bd", "#8c564b"]}},
       "tooltip": [
         {"field": "sector", "type": "nominal", "title": "Sector"},
